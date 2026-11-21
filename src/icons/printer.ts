@@ -6,4 +6,4 @@ export const Printer = /* @__PURE__ */ createIcon("printer", [
   ["path", { d: "M7 17L5 17C3.08 17 2 15.92 2 14L2 11C2 9.08 3.08 8 5 8L19 8C20.92 8 22 9.08 22 11L22 14C22 15.92 20.92 17 19 17L17 17" }],
   ["path", { d: "M7 14L17 14L17 19C17 20.28 16.28 21 15 21L9 21C7.72 21 7 20.28 7 19L7 14Z" }],
   ["circle", { cx: 18, cy: 11, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[1],"line":[0,2],"cut":[3]})
+])

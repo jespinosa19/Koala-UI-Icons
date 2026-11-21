@@ -7,4 +7,4 @@ export const Scales = /* @__PURE__ */ createIcon("scales", [
   ["path", { d: "M5 8.5L19 5.5" }],
   ["path", { d: "M5 8.5L2 15.5C2 17 3.5 18 5 18S8 17 8 15.5Z" }],
   ["path", { d: "M19 5.5L16 12.5C16 14 17.5 15 19 15S22 14 22 12.5Z" }],
-], undefined, {"solid":[3,4]})
+])

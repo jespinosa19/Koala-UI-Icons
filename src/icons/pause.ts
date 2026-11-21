@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Pause = /* @__PURE__ */ createIcon("pause", [
   ["path", { d: "M7 4C8.28 4 9 4.72 9 6V18C9 19.28 8.28 20 7 20C5.72 20 5 19.28 5 18V6C5 4.72 5.72 4 7 4Z" }],
   ["path", { d: "M17 4C18.28 4 19 4.72 19 6V18C19 19.28 18.28 20 17 20C15.72 20 15 19.28 15 18V6C15 4.72 15.72 4 17 4Z" }],
-], undefined, {"solid":[0,1]})
+])

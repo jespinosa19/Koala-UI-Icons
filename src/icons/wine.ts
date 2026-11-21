@@ -6,4 +6,4 @@ export const Wine = /* @__PURE__ */ createIcon("wine", [
   ["path", { d: "M9 9h6" }],
   ["path", { d: "M12 14v7" }],
   ["path", { d: "M8 21h8" }],
-], undefined, {"solid":[0],"cut":[1],"line":[2,3]})
+])

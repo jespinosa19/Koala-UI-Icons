@@ -7,4 +7,4 @@ export const GridNine = /* @__PURE__ */ createIcon("grid-nine", [
   ["path", { d: "M15 5v14" }],
   ["path", { d: "M3 10h18" }],
   ["path", { d: "M3 14h18" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4]})
+])

@@ -13,4 +13,4 @@ export const SpeakerSlash = /* @__PURE__ */ createIcon("speaker-slash", [
   ["path", { d: "M9 9L9 17" }],
   ["path", { d: "M19.5 10C20.45 11.06 21.14 12.3 20.5 13.5" }],
   ["path", { d: "M5 5L18 18" }],
-], {"solid":[0,1]})
+])

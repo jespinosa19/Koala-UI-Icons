@@ -7,4 +7,4 @@ export const MoonStars = /* @__PURE__ */ createIcon("moon-stars", [
   ["path", { d: "M17 8h4" }],
   ["path", { d: "M15 2.5v3" }],
   ["path", { d: "M13.5 4h3" }],
-], undefined, {"solid":[0]})
+])

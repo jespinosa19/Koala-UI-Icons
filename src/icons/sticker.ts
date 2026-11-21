@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Sticker = /* @__PURE__ */ createIcon("sticker", [
   ["path", { d: "M21 13V7C21 4.44 19.56 3 17 3H7C4.44 3 3 4.44 3 7V17C3 19.56 4.44 21 7 21H13C15.5 20.2 20.2 15.5 21 13Z" }],
   ["path", { d: "M21 13h-4a4 4 0 0 0-4 4v4" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

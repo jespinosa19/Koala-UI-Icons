@@ -7,4 +7,4 @@ export const Note = /* @__PURE__ */ createIcon("note", [
   ["path", { d: "M8 8h8" }],
   ["path", { d: "M8 12h6" }],
   ["path", { d: "M8 16h3" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4]})
+])

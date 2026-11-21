@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const SquareSplitHorizontal = /* @__PURE__ */ createIcon("square-split-horizontal", [
   ["path", { d: "M8 4H16C18.56 4 20 5.44 20 8V16C20 18.56 18.56 20 16 20H8C5.44 20 4 18.56 4 16V8C4 5.44 5.44 4 8 4Z" }],
   ["path", { d: "M12 4v16" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

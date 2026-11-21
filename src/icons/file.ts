@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const File = /* @__PURE__ */ createIcon("file", [
   ["path", { d: "M8 2L13 2C13.64 2 14.18 2.18 14.5 2.5L19.5 7.5C19.82 7.82 20 8.36 20 9L20 18C20 20.56 18.56 22 16 22L8 22C5.44 22 4 20.56 4 18L4 6C4 3.44 5.44 2 8 2Z" }],
   ["path", { d: "M14 2v4a2 2 0 0 0 2 2h4" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

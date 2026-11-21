@@ -6,4 +6,4 @@ export const Devices = /* @__PURE__ */ createIcon("devices", [
   ["path", { d: "M17 8H18C19.92 8 21 9.08 21 11V17C21 18.92 19.92 20 18 20H17C15.08 20 14 18.92 14 17V11C14 9.08 15.08 8 17 8Z" }],
   ["path", { d: "M16.5 12h2" }],
   ["path", { d: "M7 20h4" }],
-], undefined, {"solid":[0,1],"cut":[2]})
+])

@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Drop = /* @__PURE__ */ createIcon("drop", [
   ["path", { d: "M12 2.5C9.5 4.5 4.5 8.9 4.5 14a7.5 7.5 0 0 0 15 0c0-5.1-5-9.5-7.5-11.5Z" }],
   ["path", { d: "M8 15c0-1.6.5-3.1 1.5-4.5" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

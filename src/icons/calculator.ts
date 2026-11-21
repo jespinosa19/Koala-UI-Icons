@@ -17,4 +17,4 @@ export const Calculator = /* @__PURE__ */ createIcon("calculator", [
   ["circle", { cx: 15, cy: 14, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 9, cy: 18, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 15, cy: 18, r: 1.25, fill: "currentColor", stroke: "none" }],
-], {"solid":[0],"hole":[1],"cut":[2,3,4,5,6,7]})
+])

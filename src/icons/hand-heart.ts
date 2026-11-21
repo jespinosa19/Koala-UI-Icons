@@ -6,4 +6,4 @@ export const HandHeart = /* @__PURE__ */ createIcon("hand-heart", [
   ["rect", { x: 2, y: 12, width: 4, height: 9, rx: 1.5 }],
   ["path", { d: "M6 14 9 11h5a2 2 0 0 1 0 4h-3" }],
   ["path", { d: "M14 15l5.5-1.5C21.2 13 22 15.6 20.5 16.5L16.5 19H6" }],
-], undefined, {"solid":[0,1]})
+])

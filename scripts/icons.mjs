@@ -51,9 +51,6 @@ const GRID_MODES = ["radial"] // meta.json `grid`: SPEC §3 exemption from the 0
 // right) is the default; `side` (top right) is for figures the corner would cut, like a person.
 export const SLOTS = { corner: { x: 18, y: 18 }, side: { x: 19, y: 9 } }
 export const SLOT_CLEAR = 6.5
-// SPEC §13 fill roles: solid = filled silhouette, line = stays a stroke, cut = stroke knocked out,
-// hole = area knocked out. Elements not listed are lines.
-export const FILL_ROLES = ["solid", "line", "cut", "hole"]
 export const MODIFIERS = {
   plus: [["path", { d: "M18 15v6" }], ["path", { d: "M15 18h6" }]],
   minus: [["path", { d: "M15 18h6" }]],
@@ -497,24 +494,6 @@ export function lintIcon(name, source, meta, { small = false } = {}) {
       errors.push(`meta.json: grid must be ${GRID_MODES.map((g) => `"${g}"`).join(" or ")} (got ${JSON.stringify(entry.grid)})`)
     if (entry.modifier != null && !Object.hasOwn(MODIFIERS, entry.modifier))
       errors.push(`meta.json: modifier must be one of ${Object.keys(MODIFIERS).join(", ")} (got ${JSON.stringify(entry.modifier)})`)
-    if (entry.fill != null && !small) {
-      // SPEC §13: the fill weight is derived from the outline master; each role lists element indexes.
-      const roles = entry.fill
-      const seen = new Set()
-      if (typeof roles !== "object" || Array.isArray(roles)) errors.push("meta.json: fill must be an object of roles")
-      else
-        for (const [role, list] of Object.entries(roles)) {
-          if (!FILL_ROLES.includes(role)) errors.push(`meta.json: fill role must be one of ${FILL_ROLES.join(", ")} (got "${role}")`)
-          if (!Array.isArray(list)) continue
-          for (const i of list) {
-            if (!Number.isInteger(i) || i < 0 || i >= svg.children.length)
-              errors.push(`meta.json: fill.${role} index ${i} is not an element of the master`)
-            else if (seen.has(i)) errors.push(`meta.json: element ${i} has two fill roles`)
-            seen.add(i)
-          }
-        }
-      if (!roles?.solid?.length) errors.push("meta.json: fill needs at least one solid element")
-    }
     if (entry.slot != null && (entry.modifier == null || !Object.hasOwn(SLOTS, entry.slot)))
       errors.push(`meta.json: slot must be one of ${Object.keys(SLOTS).join(", ")}, beside a modifier (got ${JSON.stringify(entry.slot)})`)
   }
@@ -737,13 +716,10 @@ export function generate(icons, meta) {
     const list = (node) => `[\n  ${node.join(",\n  ")},\n]`
     const node = toNode(icon.source)
     // SPEC §12: the small master rides along; without one the large drawing serves both sizes.
-    // SPEC §13: the fill roles ride along as the fourth argument.
-    const roles = meta[icon.name]?.fill
-    const small = icon.small != null ? `, ${list(toNode(icon.small))}` : roles ? ", undefined" : ""
-    const fill = roles ? `, ${JSON.stringify(roles)}` : ""
+    const small = icon.small != null ? `, ${list(toNode(icon.small))}` : ""
     const Name = pascal(icon.name)
     files[`icons/${icon.name}.ts`] =
-      `${HEADER}import { createIcon } from "../create-icon"\n\nexport const ${Name} = /* @__PURE__ */ createIcon("${icon.name}", ${list(node)}${small}${fill})\n`
+      `${HEADER}import { createIcon } from "../create-icon"\n\nexport const ${Name} = /* @__PURE__ */ createIcon("${icon.name}", ${list(node)}${small})\n`
     exports.push(`export { ${Name} } from "./icons/${icon.name}"`)
   }
   files["index.ts"] =
@@ -755,11 +731,10 @@ export function generate(icons, meta) {
     if (m.grid != null) out.grid = m.grid
     if (m.modifier != null) out.modifier = m.modifier
     if (m.slot != null) out.slot = m.slot
-    if (m.fill != null) out.fill = true
     return out
   })
   files["meta.ts"] =
-    `${HEADER}export interface IconMeta {\n  name: string\n  component: string\n  category: string\n  tags: string[]\n  phosphor?: string\n  grid?: "radial"\n  modifier?: ${Object.keys(MODIFIERS).map((k) => `"${k}"`).join(" | ")}\n  slot?: ${Object.keys(SLOTS).map((k) => `"${k}"`).join(" | ")}\n  fill?: boolean\n}\n\nexport const ICONS: IconMeta[] = ${JSON.stringify(metaOut, null, 2)}\n`
+    `${HEADER}export interface IconMeta {\n  name: string\n  component: string\n  category: string\n  tags: string[]\n  phosphor?: string\n  grid?: "radial"\n  modifier?: ${Object.keys(MODIFIERS).map((k) => `"${k}"`).join(" | ")}\n  slot?: ${Object.keys(SLOTS).map((k) => `"${k}"`).join(" | ")}\n}\n\nexport const ICONS: IconMeta[] = ${JSON.stringify(metaOut, null, 2)}\n`
   return files
 }
 

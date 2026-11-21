@@ -24,8 +24,8 @@ The goal is one hand: 500 icons that read as if one person drew them on one afte
 | Paint | `stroke="currentColor"`, `fill="none"`; no fills (except the dot, §7), no colors, no opacity **[lint]** |
 | Outlined shapes | never. Masters are live strokes so the weight stays one value |
 
-Stroke-only means a filled area is drawn as a dot (below) or not at all. The fill style
-(selected / status glyphs) is a separate set, drawn later on the same keylines.
+Stroke-only means a filled area is drawn as a dot (below) or not at all. There is one weight,
+the outline: no solid or fill version.
 
 ## 3. Pixel grid
 
@@ -129,7 +129,7 @@ is drawn as a thing, not a bare silhouette. Reach for, at most two per icon:
   where it has one (the cherry leaf).
 
 Marks that clot at 14-16 px are dropped in the small master (§12), not thinned: the shine goes
-first, then the second describing mark. In the fill weight shines and marks take the `cut` role.
+first, then the second describing mark.
 
 - **Arrows**: shaft 4 to 20, head a 45° open chevron with arms of 7 (`m13 5 7 7-7 7`). Inside a
   compound icon (sign out, download) the head shrinks to arms of 4 or 5.
@@ -221,42 +221,7 @@ has two optical sizes and picks between them by itself.
 - Size padding: the live area keeps ink about 1 px from the edge (like Lucide and Untitled UI,
   not Tabler's 2 px). More padding would make the icon smaller exactly where it is weakest.
 
-## 13. Fill weight
-
-The solid version (`weight="fill"`, Phosphor's prop name, for selected and status states) is not a
-second drawing: it is derived from the outline master, so it can never drift from it.
-
-`meta.json` gives the icon `fill` roles, each a list of element indexes of the outline master:
-
-| Role | In the solid version | Example |
-| --- | --- | --- |
-| solid | the shape filled, its outline kept | the disc of `check-circle`, the body of `bell` |
-| line | stays a stroke | the shackle of `lock`, the rings of `calendar` |
-| cut | its stroke knocked out of the solid | the check, the "i", the document's fold and lines |
-| hole | its area knocked out | the door of `house`, the hub of `gear-six` |
-
-- **Only an icon with a body gets fill roles**: a container, a disc, an object's silhouette. A
-  pure line glyph (check, X, plus, minus, arrows, carets, the three dots) has none and keeps its
-  outline under `weight="fill"`. Phosphor's "fill" for those is really another icon (the glyph
-  knocked out of a filled square); that is a separate icon here (`check-square`), never a weight.
-- **The solid version keeps the roundness**: it is drawn from the same soft geometry with the
-  same round stroke wrapped around it, so corners stay soft and every cut has round ends. Never
-  draw a separate, sharper fill shape.
-- **An open path given the solid role fills to its closing chord** (a bowl to its rim, a bell half to
-  the slash, a bow loop to the lid). Draw a part as its own path when its chord would fill the wrong
-  area (the cart's handle).
-- **A knockout that crosses a solid's edge splits it**. Allowed only when the split is the meaning
-  (an egg's crack, a film strip's frames, a slash); otherwise keep every knockout inside the solid.
-- **A dot as a knockout** takes the cut role (cut and hole paint a dot the same way).
-- Elements not listed are lines. At least one solid; every index is an element; no element has
-  two roles **[lint]**. Only the large master carries roles; small masters do not.
-- The runtime draws one `currentColor` rect through a mask (white keeps, black knocks out), with a
-  `useId` id per instance, so it renders in Server Components and many copies never collide.
-- An icon without roles keeps its outline under `weight="fill"` (arrows, carets, X, plus).
-- Every knockout must sit inside a solid shape with at least a stroke of solid around it, or the
-  cut reads as a broken edge: check it at 14 px in the lab with the Fill toggle.
-
-## 14. Slash
+## 13. Slash
 
 A crossed-out icon (`bell-slash`, `speaker-slash`, `eye-slash`) is its base icon cut by one slash,
 built the way Phosphor builds it: the slash lies **on top of** the object, so the cut is one-sided.
@@ -283,20 +248,6 @@ symmetric gap on both sides reads as a stencil.
   dropped (§4). When that would drop a part that names the object, cut a sibling base instead:
   `speaker-slash` is `speaker-low` cut, because on `speaker-high` the diagonal runs through the cone
   tip and the inner wave and leaves stubs; `speaker-low` keeps box, cone tip and wave.
-- **Fill**: lower-left pieces are solid and close along the slash; upper-right pieces are solid and
-  close along a chord parallel to it (their break line); the slash stays a line. Each piece is its
-  own element, so it closes on its own chord. Other base roles carry over (the eye's pupil stays a
-  cut). `bell-slash` is the reference:
-
-```svg
-<path d="M8.5 3C9.54 2.39 10.71 2 12 2C15.87 2 19 5.13 19 9C19 11.07 19.14 12.66 19.5 14" />
-<path d="M18 18H4.5C3.5 18 3.1 17.3 3.5 16.5C4.2 15.1 5 12.6 5 9C5 7.84 5.5 6.96 6 6" />
-<path d="M8.5 18C8.5 19.93 10.07 21.5 12 21.5C13.93 21.5 15.5 19.93 15.5 18" />
-<path d="M4 4l16 16" />
-```
-
-  The dome breaks on x − y = 5.5 (8.5,3 and 19.5,14), the rest of the body ends on the slash (6,6
-  and 18,18), the clapper is untouched; fill roles `solid: [0, 1, 2]`.
 - When the slash runs through the feature that names the object (the speaker's box-to-cone corner),
   the cut can still weaken it at 14 and 16 px. Keep the `-slash` icon for completeness, and draw the `-x`
   variant (`speaker-x`: the body untouched, a short X where the waves were) as the one to use small.

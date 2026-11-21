@@ -3,4 +3,4 @@ import { createIcon } from "../create-icon"
 
 export const Bread = /* @__PURE__ */ createIcon("bread", [
   ["path", { d: "M5 12.5V17C5 18.92 6.08 20 8 20H16C17.92 20 19 18.92 19 17V12.5C21.4 11.4 21.4 4 17 4H7C2.6 4 2.6 11.4 5 12.5Z" }],
-], undefined, {"solid":[0]})
+])

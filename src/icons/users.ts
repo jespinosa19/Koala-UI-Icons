@@ -6,4 +6,4 @@ export const Users = /* @__PURE__ */ createIcon("users", [
   ["path", { d: "M2 18.5C3.5 16 5.9 14.5 8.5 14.5S13.5 16 15 18.5" }],
   ["path", { d: "M16 14.5A4.5 4.5 0 1 0 14.5 6" }],
   ["path", { d: "M16 14.5c2.5 0 4.7 1.6 6 4" }],
-], undefined, {"solid":[0,1,2,3]})
+])

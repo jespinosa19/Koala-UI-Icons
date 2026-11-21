@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Record = /* @__PURE__ */ createIcon("record", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["circle", { cx: 12, cy: 12, r: 5 }],
-], undefined, {"solid":[1]})
+])

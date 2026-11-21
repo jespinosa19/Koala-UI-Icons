@@ -7,4 +7,4 @@ export const MouseRightClick = /* @__PURE__ */ createIcon("mouse-right-click", [
   ["path", { d: "M12 2v8" }],
   ["path", { d: "m12 6.5 4-4" }],
   ["path", { d: "m14 10 4.5-4.5" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

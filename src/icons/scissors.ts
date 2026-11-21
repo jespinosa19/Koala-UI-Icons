@@ -6,4 +6,4 @@ export const Scissors = /* @__PURE__ */ createIcon("scissors", [
   ["circle", { cx: 5.5, cy: 18, r: 2.5 }],
   ["path", { d: "M7.5 7.5 21.5 18" }],
   ["path", { d: "M7.5 16.5 21.5 6" }],
-], undefined, {"solid":[0,1]})
+])

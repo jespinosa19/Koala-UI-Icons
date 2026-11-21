@@ -6,4 +6,4 @@ export const CirclesFour = /* @__PURE__ */ createIcon("circles-four", [
   ["circle", { cx: 17, cy: 7, r: 3 }],
   ["circle", { cx: 7, cy: 17, r: 3 }],
   ["circle", { cx: 17, cy: 17, r: 3 }],
-], undefined, {"solid":[0,1,2,3]})
+])

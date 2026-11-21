@@ -19,8 +19,8 @@
   "arrows-out-cardinal": { "category": "arrows", "tags": ["move", "drag", "pan", "position"], "phosphor": "ArrowsOutCardinal" },
   "arrows-out-line-vertical": { "category": "arrows", "tags": ["resize", "height", "split", "expand"], "phosphor": "ArrowsOutLineVertical" },
   "arrows-out-simple": { "category": "arrows", "tags": ["expand", "fullscreen", "maximize", "enlarge"], "phosphor": "ArrowsOutSimple" },
-  "caret-circle-down": { "category": "arrows", "tags": ["chevron", "expand", "dropdown", "more"], "phosphor": "CaretCircleDown", "fill": { "solid": [0], "cut": [1] } },
-  "caret-circle-up-down": { "category": "arrows", "tags": ["chevron", "select", "sort", "toggle"], "phosphor": "CaretCircleUpDown", "fill": { "solid": [0], "cut": [1, 2] } },
+  "caret-circle-down": { "category": "arrows", "tags": ["chevron", "expand", "dropdown", "more"], "phosphor": "CaretCircleDown" },
+  "caret-circle-up-down": { "category": "arrows", "tags": ["chevron", "select", "sort", "toggle"], "phosphor": "CaretCircleUpDown" },
   "caret-double-down": { "category": "arrows", "tags": ["chevron", "expand all", "scroll down", "more"], "phosphor": "CaretDoubleDown" },
   "caret-up": { "category": "arrows", "tags": ["chevron", "collapse", "close", "up"], "phosphor": "CaretUp" },
   "caret-up-down": { "category": "arrows", "tags": ["chevron", "select", "sort", "combobox"], "phosphor": "CaretUpDown" },
@@ -35,8 +35,8 @@
   "trend-down": { "category": "arrows", "tags": ["decrease", "decline", "loss", "chart", "drop"], "phosphor": "TrendDown" },
   "trend-up": { "category": "arrows", "tags": ["increase", "growth", "gain", "chart", "rise"], "phosphor": "TrendUp" },
   "sort-ascending": { "category": "arrows", "tags": ["sort", "order", "list", "filter"], "phosphor": "SortAscending" },
-  "skip-back": { "category": "arrows", "tags": ["previous", "rewind", "track", "player"], "phosphor": "SkipBack", "fill": { "solid": [0] } },
-  "skip-forward": { "category": "arrows", "tags": ["next", "track", "forward", "player"], "phosphor": "SkipForward", "fill": { "solid": [0] } },
-  "play-circle": { "category": "arrows", "tags": ["play", "start", "video", "player"], "phosphor": "PlayCircle", "fill": { "solid": [0], "hole": [1] } },
-  "resize": { "category": "arrows", "tags": ["scale", "size", "crop", "transform"], "phosphor": "Resize", "fill": { "solid": [0] } }
+  "skip-back": { "category": "arrows", "tags": ["previous", "rewind", "track", "player"], "phosphor": "SkipBack" },
+  "skip-forward": { "category": "arrows", "tags": ["next", "track", "forward", "player"], "phosphor": "SkipForward" },
+  "play-circle": { "category": "arrows", "tags": ["play", "start", "video", "player"], "phosphor": "PlayCircle" },
+  "resize": { "category": "arrows", "tags": ["scale", "size", "crop", "transform"], "phosphor": "Resize" }
 }

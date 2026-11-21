@@ -7,4 +7,4 @@ export const Gift = /* @__PURE__ */ createIcon("gift", [
   ["path", { d: "M12 7v14" }],
   ["path", { d: "M12 7C11 4.5 9.5 3 8 3a2 2 0 0 0 0 4" }],
   ["path", { d: "M12 7C13 4.5 14.5 3 16 3a2 2 0 0 1 0 4" }],
-], undefined, {"solid":[0,1,3,4],"cut":[2]})
+])

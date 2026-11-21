@@ -5,4 +5,4 @@ export const ForkKnife = /* @__PURE__ */ createIcon("fork-knife", [
   ["path", { d: "M5 3v5a4 4 0 0 0 8 0V3" }],
   ["path", { d: "M9 3v18" }],
   ["path", { d: "M20 21V3c-2.5 1-4 4.5-4 10h4" }],
-], undefined, {"solid":[2]})
+])

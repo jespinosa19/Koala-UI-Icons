@@ -11,4 +11,4 @@ export const Sun = /* @__PURE__ */ createIcon("sun", [
   ["path", { d: "m18 18 1.5 1.5" }],
   ["path", { d: "m19.5 4.5-1.5 1.5" }],
   ["path", { d: "m6 18-1.5 1.5" }],
-], undefined, {"solid":[0]})
+])

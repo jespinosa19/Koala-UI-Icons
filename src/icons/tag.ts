@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Tag = /* @__PURE__ */ createIcon("tag", [
   ["path", { d: "M 7 4L10 4C11.28 4 12.54 4.54 13.5 5.5L20 12C21.28 13.28 21.28 14.72 20 16L16 20C14.72 21.28 13.28 21.28 12 20L5.5 13.5C4.54 12.54 4 11.28 4 10L4 7C4 5.08 5.08 4 7 4Z" }],
   ["circle", { cx: 8.5, cy: 8.5, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"hole":[1]})
+])

@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const RadioButton = /* @__PURE__ */ createIcon("radio-button", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["circle", { cx: 12, cy: 12, r: 4.5 }],
-], undefined, {"solid":[0],"cut":[1]})
+])

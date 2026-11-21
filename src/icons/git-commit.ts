@@ -5,4 +5,4 @@ export const GitCommit = /* @__PURE__ */ createIcon("git-commit", [
   ["circle", { cx: 12, cy: 12, r: 4.5 }],
   ["path", { d: "M2 12h5.5" }],
   ["path", { d: "M16.5 12H22" }],
-], undefined, {"solid":[0]})
+])

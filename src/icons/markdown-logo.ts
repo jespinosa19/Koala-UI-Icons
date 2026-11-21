@@ -6,4 +6,4 @@ export const MarkdownLogo = /* @__PURE__ */ createIcon("markdown-logo", [
   ["path", { d: "M6 15V9l2 3 2-3v6" }],
   ["path", { d: "M16 9v6" }],
   ["path", { d: "m13.5 12.5 2.5 2.5 2.5-2.5" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

@@ -5,4 +5,4 @@ export const HandPointing = /* @__PURE__ */ createIcon("hand-pointing", [
   ["path", { d: "M8 14.5V4a2 2 0 0 1 4 0V9.5a2 2 0 0 1 4 0V11a2 2 0 0 1 4 0V14a8 8 0 0 1-8 8C8 22 6.5 19.5 3.5 14.5C2.63 13.04 5.06 10.09 6 11.5Z" }],
   ["path", { d: "M12 9.5V12" }],
   ["path", { d: "M16 11v2" }],
-], undefined, {"solid":[0]})
+])

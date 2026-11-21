@@ -14,4 +14,4 @@ export const Cherries = /* @__PURE__ */ createIcon("cherries", [
   ["path", { d: "M8 12C8.5 8.5 10.5 5.5 14 4" }],
   ["path", { d: "M15 12C15 8.5 14.5 6 14 4" }],
   ["path", { d: "M14 4c1.5-1.5 4.5-2 6.5-.5-1.5 1.5-4.5 2-6.5.5Z" }],
-], {"solid":[0,1,4],"line":[2,3],"cut":[5]})
+])

@@ -12,4 +12,4 @@ export const FireTruck = /* @__PURE__ */ createIcon("fire-truck", [
   ["path", { d: "M4 5v4" }],
   ["path", { d: "M8 5v4" }],
   ["path", { d: "M12 5v4" }],
-], undefined, {"solid":[1,2,3],"cut":[4]})
+])

@@ -15,4 +15,4 @@ export const MicrophoneSlash = /* @__PURE__ */ createIcon("microphone-slash", [
   ["path", { d: "M19 13C19.21 12.31 19.5 11.76 19.5 11" }],
   ["path", { d: "M12 18.5V21.5" }],
   ["path", { d: "M5.5 5.5l13 13" }],
-], {"solid":[0,1]})
+])

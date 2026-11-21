@@ -7,15 +7,7 @@
       "blank",
       "new"
     ],
-    "phosphor": "File",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1
-      ]
-    }
+    "phosphor": "File"
   },
   "file-arrow-up": {
     "category": "files",
@@ -26,17 +18,7 @@
       "document",
       "import"
     ],
-    "phosphor": "FileArrowUp",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2,
-        3
-      ]
-    }
+    "phosphor": "FileArrowUp"
   },
   "file-code": {
     "category": "files",
@@ -47,17 +29,7 @@
       "developer",
       "html"
     ],
-    "phosphor": "FileCode",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2,
-        3
-      ]
-    }
+    "phosphor": "FileCode"
   },
   "file-css": {
     "category": "files",
@@ -90,17 +62,7 @@
       "document",
       "browse"
     ],
-    "phosphor": "FileMagnifyingGlass",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2,
-        3
-      ]
-    }
+    "phosphor": "FileMagnifyingGlass"
   },
   "file-plus": {
     "category": "files",
@@ -110,17 +72,7 @@
       "create",
       "document"
     ],
-    "phosphor": "FilePlus",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2,
-        3
-      ]
-    }
+    "phosphor": "FilePlus"
   },
   "file-pdf": {
     "category": "files",
@@ -186,16 +138,7 @@
       "duplicate",
       "stack"
     ],
-    "phosphor": "Files",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        2,
-        3
-      ]
-    }
+    "phosphor": "Files"
   },
   "folder-open": {
     "category": "files",
@@ -206,13 +149,7 @@
       "browse",
       "files"
     ],
-    "phosphor": "FolderOpen",
-    "fill": {
-      "solid": [
-        0,
-        1
-      ]
-    }
+    "phosphor": "FolderOpen"
   },
   "folder-lock": {
     "category": "files",
@@ -234,16 +171,7 @@
       "store",
       "backup"
     ],
-    "phosphor": "Archive",
-    "fill": {
-      "solid": [
-        0,
-        1
-      ],
-      "cut": [
-        2
-      ]
-    }
+    "phosphor": "Archive"
   },
   "tray": {
     "category": "files",
@@ -254,15 +182,7 @@
       "received",
       "box"
     ],
-    "phosphor": "Tray",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1
-      ]
-    }
+    "phosphor": "Tray"
   },
   "floppy-disk": {
     "category": "files",
@@ -273,18 +193,7 @@
       "floppy",
       "persist"
     ],
-    "phosphor": "FloppyDisk",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1
-      ],
-      "hole": [
-        2
-      ]
-    }
+    "phosphor": "FloppyDisk"
   },
   "clipboard-text": {
     "category": "files",
@@ -295,17 +204,7 @@
       "paste",
       "tasks"
     ],
-    "phosphor": "ClipboardText",
-    "fill": {
-      "solid": [
-        0,
-        1
-      ],
-      "cut": [
-        2,
-        3
-      ]
-    }
+    "phosphor": "ClipboardText"
   },
   "database": {
     "category": "files",
@@ -316,16 +215,7 @@
       "server",
       "sql"
     ],
-    "phosphor": "Database",
-    "fill": {
-      "solid": [
-        0,
-        1
-      ],
-      "cut": [
-        2
-      ]
-    }
+    "phosphor": "Database"
   },
   "cloud": {
     "category": "files",
@@ -336,12 +226,7 @@
       "online",
       "weather"
     ],
-    "phosphor": "Cloud",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Cloud"
   },
   "git-branch": {
     "category": "files",
@@ -352,14 +237,7 @@
       "fork",
       "code"
     ],
-    "phosphor": "GitBranch",
-    "fill": {
-      "solid": [
-        0,
-        1,
-        2
-      ]
-    }
+    "phosphor": "GitBranch"
   },
   "git-commit": {
     "category": "files",
@@ -370,12 +248,7 @@
       "change",
       "code"
     ],
-    "phosphor": "GitCommit",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "GitCommit"
   },
   "git-merge": {
     "category": "files",
@@ -386,14 +259,7 @@
       "combine",
       "code"
     ],
-    "phosphor": "GitMerge",
-    "fill": {
-      "solid": [
-        0,
-        1,
-        2
-      ]
-    }
+    "phosphor": "GitMerge"
   },
   "git-pull-request": {
     "category": "files",
@@ -404,14 +270,7 @@
       "version control",
       "code"
     ],
-    "phosphor": "GitPullRequest",
-    "fill": {
-      "solid": [
-        0,
-        1,
-        2
-      ]
-    }
+    "phosphor": "GitPullRequest"
   },
   "terminal-window": {
     "category": "files",
@@ -422,16 +281,7 @@
       "shell",
       "cli"
     ],
-    "phosphor": "TerminalWindow",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    "phosphor": "TerminalWindow"
   },
   "tree-structure": {
     "category": "files",
@@ -442,14 +292,7 @@
       "sitemap",
       "org chart"
     ],
-    "phosphor": "TreeStructure",
-    "fill": {
-      "solid": [
-        0,
-        1,
-        2
-      ]
-    }
+    "phosphor": "TreeStructure"
   },
   "plugs": {
     "category": "files",
@@ -460,13 +303,7 @@
       "disconnect",
       "power"
     ],
-    "phosphor": "Plugs",
-    "fill": {
-      "solid": [
-        0,
-        5
-      ]
-    }
+    "phosphor": "Plugs"
   },
   "puzzle-piece": {
     "category": "files",
@@ -477,12 +314,7 @@
       "addon",
       "integration"
     ],
-    "phosphor": "PuzzlePiece",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "PuzzlePiece"
   },
   "robot": {
     "category": "files",
@@ -493,19 +325,7 @@
       "assistant",
       "automation"
     ],
-    "phosphor": "Robot",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        2,
-        3,
-        4,
-        5,
-        6
-      ]
-    }
+    "phosphor": "Robot"
   },
   "brain": {
     "category": "files",
@@ -516,19 +336,7 @@
       "think",
       "mind"
     ],
-    "phosphor": "Brain",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2,
-        3,
-        4,
-        5
-      ]
-    }
+    "phosphor": "Brain"
   },
   "cube": {
     "category": "files",
@@ -539,16 +347,7 @@
       "object",
       "model"
     ],
-    "phosphor": "Cube",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    "phosphor": "Cube"
   },
   "package": {
     "category": "files",
@@ -559,17 +358,7 @@
       "npm",
       "delivery"
     ],
-    "phosphor": "Package",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2,
-        3
-      ]
-    }
+    "phosphor": "Package"
   },
   "stack": {
     "category": "files",
@@ -580,12 +369,7 @@
       "pile",
       "levels"
     ],
-    "phosphor": "Stack",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Stack"
   },
   "toolbox": {
     "category": "files",
@@ -596,20 +380,7 @@
       "repair",
       "utilities"
     ],
-    "phosphor": "Toolbox",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "line": [
-        1
-      ],
-      "cut": [
-        2,
-        3,
-        4
-      ]
-    }
+    "phosphor": "Toolbox"
   },
   "wrench": {
     "category": "files",
@@ -620,12 +391,7 @@
       "repair",
       "fix"
     ],
-    "phosphor": "Wrench",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Wrench"
   },
   "flask": {
     "category": "files",
@@ -636,18 +402,7 @@
       "science",
       "beta"
     ],
-    "phosphor": "Flask",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "line": [
-        1
-      ],
-      "cut": [
-        2
-      ]
-    }
+    "phosphor": "Flask"
   },
   "magnet": {
     "category": "files",
@@ -658,15 +413,6 @@
       "magnetic",
       "pull"
     ],
-    "phosphor": "Magnet",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    "phosphor": "Magnet"
   }
 }

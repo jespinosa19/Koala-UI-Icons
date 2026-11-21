@@ -11,4 +11,4 @@ export const PushPinSlash = /* @__PURE__ */ createIcon("push-pin-slash", [
   ["path", { d: "M16 16C16.06 17.3 15.29 18.71 14 20L4 10C5.29 8.71 6.7 7.94 8 8" }],
   ["path", { d: "M9 15L4.5 19.5" }],
   ["path", { d: "M6 6l12 12" }],
-], {"solid":[0,1]})
+])

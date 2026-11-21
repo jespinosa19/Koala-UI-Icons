@@ -5,4 +5,4 @@ export const Target = /* @__PURE__ */ createIcon("target", [
   ["path", { d: "M18.5 5.5A9.19 9.19 0 1 0 20.5 8.5" }],
   ["path", { d: "M15.5 8.5A5 5 0 1 0 17 12" }],
   ["path", { d: "M12 12 21 3" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

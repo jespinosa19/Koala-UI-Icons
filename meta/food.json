@@ -2,98 +2,82 @@
   "bowl-steam": {
     "category": "food",
     "tags": ["ramen", "soup", "noodles", "hot", "meal"],
-    "phosphor": "BowlSteam",
-    "fill": { "solid": [0], "line": [1, 2, 3] }
+    "phosphor": "BowlSteam"
   },
   "bowl-food": {
     "category": "food",
     "tags": ["meal", "dish", "rice", "salad", "lunch"],
-    "phosphor": "BowlFood",
-    "fill": { "solid": [0], "line": [1, 2] }
+    "phosphor": "BowlFood"
   },
   "egg": {
     "category": "food",
     "tags": ["breakfast", "protein", "easter", "oval"],
-    "phosphor": "Egg",
-    "fill": { "solid": [0], "cut": [1] }
+    "phosphor": "Egg"
   },
   "egg-crack": {
     "category": "food",
     "tags": ["broken", "hatch", "breakfast", "crack"],
-    "phosphor": "EggCrack",
-    "fill": { "solid": [0], "cut": [1] }
+    "phosphor": "EggCrack"
   },
   "fork-knife": {
     "category": "food",
     "tags": ["restaurant", "dining", "meal", "cutlery", "eat"],
-    "phosphor": "ForkKnife",
-    "fill": { "solid": [2] }
+    "phosphor": "ForkKnife"
   },
   "bread": {
     "category": "food",
     "tags": ["toast", "bakery", "loaf", "breakfast"],
-    "phosphor": "Bread",
-    "fill": { "solid": [0] }
+    "phosphor": "Bread"
   },
   "coffee": {
     "category": "food",
     "tags": ["cup", "mug", "drink", "cafe", "break"],
-    "phosphor": "Coffee",
-    "fill": { "solid": [0], "line": [1, 2, 3] }
+    "phosphor": "Coffee"
   },
   "pizza": {
     "category": "food",
     "tags": ["slice", "pepperoni", "fast food", "italian"],
-    "phosphor": "Pizza",
-    "fill": { "solid": [0], "cut": [1, 2, 3] }
+    "phosphor": "Pizza"
   },
   "hamburger": {
     "category": "food",
     "tags": ["burger", "fast food", "sandwich", "meal"],
-    "phosphor": "Hamburger",
-    "fill": { "solid": [0, 2], "line": [1] }
+    "phosphor": "Hamburger"
   },
   "carrot": {
     "category": "food",
     "tags": ["vegetable", "vegan", "healthy", "produce"],
-    "phosphor": "Carrot",
-    "fill": { "solid": [0], "line": [1, 2, 3], "cut": [4, 5] }
+    "phosphor": "Carrot"
   },
   "cake": {
     "category": "food",
     "tags": ["birthday", "dessert", "party", "celebration", "candle"],
-    "phosphor": "Cake",
-    "fill": { "solid": [0], "line": [1], "cut": [2] }
+    "phosphor": "Cake"
   },
   "wine": {
     "category": "food",
     "tags": ["glass", "drink", "alcohol", "bar"],
-    "phosphor": "Wine",
-    "fill": { "solid": [0], "cut": [1], "line": [2, 3] }
+    "phosphor": "Wine"
   },
   "ice-cream": {
     "category": "food",
     "tags": ["dessert", "cone", "gelato", "sweet", "summer"],
-    "phosphor": "IceCream",
-    "fill": { "solid": [0], "line": [1] }
+    "phosphor": "IceCream"
   },
   "cookie": {
     "category": "food",
     "tags": ["biscuit", "snack", "sweet", "cookies", "consent"],
-    "phosphor": "Cookie",
-    "fill": { "solid": [0], "cut": [1, 2, 3] }
+    "phosphor": "Cookie"
   },
   "cherries": {
     "category": "food",
     "tags": ["fruit", "cherry", "sweet", "berry"],
-    "phosphor": "Cherries",
-    "fill": { "solid": [0, 1, 4], "line": [2, 3], "cut": [5] }
+    "phosphor": "Cherries"
   },
   "fish": {
     "category": "food",
     "tags": ["seafood", "sea", "animal", "fishing"],
-    "phosphor": "Fish",
-    "fill": { "solid": [0, 1], "cut": [2, 3] }
+    "phosphor": "Fish"
   },
   "cheese": {
     "category": "food",

@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const CheckCircle = /* @__PURE__ */ createIcon("check-circle", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["path", { d: "m7.5 12 3 3 6-6" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

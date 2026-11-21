@@ -5,4 +5,4 @@ export const ShoppingBagOpen = /* @__PURE__ */ createIcon("shopping-bag-open", [
   ["path", { d: "M6 4H18C20.56 4 22 5.44 22 8V16C22 18.56 20.56 20 18 20H6C3.44 20 2 18.56 2 16V8C2 5.44 3.44 4 6 4Z" }],
   ["path", { d: "M2 9h20" }],
   ["path", { d: "M8 13a4 4 0 0 0 8 0" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

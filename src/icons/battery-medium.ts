@@ -6,4 +6,4 @@ export const BatteryMedium = /* @__PURE__ */ createIcon("battery-medium", [
   ["path", { d: "M22 9v6" }],
   ["path", { d: "M6 9v6" }],
   ["path", { d: "M10 9v6" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2,3]})
+])

@@ -6,4 +6,4 @@ export const Fish = /* @__PURE__ */ createIcon("fish", [
   ["path", { d: "M6 12L3 8.5C2.36 7.86 2 8.04 2 9L2 15C2 15.96 2.36 16.14 3 15.5L6 12Z" }],
   ["circle", { cx: 17, cy: 10.5, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["path", { d: "M12 9c.9 1.8.9 4.2 0 6" }],
-], undefined, {"solid":[0,1],"cut":[2,3]})
+])

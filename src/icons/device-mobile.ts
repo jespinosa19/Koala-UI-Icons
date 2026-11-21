@@ -5,4 +5,4 @@ export const DeviceMobile = /* @__PURE__ */ createIcon("device-mobile", [
   ["path", { d: "M10 2H14C16.56 2 18 3.44 18 6V18C18 20.56 16.56 22 14 22H10C7.44 22 6 20.56 6 18V6C6 3.44 7.44 2 10 2Z" }],
   ["path", { d: "M6 6h12" }],
   ["path", { d: "M6 18h12" }],
-], undefined, {"solid":[0]})
+])

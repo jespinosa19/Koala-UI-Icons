@@ -6,4 +6,4 @@ export const ChatCircleDots = /* @__PURE__ */ createIcon("chat-circle-dots", [
   ["circle", { cx: 8, cy: 11.5, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 12.5, cy: 11.5, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 17, cy: 11.5, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

@@ -1,6 +1,6 @@
 {
   "name": "koala-icons",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Koala Icons: a stroke icon set for React, drawn on one 24px grid by one spec.",
   "license": "MIT",
   "type": "module",

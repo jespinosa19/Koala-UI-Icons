@@ -7,4 +7,4 @@ export const Keyboard = /* @__PURE__ */ createIcon("keyboard", [
   ["circle", { cx: 6, cy: 15, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["path", { d: "M9 15h6" }],
   ["circle", { cx: 18, cy: 15, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4]})
+])

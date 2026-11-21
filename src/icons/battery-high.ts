@@ -7,4 +7,4 @@ export const BatteryHigh = /* @__PURE__ */ createIcon("battery-high", [
   ["path", { d: "M6 9v6" }],
   ["path", { d: "M10 9v6" }],
   ["path", { d: "M14 10.5v3" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2,3,4]})
+])

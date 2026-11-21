@@ -6,4 +6,4 @@ export const SealPercent = /* @__PURE__ */ createIcon("seal-percent", [
   ["path", { d: "m15.5 8.5-7 7" }],
   ["circle", { cx: 9, cy: 9, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 15, cy: 15, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

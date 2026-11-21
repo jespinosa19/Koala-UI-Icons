@@ -7,4 +7,4 @@ export const FilmStrip = /* @__PURE__ */ createIcon("film-strip", [
   ["path", { d: "M2 16h20" }],
   ["path", { d: "M8 4v4M16 4v4" }],
   ["path", { d: "M8 16v4M16 16v4" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4]})
+])

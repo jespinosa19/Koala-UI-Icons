@@ -10,4 +10,4 @@ export const Polygon = /* @__PURE__ */ createIcon("polygon", [
   ["path", { d: "M18.5 9L16 17.5" }],
   ["path", { d: "M13 18L6.5 13" }],
   ["path", { d: "M6 10L10 6" }],
-], undefined, {"solid":[0,1,2,3]})
+])

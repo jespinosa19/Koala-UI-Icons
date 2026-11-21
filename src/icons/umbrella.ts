@@ -6,4 +6,4 @@ export const Umbrella = /* @__PURE__ */ createIcon("umbrella", [
   ["path", { d: "M12 2.5C9.5 5 8 8.5 8 12" }],
   ["path", { d: "M12 2.5C14.5 5 16 8.5 16 12" }],
   ["path", { d: "M12 12v6a2.5 2.5 0 0 0 5 0" }],
-], undefined, {"solid":[0]})
+])

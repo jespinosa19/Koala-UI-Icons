@@ -6,4 +6,4 @@ export const ClipboardText = /* @__PURE__ */ createIcon("clipboard-text", [
   ["path", { d: "M10 2H14C15.28 2 16 2.72 16 4V4C16 5.28 15.28 6 14 6H10C8.72 6 8 5.28 8 4V4C8 2.72 8.72 2 10 2Z" }],
   ["path", { d: "M8 12h8" }],
   ["path", { d: "M8 16h8" }],
-], undefined, {"solid":[0,1],"cut":[2,3]})
+])

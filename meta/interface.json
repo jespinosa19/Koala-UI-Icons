@@ -8,16 +8,7 @@
       "program",
       "desktop"
     ],
-    "phosphor": "AppWindow",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    "phosphor": "AppWindow"
   },
   "browser": {
     "category": "interface",
@@ -28,15 +19,7 @@
       "website",
       "page"
     ],
-    "phosphor": "Browser",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1
-      ]
-    }
+    "phosphor": "Browser"
   },
   "sidebar": {
     "category": "interface",
@@ -47,15 +30,7 @@
       "drawer",
       "menu"
     ],
-    "phosphor": "Sidebar",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1
-      ]
-    }
+    "phosphor": "Sidebar"
   },
   "sidebar-collapse": {
     "category": "interface",
@@ -70,16 +45,7 @@
       "toggle",
       "navigation",
       "layout"
-    ],
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    ]
   },
   "sidebar-expand": {
     "category": "interface",
@@ -94,16 +60,7 @@
       "toggle",
       "navigation",
       "layout"
-    ],
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    ]
   },
   "columns": {
     "category": "interface",
@@ -114,13 +71,7 @@
       "vertical",
       "grid"
     ],
-    "phosphor": "Columns",
-    "fill": {
-      "solid": [
-        0,
-        1
-      ]
-    }
+    "phosphor": "Columns"
   },
   "rows": {
     "category": "interface",
@@ -131,13 +82,7 @@
       "horizontal",
       "stack"
     ],
-    "phosphor": "Rows",
-    "fill": {
-      "solid": [
-        0,
-        1
-      ]
-    }
+    "phosphor": "Rows"
   },
   "table": {
     "category": "interface",
@@ -148,17 +93,7 @@
       "cells",
       "rows"
     ],
-    "phosphor": "Table",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2,
-        3
-      ]
-    }
+    "phosphor": "Table"
   },
   "tabs": {
     "category": "interface",
@@ -169,12 +104,7 @@
       "switch",
       "pages"
     ],
-    "phosphor": "Tabs",
-    "fill": {
-      "solid": [
-        1
-      ]
-    }
+    "phosphor": "Tabs"
   },
   "kanban": {
     "category": "interface",
@@ -185,18 +115,7 @@
       "project",
       "workflow"
     ],
-    "phosphor": "Kanban",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2,
-        3,
-        4
-      ]
-    }
+    "phosphor": "Kanban"
   },
   "picture-in-picture": {
     "category": "interface",
@@ -207,15 +126,7 @@
       "window",
       "float"
     ],
-    "phosphor": "PictureInPicture",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1
-      ]
-    }
+    "phosphor": "PictureInPicture"
   },
   "slideshow": {
     "category": "interface",
@@ -226,12 +137,7 @@
       "gallery",
       "deck"
     ],
-    "phosphor": "Slideshow",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Slideshow"
   },
   "cards": {
     "category": "interface",
@@ -242,12 +148,7 @@
       "items",
       "layers"
     ],
-    "phosphor": "Cards",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Cards"
   },
   "grid-four": {
     "category": "interface",
@@ -258,16 +159,7 @@
       "tiles",
       "cells"
     ],
-    "phosphor": "GridFour",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    "phosphor": "GridFour"
   },
   "grid-nine": {
     "category": "interface",
@@ -278,18 +170,7 @@
       "tiles",
       "matrix"
     ],
-    "phosphor": "GridNine",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2,
-        3,
-        4
-      ]
-    }
+    "phosphor": "GridNine"
   },
   "dots-nine": {
     "category": "interface",
@@ -333,12 +214,7 @@
       "checkbox",
       "stop"
     ],
-    "phosphor": "Square",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Square"
   },
   "square-half": {
     "category": "interface",
@@ -360,15 +236,7 @@
       "compare",
       "layout"
     ],
-    "phosphor": "SquareSplitHorizontal",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1
-      ]
-    }
+    "phosphor": "SquareSplitHorizontal"
   },
   "circle": {
     "category": "interface",
@@ -379,12 +247,7 @@
       "ring",
       "radio"
     ],
-    "phosphor": "Circle",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Circle"
   },
   "circle-dashed": {
     "category": "interface",
@@ -429,15 +292,7 @@
       "community",
       "shapes"
     ],
-    "phosphor": "CirclesFour",
-    "fill": {
-      "solid": [
-        0,
-        1,
-        2,
-        3
-      ]
-    }
+    "phosphor": "CirclesFour"
   },
   "radio-button": {
     "category": "interface",
@@ -448,15 +303,7 @@
       "choice",
       "form"
     ],
-    "phosphor": "RadioButton",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1
-      ]
-    }
+    "phosphor": "RadioButton"
   },
   "frame-corners": {
     "category": "interface",
@@ -467,16 +314,7 @@
       "focus",
       "viewfinder"
     ],
-    "phosphor": "FrameCorners",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    "phosphor": "FrameCorners"
   },
   "bounding-box": {
     "category": "interface",
@@ -487,15 +325,7 @@
       "select",
       "vector"
     ],
-    "phosphor": "BoundingBox",
-    "fill": {
-      "solid": [
-        0,
-        1,
-        2,
-        3
-      ]
-    }
+    "phosphor": "BoundingBox"
   },
   "selection": {
     "category": "interface",
@@ -528,15 +358,7 @@
       "draw",
       "geometry"
     ],
-    "phosphor": "Polygon",
-    "fill": {
-      "solid": [
-        0,
-        1,
-        2,
-        3
-      ]
-    }
+    "phosphor": "Polygon"
   },
   "line-segment": {
     "category": "interface",
@@ -547,13 +369,7 @@
       "segment",
       "path"
     ],
-    "phosphor": "LineSegment",
-    "fill": {
-      "solid": [
-        0,
-        1
-      ]
-    }
+    "phosphor": "LineSegment"
   },
   "shapes": {
     "category": "interface",
@@ -564,14 +380,7 @@
       "objects",
       "draw"
     ],
-    "phosphor": "Shapes",
-    "fill": {
-      "solid": [
-        0,
-        1,
-        2
-      ]
-    }
+    "phosphor": "Shapes"
   },
   "cursor": {
     "category": "interface",
@@ -582,12 +391,7 @@
       "select",
       "click"
     ],
-    "phosphor": "Cursor",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Cursor"
   },
   "cursor-click": {
     "category": "interface",
@@ -598,12 +402,7 @@
       "tap",
       "select"
     ],
-    "phosphor": "CursorClick",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "CursorClick"
   },
   "hand": {
     "category": "interface",
@@ -614,12 +413,7 @@
       "pan",
       "gesture"
     ],
-    "phosphor": "Hand",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Hand"
   },
   "hand-grabbing": {
     "category": "interface",
@@ -630,12 +424,7 @@
       "pan",
       "hold"
     ],
-    "phosphor": "HandGrabbing",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "HandGrabbing"
   },
   "hand-pointing": {
     "category": "interface",
@@ -646,12 +435,7 @@
       "tap",
       "finger"
     ],
-    "phosphor": "HandPointing",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "HandPointing"
   },
   "mouse-right-click": {
     "category": "interface",
@@ -662,16 +446,7 @@
       "button",
       "input"
     ],
-    "phosphor": "MouseRightClick",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    "phosphor": "MouseRightClick"
   },
   "toggle-left": {
     "category": "interface",
@@ -682,15 +457,7 @@
       "setting",
       "disabled"
     ],
-    "phosphor": "ToggleLeft",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "hole": [
-        1
-      ]
-    }
+    "phosphor": "ToggleLeft"
   },
   "toggle-right": {
     "category": "interface",
@@ -701,15 +468,7 @@
       "setting",
       "enabled"
     ],
-    "phosphor": "ToggleRight",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "hole": [
-        1
-      ]
-    }
+    "phosphor": "ToggleRight"
   },
   "check-square": {
     "category": "interface",
@@ -720,15 +479,7 @@
       "selected",
       "task"
     ],
-    "phosphor": "CheckSquare",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1
-      ]
-    }
+    "phosphor": "CheckSquare"
   },
   "checks": {
     "category": "interface",
@@ -783,12 +534,7 @@
       "narrow",
       "search"
     ],
-    "phosphor": "Funnel",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Funnel"
   },
   "magnifying-glass-plus": {
     "category": "interface",

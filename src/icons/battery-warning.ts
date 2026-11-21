@@ -6,4 +6,4 @@ export const BatteryWarning = /* @__PURE__ */ createIcon("battery-warning", [
   ["path", { d: "M22 9v6" }],
   ["path", { d: "M10 9v2.5" }],
   ["circle", { cx: 10, cy: 14.5, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2,3]})
+])

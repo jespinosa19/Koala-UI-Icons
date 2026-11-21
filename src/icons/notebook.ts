@@ -6,4 +6,4 @@ export const Notebook = /* @__PURE__ */ createIcon("notebook", [
   ["path", { d: "M8 4v16" }],
   ["path", { d: "M11 10h6" }],
   ["path", { d: "M11 14h6" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

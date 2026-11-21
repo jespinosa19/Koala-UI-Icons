@@ -7,4 +7,4 @@ export const Trophy = /* @__PURE__ */ createIcon("trophy", [
   ["path", { d: "M19 6h.5a2.5 2.5 0 0 1 0 5h-.5" }],
   ["path", { d: "M12 17v3" }],
   ["path", { d: "M8 20h8" }],
-], undefined, {"solid":[0]})
+])

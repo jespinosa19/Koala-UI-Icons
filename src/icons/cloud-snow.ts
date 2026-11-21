@@ -13,4 +13,4 @@ export const CloudSnow = /* @__PURE__ */ createIcon("cloud-snow", [
   ["circle", { cx: 8, cy: 18.5, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 12, cy: 20, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 16, cy: 18.5, r: 1.25, fill: "currentColor", stroke: "none" }],
-], {"solid":[0]})
+])

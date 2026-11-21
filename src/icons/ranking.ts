@@ -7,4 +7,4 @@ export const Ranking = /* @__PURE__ */ createIcon("ranking", [
   ["path", { d: "M16 13v7" }],
   ["path", { d: "M2 20h20" }],
   ["path", { d: "M10.5 9.5 12 8.5V13" }],
-], undefined, {"solid":[0],"cut":[1,2,4]})
+])

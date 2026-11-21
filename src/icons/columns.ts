@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Columns = /* @__PURE__ */ createIcon("columns", [
   ["path", { d: "M6 4H8C9.28 4 10 4.72 10 6V18C10 19.28 9.28 20 8 20H6C4.72 20 4 19.28 4 18V6C4 4.72 4.72 4 6 4Z" }],
   ["path", { d: "M16 4H18C19.28 4 20 4.72 20 6V18C20 19.28 19.28 20 18 20H16C14.72 20 14 19.28 14 18V6C14 4.72 14.72 4 16 4Z" }],
-], undefined, {"solid":[0,1]})
+])

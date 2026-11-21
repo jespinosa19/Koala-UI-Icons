@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const PictureInPicture = /* @__PURE__ */ createIcon("picture-in-picture", [
   ["path", { d: "M6 4H18C20.56 4 22 5.44 22 8V16C22 18.56 20.56 20 18 20H6C3.44 20 2 18.56 2 16V8C2 5.44 3.44 4 6 4Z" }],
   ["path", { d: "M22 12L15 12C13.72 12 13 12.72 13 14L13 20" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

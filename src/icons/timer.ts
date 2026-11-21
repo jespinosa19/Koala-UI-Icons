@@ -5,4 +5,4 @@ export const Timer = /* @__PURE__ */ createIcon("timer", [
   ["circle", { cx: 12, cy: 13, r: 8 }],
   ["path", { d: "M10 2h4" }],
   ["path", { d: "M12 13 15 10" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2]})
+])

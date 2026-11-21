@@ -6,4 +6,4 @@ export const ShoppingCart = /* @__PURE__ */ createIcon("shopping-cart", [
   ["path", { d: "M 7 7L20 7C21.28 7 21.82 7.72 21.5 9L20.5 13C20.18 14.28 19.28 15 18 15L11 15C9.72 15 8.82 14.28 8.5 13L7 7Z" }],
   ["circle", { cx: 10.5, cy: 19.5, r: 2 }],
   ["circle", { cx: 18.5, cy: 19.5, r: 2 }],
-], undefined, {"line":[0],"solid":[1,2,3]})
+])

@@ -7,4 +7,4 @@ export const Sparkle = /* @__PURE__ */ createIcon("sparkle", [
   ["path", { d: "M13.5 5L18.5 5" }],
   ["path", { d: "M20 9L20 11" }],
   ["path", { d: "M19 10L21 10" }],
-], undefined, {"solid":[0]})
+])

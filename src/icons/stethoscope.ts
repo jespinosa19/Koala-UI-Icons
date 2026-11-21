@@ -5,4 +5,4 @@ export const Stethoscope = /* @__PURE__ */ createIcon("stethoscope", [
   ["path", { d: "M5 3H4C3.36 3 3 3.36 3 4V9A5 5 0 0 0 13 9V4C13 3.36 12.64 3 12 3H11" }],
   ["path", { d: "M8 14v2a5.5 5.5 0 0 0 11 0" }],
   ["circle", { cx: 19, cy: 13.5, r: 2.5 }],
-], undefined, {"solid":[2]})
+])

@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Key = /* @__PURE__ */ createIcon("key", [
   ["path", { d: "M9 11A6.5 6.5 0 1 1 12.5 14.5L10 17v2H7v2H3v-4Z" }],
   ["circle", { cx: 17, cy: 6.5, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

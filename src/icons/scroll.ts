@@ -7,4 +7,4 @@ export const Scroll = /* @__PURE__ */ createIcon("scroll", [
   ["path", { d: "M4 4a2 2 0 0 0-2 2c0 .6.2 1.1.5 1.5" }],
   ["path", { d: "M10 8h5" }],
   ["path", { d: "M10 12h5" }],
-], undefined, {"solid":[0,1],"cut":[3,4]})
+])

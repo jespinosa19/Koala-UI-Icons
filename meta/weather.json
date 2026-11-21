@@ -10,13 +10,7 @@
       "clouds",
       "sun"
     ],
-    "phosphor": "CloudSun",
-    "fill": {
-      "solid": [
-        0,
-        1
-      ]
-    }
+    "phosphor": "CloudSun"
   },
   "cloud-moon": {
     "category": "weather",
@@ -29,13 +23,7 @@
       "moon",
       "evening"
     ],
-    "phosphor": "CloudMoon",
-    "fill": {
-      "solid": [
-        0,
-        1
-      ]
-    }
+    "phosphor": "CloudMoon"
   },
   "cloud-rain": {
     "category": "weather",
@@ -48,12 +36,7 @@
       "wet",
       "precipitation"
     ],
-    "phosphor": "CloudRain",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "CloudRain"
   },
   "cloud-drizzle": {
     "category": "weather",
@@ -65,12 +48,7 @@
       "forecast",
       "mist",
       "precipitation"
-    ],
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    ]
   },
   "cloud-snow": {
     "category": "weather",
@@ -83,12 +61,7 @@
       "flurries",
       "cold"
     ],
-    "phosphor": "CloudSnow",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "CloudSnow"
   },
   "cloud-lightning": {
     "category": "weather",
@@ -101,12 +74,7 @@
       "forecast",
       "bolt"
     ],
-    "phosphor": "CloudLightning",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "CloudLightning"
   },
   "cloud-fog": {
     "category": "weather",
@@ -119,12 +87,7 @@
       "forecast",
       "visibility"
     ],
-    "phosphor": "CloudFog",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "CloudFog"
   },
   "umbrella": {
     "category": "weather",
@@ -137,11 +100,6 @@
       "weather",
       "cover"
     ],
-    "phosphor": "Umbrella",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Umbrella"
   }
 }

@@ -6,4 +6,4 @@ export const ChartBar = /* @__PURE__ */ createIcon("chart-bar", [
   ["path", { d: "M10 13v7" }],
   ["path", { d: "M14 9v11" }],
   ["path", { d: "M3 20h18" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

@@ -9,4 +9,4 @@ export const Confetti = /* @__PURE__ */ createIcon("confetti", [
   ["path", { d: "M14.5 8c0-1.5 1-2.5 2.5-2.5s2.5-.5 2.5-2.5" }],
   ["path", { d: "M18.5 9.5 21 8.5" }],
   ["path", { d: "m19 11.5 1.5 1.5" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

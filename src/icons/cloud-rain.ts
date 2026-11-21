@@ -5,4 +5,4 @@ export const CloudRain = /* @__PURE__ */ createIcon("cloud-rain", [
   ["path", { d: "M8.5 6A4 4 0 1 0 8 14H14A6 6 0 1 0 8 8" }],
   ["path", { d: "M11.5 14l-3 4.5" }],
   ["path", { d: "M15.5 17l-3 4.5" }],
-], undefined, {"solid":[0]})
+])

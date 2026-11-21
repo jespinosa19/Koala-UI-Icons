@@ -6,4 +6,4 @@ export const BellRinging = /* @__PURE__ */ createIcon("bell-ringing", [
   ["path", { d: "M8.5 18a3.5 3.5 0 0 0 7 0" }],
   ["path", { d: "M2 8.5C2 6.5 2.9 4.5 4.5 3" }],
   ["path", { d: "M22 8.5C22 6.5 21.1 4.5 19.5 3" }],
-], undefined, {"solid":[0,1]})
+])

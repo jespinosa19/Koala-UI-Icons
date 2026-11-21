@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Clock = /* @__PURE__ */ createIcon("clock", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["path", { d: "M12 7v5h4" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

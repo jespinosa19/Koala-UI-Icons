@@ -5,4 +5,4 @@ export const BookBookmark = /* @__PURE__ */ createIcon("book-bookmark", [
   ["path", { d: "M7.5 17L19 17L19 6C19 3.44 17.56 2 15 2L9 2C6.44 2 5 3.44 5 6L5 19.5A2.5 2.5 0 0 1 7.5 17Z" }],
   ["path", { d: "M5 19.5a2.5 2.5 0 0 0 2.5 2.5H18" }],
   ["path", { d: "M10 2v9l2.5-2 2.5 2V2" }],
-], undefined, {"solid":[0],"cut":[2]})
+])

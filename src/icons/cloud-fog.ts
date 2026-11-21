@@ -6,4 +6,4 @@ export const CloudFog = /* @__PURE__ */ createIcon("cloud-fog", [
   ["path", { d: "M5 18h6" }],
   ["path", { d: "M15 18h4" }],
   ["path", { d: "M9 22h6" }],
-], undefined, {"solid":[0]})
+])

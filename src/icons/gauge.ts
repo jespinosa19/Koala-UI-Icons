@@ -7,4 +7,4 @@ export const Gauge = /* @__PURE__ */ createIcon("gauge", [
   ["path", { d: "M2.5 13h3" }],
   ["path", { d: "M18.5 13h3" }],
   ["path", { d: "M10.5 19 16 10" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4]})
+])

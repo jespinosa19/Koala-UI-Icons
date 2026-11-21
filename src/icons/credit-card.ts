@@ -5,4 +5,4 @@ export const CreditCard = /* @__PURE__ */ createIcon("credit-card", [
   ["path", { d: "M6 5H18C20.56 5 22 6.44 22 9V15C22 17.56 20.56 19 18 19H6C3.44 19 2 17.56 2 15V9C2 6.44 3.44 5 6 5Z" }],
   ["path", { d: "M2 10h20" }],
   ["path", { d: "M6 15h3" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

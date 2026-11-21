@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const MapPin = /* @__PURE__ */ createIcon("map-pin", [
   ["path", { d: "M12 21.5c-3.5-3.2-7.5-7-7.5-11.5a7.5 7.5 0 0 1 15 0c0 4.5-4 8.3-7.5 11.5Z" }],
   ["circle", { cx: 12, cy: 10, r: 2.5 }],
-], undefined, {"solid":[0],"hole":[1]})
+])

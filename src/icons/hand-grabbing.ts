@@ -6,4 +6,4 @@ export const HandGrabbing = /* @__PURE__ */ createIcon("hand-grabbing", [
   ["path", { d: "M8 9v3" }],
   ["path", { d: "M12 7v3.5" }],
   ["path", { d: "M16 8.5v2" }],
-], undefined, {"solid":[0]})
+])

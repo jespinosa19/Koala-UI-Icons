@@ -3,4 +3,4 @@ import { createIcon } from "../create-icon"
 
 export const Moon = /* @__PURE__ */ createIcon("moon", [
   ["path", { d: "M12 2.5a9.5 9.5 0 1 0 9.5 9.5A7 7 0 0 1 12 2.5Z" }],
-], undefined, {"solid":[0]})
+])

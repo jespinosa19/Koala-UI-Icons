@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const PushPin = /* @__PURE__ */ createIcon("push-pin", [
   ["path", { d: "M9.5 8.5L14.5 3.5C15.14 2.86 15.86 2.86 16.5 3.5L20.5 7.5C21.14 8.14 21.14 8.86 20.5 9.5L15.5 14.5C16.4 16 15.8 18.2 14 20L4 10C5.8 8.2 8 7.6 9.5 8.5Z" }],
   ["path", { d: "M9 15 4.5 19.5" }],
-], undefined, {"solid":[0]})
+])

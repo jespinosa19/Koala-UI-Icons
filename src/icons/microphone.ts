@@ -5,4 +5,4 @@ export const Microphone = /* @__PURE__ */ createIcon("microphone", [
   ["path", { d: "M8 6a4 4 0 0 1 8 0v4a4 4 0 0 1-8 0Z" }],
   ["path", { d: "M4.5 11a7.5 7.5 0 0 0 15 0" }],
   ["path", { d: "M12 18.5v3" }],
-], undefined, {"solid":[0]})
+])

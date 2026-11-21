@@ -6,4 +6,4 @@ export const Newspaper = /* @__PURE__ */ createIcon("newspaper", [
   ["path", { d: "M2 8.5V17a2 2 0 0 0 2 2" }],
   ["path", { d: "M10 10h8" }],
   ["path", { d: "M10 14h8" }],
-], undefined, {"solid":[0],"cut":[2,3]})
+])

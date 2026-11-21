@@ -7,4 +7,4 @@ export const GitMerge = /* @__PURE__ */ createIcon("git-merge", [
   ["circle", { cx: 18, cy: 14, r: 3 }],
   ["path", { d: "M6 8.5v7" }],
   ["path", { d: "M6 9a5 5 0 0 0 5 5h4" }],
-], undefined, {"solid":[0,1,2]})
+])

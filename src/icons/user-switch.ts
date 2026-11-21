@@ -8,4 +8,4 @@ export const UserSwitch = /* @__PURE__ */ createIcon("user-switch", [
   ["path", { d: "m7 14.5-2.5-2.5-2.5 2.5" }],
   ["circle", { cx: 12, cy: 10.5, r: 2.5 }],
   ["path", { d: "M7.5 18c.9-3.1 2.5-5 4.5-5s3.6 1.9 4.5 5" }],
-], undefined, {"solid":[4,5]})
+])

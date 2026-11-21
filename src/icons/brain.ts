@@ -13,4 +13,4 @@ export const Brain = /* @__PURE__ */ createIcon("brain", [
   ["path", { d: "M12 7v9.5" }],
   ["path", { d: "M12 16.5a3.5 3.5 0 0 0-3.5-3.5" }],
   ["path", { d: "M12 16.5a3.5 3.5 0 0 1 3.5-3.5" }],
-], {"solid":[0],"cut":[1,2,3,4,5]})
+])

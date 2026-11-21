@@ -7,4 +7,4 @@ export const GitBranch = /* @__PURE__ */ createIcon("git-branch", [
   ["circle", { cx: 18, cy: 5.5, r: 3 }],
   ["path", { d: "M6 8.5v7" }],
   ["path", { d: "M18 8.5a4.5 4.5 0 0 1-4.5 4.5H6" }],
-], undefined, {"solid":[0,1,2]})
+])

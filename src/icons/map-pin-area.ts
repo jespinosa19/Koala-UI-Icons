@@ -5,4 +5,4 @@ export const MapPinArea = /* @__PURE__ */ createIcon("map-pin-area", [
   ["path", { d: "M12 17.5c-2.8-2.56-6-5.9-6-9.5a6 6 0 0 1 12 0c0 3.6-3.2 6.94-6 9.5Z" }],
   ["circle", { cx: 12, cy: 8, r: 2 }],
   ["path", { d: "M4 14A10 5 0 1 0 20 14" }],
-], undefined, {"solid":[0],"hole":[1]})
+])

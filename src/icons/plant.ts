@@ -8,4 +8,4 @@ export const Plant = /* @__PURE__ */ createIcon("plant", [
   ["path", { d: "M12 17L9 14" }],
   ["path", { d: "M8 13L5 10.5" }],
   ["path", { d: "M14.5 11.5L17.5 8.5" }],
-], undefined, {"solid":[0,1],"line":[2,3],"cut":[4,5]})
+])

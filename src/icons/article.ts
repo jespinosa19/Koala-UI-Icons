@@ -6,4 +6,4 @@ export const Article = /* @__PURE__ */ createIcon("article", [
   ["path", { d: "M7 8h10" }],
   ["path", { d: "M7 12h10" }],
   ["path", { d: "M7 16h10" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

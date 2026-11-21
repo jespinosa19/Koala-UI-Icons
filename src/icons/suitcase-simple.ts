@@ -5,4 +5,4 @@ export const SuitcaseSimple = /* @__PURE__ */ createIcon("suitcase-simple", [
   ["path", { d: "M7 7H17C19.56 7 21 8.44 21 11V16C21 18.56 19.56 20 17 20H7C4.44 20 3 18.56 3 16V11C3 8.44 4.44 7 7 7Z" }],
   ["path", { d: "M8 7L8 5C8 3.72 8.72 3 10 3L14 3C15.28 3 16 3.72 16 5L16 7" }],
   ["path", { d: "M3 15H21" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2]})
+])

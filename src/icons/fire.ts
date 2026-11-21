@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Fire = /* @__PURE__ */ createIcon("fire", [
   ["path", { d: "M13 2.5C15.3 4.4 19.5 8.3 19.5 13.5A7.5 7.5 0 0 1 4.5 13.5C4.5 11 5.5 8.5 7.5 6L10.5 8.5Z" }],
   ["path", { d: "M16.5 14c-.3 2-1.9 3.7-4 4" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

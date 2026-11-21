@@ -6,4 +6,4 @@ export const Package = /* @__PURE__ */ createIcon("package", [
   ["path", { d: "M4.5 7L12 11L19.5 7" }],
   ["path", { d: "M12 11L12 21" }],
   ["path", { d: "M7 4.5L16 9L16 13" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

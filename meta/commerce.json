@@ -8,17 +8,7 @@
       "buy",
       "store"
     ],
-    "phosphor": "ShoppingCart",
-    "fill": {
-      "line": [
-        0
-      ],
-      "solid": [
-        1,
-        2,
-        3
-      ]
-    }
+    "phosphor": "ShoppingCart"
   },
   "shopping-bag": {
     "category": "commerce",
@@ -29,16 +19,7 @@
       "buy",
       "store"
     ],
-    "phosphor": "ShoppingBag",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    "phosphor": "ShoppingBag"
   },
   "tag": {
     "category": "commerce",
@@ -49,15 +30,7 @@
       "discount",
       "category"
     ],
-    "phosphor": "Tag",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "hole": [
-        1
-      ]
-    }
+    "phosphor": "Tag"
   },
   "receipt": {
     "category": "commerce",
@@ -68,16 +41,7 @@
       "purchase",
       "payment"
     ],
-    "phosphor": "Receipt",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1,
-        2
-      ]
-    }
+    "phosphor": "Receipt"
   },
   "wallet": {
     "category": "commerce",
@@ -88,18 +52,7 @@
       "funds",
       "purse"
     ],
-    "phosphor": "Wallet",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "cut": [
-        1
-      ],
-      "hole": [
-        2
-      ]
-    }
+    "phosphor": "Wallet"
   },
   "gift": {
     "category": "commerce",
@@ -110,18 +63,7 @@
       "surprise",
       "birthday"
     ],
-    "phosphor": "Gift",
-    "fill": {
-      "solid": [
-        0,
-        1,
-        3,
-        4
-      ],
-      "cut": [
-        2
-      ]
-    }
+    "phosphor": "Gift"
   },
   "truck": {
     "category": "commerce",
@@ -132,17 +74,7 @@
       "vehicle",
       "logistics"
     ],
-    "phosphor": "Truck",
-    "fill": {
-      "solid": [
-        0,
-        3,
-        4
-      ],
-      "cut": [
-        2
-      ]
-    }
+    "phosphor": "Truck"
   },
   "storefront": {
     "category": "commerce",
@@ -153,16 +85,7 @@
       "retail",
       "business"
     ],
-    "phosphor": "Storefront",
-    "fill": {
-      "solid": [
-        0,
-        1
-      ],
-      "hole": [
-        2
-      ]
-    }
+    "phosphor": "Storefront"
   },
   "barcode": {
     "category": "commerce",
@@ -184,18 +107,7 @@
       "change",
       "savings"
     ],
-    "phosphor": "Coins",
-    "fill": {
-      "solid": [
-        0
-      ],
-      "line": [
-        1
-      ],
-      "cut": [
-        2
-      ]
-    }
+    "phosphor": "Coins"
   },
   "bank": {
     "category": "commerce",
@@ -206,12 +118,7 @@
       "money",
       "savings"
     ],
-    "phosphor": "Bank",
-    "fill": {
-      "solid": [
-        0
-      ]
-    }
+    "phosphor": "Bank"
   },
   "percent": {
     "category": "commerce",

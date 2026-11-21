@@ -7,4 +7,4 @@ export const Detective = /* @__PURE__ */ createIcon("detective", [
   ["circle", { cx: 7, cy: 17, r: 3 }],
   ["circle", { cx: 17, cy: 17, r: 3 }],
   ["path", { d: "M10 17h4" }],
-], undefined, {"solid":[1,2,3]})
+])

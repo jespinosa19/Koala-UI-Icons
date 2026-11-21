@@ -5,4 +5,4 @@ export const WarningOctagon = /* @__PURE__ */ createIcon("warning-octagon", [
   ["path", { d: "M9.5 2H14.5C15.46 2 16.36 2.36 17 3L21 7C21.64 7.64 22 8.54 22 9.5V14.5C22 15.46 21.64 16.36 21 17L17 21C16.36 21.64 15.46 22 14.5 22H9.5C8.54 22 7.64 21.64 7 21L3 17C2.36 16.36 2 15.46 2 14.5V9.5C2 8.54 2.36 7.64 3 7L7 3C7.64 2.36 8.54 2 9.5 2Z" }],
   ["path", { d: "M12 7.5v5" }],
   ["circle", { cx: 12, cy: 16.5, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

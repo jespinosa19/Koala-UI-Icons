@@ -7,4 +7,4 @@ export const TreeStructure = /* @__PURE__ */ createIcon("tree-structure", [
   ["path", { d: "M18 14H20C21.28 14 22 14.72 22 16V18C22 19.28 21.28 20 20 20H18C16.72 20 16 19.28 16 18V16C16 14.72 16.72 14 18 14Z" }],
   ["path", { d: "M6 12h5" }],
   ["path", { d: "M16 7h-3a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h3" }],
-], undefined, {"solid":[0,1,2]})
+])

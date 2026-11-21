@@ -8,7 +8,6 @@ export interface IconMeta {
   grid?: "radial"
   modifier?: "plus" | "minus" | "x" | "check"
   slot?: "corner" | "side"
-  fill?: boolean
 }
 
 export const ICONS: IconMeta[] = [
@@ -23,8 +22,7 @@ export const ICONS: IconMeta[] = [
       "phonebook",
       "list"
     ],
-    "phosphor": "AddressBook",
-    "fill": true
+    "phosphor": "AddressBook"
   },
   {
     "name": "airplane",
@@ -37,8 +35,7 @@ export const ICONS: IconMeta[] = [
       "trip",
       "airport"
     ],
-    "phosphor": "Airplane",
-    "fill": true
+    "phosphor": "Airplane"
   },
   {
     "name": "airplane-tilt",
@@ -51,8 +48,7 @@ export const ICONS: IconMeta[] = [
       "trip",
       "airport"
     ],
-    "phosphor": "AirplaneTilt",
-    "fill": true
+    "phosphor": "AirplaneTilt"
   },
   {
     "name": "ambulance",
@@ -65,8 +61,7 @@ export const ICONS: IconMeta[] = [
       "health",
       "vehicle"
     ],
-    "phosphor": "Ambulance",
-    "fill": true
+    "phosphor": "Ambulance"
   },
   {
     "name": "anchor",
@@ -92,8 +87,7 @@ export const ICONS: IconMeta[] = [
       "program",
       "desktop"
     ],
-    "phosphor": "AppWindow",
-    "fill": true
+    "phosphor": "AppWindow"
   },
   {
     "name": "archive",
@@ -106,8 +100,7 @@ export const ICONS: IconMeta[] = [
       "store",
       "backup"
     ],
-    "phosphor": "Archive",
-    "fill": true
+    "phosphor": "Archive"
   },
   {
     "name": "arrow-bend-up-left",
@@ -494,8 +487,7 @@ export const ICONS: IconMeta[] = [
       "content",
       "read"
     ],
-    "phosphor": "Article",
-    "fill": true
+    "phosphor": "Article"
   },
   {
     "name": "at",
@@ -539,8 +531,7 @@ export const ICONS: IconMeta[] = [
       "correct",
       "pin"
     ],
-    "phosphor": "Backspace",
-    "fill": true
+    "phosphor": "Backspace"
   },
   {
     "name": "bandaids",
@@ -553,8 +544,7 @@ export const ICONS: IconMeta[] = [
       "wound",
       "heal"
     ],
-    "phosphor": "Bandaids",
-    "fill": true
+    "phosphor": "Bandaids"
   },
   {
     "name": "bank",
@@ -567,8 +557,7 @@ export const ICONS: IconMeta[] = [
       "money",
       "savings"
     ],
-    "phosphor": "Bank",
-    "fill": true
+    "phosphor": "Bank"
   },
   {
     "name": "barbell",
@@ -581,8 +570,7 @@ export const ICONS: IconMeta[] = [
       "workout",
       "exercise"
     ],
-    "phosphor": "Barbell",
-    "fill": true
+    "phosphor": "Barbell"
   },
   {
     "name": "barcode",
@@ -608,8 +596,7 @@ export const ICONS: IconMeta[] = [
       "closed",
       "detour"
     ],
-    "phosphor": "Barricade",
-    "fill": true
+    "phosphor": "Barricade"
   },
   {
     "name": "basket",
@@ -622,8 +609,7 @@ export const ICONS: IconMeta[] = [
       "buy",
       "market"
     ],
-    "phosphor": "Basket",
-    "fill": true
+    "phosphor": "Basket"
   },
   {
     "name": "battery-full",
@@ -636,8 +622,7 @@ export const ICONS: IconMeta[] = [
       "full",
       "energy"
     ],
-    "phosphor": "BatteryFull",
-    "fill": true
+    "phosphor": "BatteryFull"
   },
   {
     "name": "battery-high",
@@ -650,8 +635,7 @@ export const ICONS: IconMeta[] = [
       "full",
       "energy"
     ],
-    "phosphor": "BatteryHigh",
-    "fill": true
+    "phosphor": "BatteryHigh"
   },
   {
     "name": "battery-low",
@@ -664,8 +648,7 @@ export const ICONS: IconMeta[] = [
       "drain",
       "energy"
     ],
-    "phosphor": "BatteryLow",
-    "fill": true
+    "phosphor": "BatteryLow"
   },
   {
     "name": "battery-medium",
@@ -678,8 +661,7 @@ export const ICONS: IconMeta[] = [
       "half",
       "energy"
     ],
-    "phosphor": "BatteryMedium",
-    "fill": true
+    "phosphor": "BatteryMedium"
   },
   {
     "name": "battery-warning",
@@ -692,8 +674,7 @@ export const ICONS: IconMeta[] = [
       "power",
       "critical"
     ],
-    "phosphor": "BatteryWarning",
-    "fill": true
+    "phosphor": "BatteryWarning"
   },
   {
     "name": "bed",
@@ -717,8 +698,7 @@ export const ICONS: IconMeta[] = [
       "alert",
       "reminder"
     ],
-    "phosphor": "Bell",
-    "fill": true
+    "phosphor": "Bell"
   },
   {
     "name": "bell-ringing",
@@ -731,8 +711,7 @@ export const ICONS: IconMeta[] = [
       "alarm",
       "reminder"
     ],
-    "phosphor": "BellRinging",
-    "fill": true
+    "phosphor": "BellRinging"
   },
   {
     "name": "bell-slash",
@@ -745,8 +724,7 @@ export const ICONS: IconMeta[] = [
       "disable",
       "quiet"
     ],
-    "phosphor": "BellSlash",
-    "fill": true
+    "phosphor": "BellSlash"
   },
   {
     "name": "bicycle",
@@ -772,8 +750,7 @@ export const ICONS: IconMeta[] = [
       "lookout",
       "watch"
     ],
-    "phosphor": "Binoculars",
-    "fill": true
+    "phosphor": "Binoculars"
   },
   {
     "name": "boat",
@@ -786,8 +763,7 @@ export const ICONS: IconMeta[] = [
       "travel",
       "sailboat"
     ],
-    "phosphor": "Boat",
-    "fill": true
+    "phosphor": "Boat"
   },
   {
     "name": "bone",
@@ -801,8 +777,7 @@ export const ICONS: IconMeta[] = [
       "chew",
       "halloween"
     ],
-    "phosphor": "Bone",
-    "fill": true
+    "phosphor": "Bone"
   },
   {
     "name": "book-bookmark",
@@ -815,8 +790,7 @@ export const ICONS: IconMeta[] = [
       "bookmark",
       "guide"
     ],
-    "phosphor": "BookBookmark",
-    "fill": true
+    "phosphor": "BookBookmark"
   },
   {
     "name": "book-open",
@@ -829,8 +803,7 @@ export const ICONS: IconMeta[] = [
       "learn",
       "library"
     ],
-    "phosphor": "BookOpen",
-    "fill": true
+    "phosphor": "BookOpen"
   },
   {
     "name": "book-open-text",
@@ -843,8 +816,7 @@ export const ICONS: IconMeta[] = [
       "guide",
       "manual"
     ],
-    "phosphor": "BookOpenText",
-    "fill": true
+    "phosphor": "BookOpenText"
   },
   {
     "name": "bookmark-simple",
@@ -857,8 +829,7 @@ export const ICONS: IconMeta[] = [
       "favorite",
       "read"
     ],
-    "phosphor": "BookmarkSimple",
-    "fill": true
+    "phosphor": "BookmarkSimple"
   },
   {
     "name": "books",
@@ -871,8 +842,7 @@ export const ICONS: IconMeta[] = [
       "docs",
       "shelf"
     ],
-    "phosphor": "Books",
-    "fill": true
+    "phosphor": "Books"
   },
   {
     "name": "bounding-box",
@@ -885,8 +855,7 @@ export const ICONS: IconMeta[] = [
       "select",
       "vector"
     ],
-    "phosphor": "BoundingBox",
-    "fill": true
+    "phosphor": "BoundingBox"
   },
   {
     "name": "bowl-food",
@@ -899,8 +868,7 @@ export const ICONS: IconMeta[] = [
       "salad",
       "lunch"
     ],
-    "phosphor": "BowlFood",
-    "fill": true
+    "phosphor": "BowlFood"
   },
   {
     "name": "bowl-steam",
@@ -913,8 +881,7 @@ export const ICONS: IconMeta[] = [
       "hot",
       "meal"
     ],
-    "phosphor": "BowlSteam",
-    "fill": true
+    "phosphor": "BowlSteam"
   },
   {
     "name": "brain",
@@ -927,8 +894,7 @@ export const ICONS: IconMeta[] = [
       "think",
       "mind"
     ],
-    "phosphor": "Brain",
-    "fill": true
+    "phosphor": "Brain"
   },
   {
     "name": "bread",
@@ -940,8 +906,7 @@ export const ICONS: IconMeta[] = [
       "loaf",
       "breakfast"
     ],
-    "phosphor": "Bread",
-    "fill": true
+    "phosphor": "Bread"
   },
   {
     "name": "briefcase",
@@ -954,8 +919,7 @@ export const ICONS: IconMeta[] = [
       "office",
       "portfolio"
     ],
-    "phosphor": "Briefcase",
-    "fill": true
+    "phosphor": "Briefcase"
   },
   {
     "name": "broadcast",
@@ -968,8 +932,7 @@ export const ICONS: IconMeta[] = [
       "transmit",
       "on air"
     ],
-    "phosphor": "Broadcast",
-    "fill": true
+    "phosphor": "Broadcast"
   },
   {
     "name": "broom",
@@ -984,8 +947,7 @@ export const ICONS: IconMeta[] = [
       "halloween",
       "witch"
     ],
-    "phosphor": "Broom",
-    "fill": true
+    "phosphor": "Broom"
   },
   {
     "name": "browser",
@@ -998,8 +960,7 @@ export const ICONS: IconMeta[] = [
       "website",
       "page"
     ],
-    "phosphor": "Browser",
-    "fill": true
+    "phosphor": "Browser"
   },
   {
     "name": "browsers",
@@ -1012,8 +973,7 @@ export const ICONS: IconMeta[] = [
       "pages",
       "multiple"
     ],
-    "phosphor": "Browsers",
-    "fill": true
+    "phosphor": "Browsers"
   },
   {
     "name": "bug",
@@ -1026,8 +986,7 @@ export const ICONS: IconMeta[] = [
       "insect",
       "defect"
     ],
-    "phosphor": "Bug",
-    "fill": true
+    "phosphor": "Bug"
   },
   {
     "name": "buildings",
@@ -1040,8 +999,7 @@ export const ICONS: IconMeta[] = [
       "enterprise",
       "headquarters"
     ],
-    "phosphor": "Buildings",
-    "fill": true
+    "phosphor": "Buildings"
   },
   {
     "name": "cactus",
@@ -1054,8 +1012,7 @@ export const ICONS: IconMeta[] = [
       "dry",
       "western"
     ],
-    "phosphor": "Cactus",
-    "fill": true
+    "phosphor": "Cactus"
   },
   {
     "name": "cake",
@@ -1068,8 +1025,7 @@ export const ICONS: IconMeta[] = [
       "celebration",
       "candle"
     ],
-    "phosphor": "Cake",
-    "fill": true
+    "phosphor": "Cake"
   },
   {
     "name": "calculator",
@@ -1082,8 +1038,7 @@ export const ICONS: IconMeta[] = [
       "compute",
       "numbers"
     ],
-    "phosphor": "Calculator",
-    "fill": true
+    "phosphor": "Calculator"
   },
   {
     "name": "calendar",
@@ -1095,8 +1050,7 @@ export const ICONS: IconMeta[] = [
       "event",
       "day"
     ],
-    "phosphor": "Calendar",
-    "fill": true
+    "phosphor": "Calendar"
   },
   {
     "name": "calendar-check",
@@ -1122,8 +1076,7 @@ export const ICONS: IconMeta[] = [
       "events",
       "agenda"
     ],
-    "phosphor": "CalendarDots",
-    "fill": true
+    "phosphor": "CalendarDots"
   },
   {
     "name": "camera",
@@ -1135,8 +1088,7 @@ export const ICONS: IconMeta[] = [
       "capture",
       "snapshot"
     ],
-    "phosphor": "Camera",
-    "fill": true
+    "phosphor": "Camera"
   },
   {
     "name": "car",
@@ -1149,8 +1101,7 @@ export const ICONS: IconMeta[] = [
       "transport",
       "ride"
     ],
-    "phosphor": "Car",
-    "fill": true
+    "phosphor": "Car"
   },
   {
     "name": "car-profile",
@@ -1163,8 +1114,7 @@ export const ICONS: IconMeta[] = [
       "transport",
       "side"
     ],
-    "phosphor": "CarProfile",
-    "fill": true
+    "phosphor": "CarProfile"
   },
   {
     "name": "cards",
@@ -1177,8 +1127,7 @@ export const ICONS: IconMeta[] = [
       "items",
       "layers"
     ],
-    "phosphor": "Cards",
-    "fill": true
+    "phosphor": "Cards"
   },
   {
     "name": "caret-circle-down",
@@ -1190,8 +1139,7 @@ export const ICONS: IconMeta[] = [
       "dropdown",
       "more"
     ],
-    "phosphor": "CaretCircleDown",
-    "fill": true
+    "phosphor": "CaretCircleDown"
   },
   {
     "name": "caret-circle-up-down",
@@ -1203,8 +1151,7 @@ export const ICONS: IconMeta[] = [
       "sort",
       "toggle"
     ],
-    "phosphor": "CaretCircleUpDown",
-    "fill": true
+    "phosphor": "CaretCircleUpDown"
   },
   {
     "name": "caret-double-down",
@@ -1299,8 +1246,7 @@ export const ICONS: IconMeta[] = [
       "healthy",
       "produce"
     ],
-    "phosphor": "Carrot",
-    "fill": true
+    "phosphor": "Carrot"
   },
   {
     "name": "castle-turret",
@@ -1313,8 +1259,7 @@ export const ICONS: IconMeta[] = [
       "security",
       "kingdom"
     ],
-    "phosphor": "CastleTurret",
-    "fill": true
+    "phosphor": "CastleTurret"
   },
   {
     "name": "cell-signal-full",
@@ -1382,8 +1327,7 @@ export const ICONS: IconMeta[] = [
       "achievement",
       "license"
     ],
-    "phosphor": "Certificate",
-    "fill": true
+    "phosphor": "Certificate"
   },
   {
     "name": "chart-bar",
@@ -1396,8 +1340,7 @@ export const ICONS: IconMeta[] = [
       "report",
       "bars"
     ],
-    "phosphor": "ChartBar",
-    "fill": true
+    "phosphor": "ChartBar"
   },
   {
     "name": "chart-donut",
@@ -1410,8 +1353,7 @@ export const ICONS: IconMeta[] = [
       "analytics",
       "share"
     ],
-    "phosphor": "ChartDonut",
-    "fill": true
+    "phosphor": "ChartDonut"
   },
   {
     "name": "chart-line",
@@ -1450,8 +1392,7 @@ export const ICONS: IconMeta[] = [
       "share",
       "analytics"
     ],
-    "phosphor": "ChartPieSlice",
-    "fill": true
+    "phosphor": "ChartPieSlice"
   },
   {
     "name": "chat-circle",
@@ -1464,8 +1405,7 @@ export const ICONS: IconMeta[] = [
       "conversation",
       "talk"
     ],
-    "phosphor": "ChatCircle",
-    "fill": true
+    "phosphor": "ChatCircle"
   },
   {
     "name": "chat-circle-dots",
@@ -1478,8 +1418,7 @@ export const ICONS: IconMeta[] = [
       "bubble",
       "reply"
     ],
-    "phosphor": "ChatCircleDots",
-    "fill": true
+    "phosphor": "ChatCircleDots"
   },
   {
     "name": "chat-circle-text",
@@ -1492,8 +1431,7 @@ export const ICONS: IconMeta[] = [
       "bubble",
       "reply"
     ],
-    "phosphor": "ChatCircleText",
-    "fill": true
+    "phosphor": "ChatCircleText"
   },
   {
     "name": "chats",
@@ -1506,8 +1444,7 @@ export const ICONS: IconMeta[] = [
       "thread",
       "chat"
     ],
-    "phosphor": "Chats",
-    "fill": true
+    "phosphor": "Chats"
   },
   {
     "name": "chats-circle",
@@ -1520,8 +1457,7 @@ export const ICONS: IconMeta[] = [
       "thread",
       "chat"
     ],
-    "phosphor": "ChatsCircle",
-    "fill": true
+    "phosphor": "ChatsCircle"
   },
   {
     "name": "check",
@@ -1545,8 +1481,7 @@ export const ICONS: IconMeta[] = [
       "complete",
       "verified"
     ],
-    "phosphor": "CheckCircle",
-    "fill": true
+    "phosphor": "CheckCircle"
   },
   {
     "name": "check-square",
@@ -1559,8 +1494,7 @@ export const ICONS: IconMeta[] = [
       "selected",
       "task"
     ],
-    "phosphor": "CheckSquare",
-    "fill": true
+    "phosphor": "CheckSquare"
   },
   {
     "name": "checks",
@@ -1600,8 +1534,7 @@ export const ICONS: IconMeta[] = [
       "sweet",
       "berry"
     ],
-    "phosphor": "Cherries",
-    "fill": true
+    "phosphor": "Cherries"
   },
   {
     "name": "circle",
@@ -1614,8 +1547,7 @@ export const ICONS: IconMeta[] = [
       "ring",
       "radio"
     ],
-    "phosphor": "Circle",
-    "fill": true
+    "phosphor": "Circle"
   },
   {
     "name": "circle-dashed",
@@ -1668,8 +1600,7 @@ export const ICONS: IconMeta[] = [
       "community",
       "shapes"
     ],
-    "phosphor": "CirclesFour",
-    "fill": true
+    "phosphor": "CirclesFour"
   },
   {
     "name": "clipboard-text",
@@ -1682,8 +1613,7 @@ export const ICONS: IconMeta[] = [
       "paste",
       "tasks"
     ],
-    "phosphor": "ClipboardText",
-    "fill": true
+    "phosphor": "ClipboardText"
   },
   {
     "name": "clock",
@@ -1695,8 +1625,7 @@ export const ICONS: IconMeta[] = [
       "recent",
       "pending"
     ],
-    "phosphor": "Clock",
-    "fill": true
+    "phosphor": "Clock"
   },
   {
     "name": "clock-counter-clockwise",
@@ -1709,8 +1638,7 @@ export const ICONS: IconMeta[] = [
       "restore",
       "back in time"
     ],
-    "phosphor": "ClockCounterClockwise",
-    "fill": true
+    "phosphor": "ClockCounterClockwise"
   },
   {
     "name": "cloud",
@@ -1723,8 +1651,7 @@ export const ICONS: IconMeta[] = [
       "online",
       "weather"
     ],
-    "phosphor": "Cloud",
-    "fill": true
+    "phosphor": "Cloud"
   },
   {
     "name": "cloud-drizzle",
@@ -1738,8 +1665,7 @@ export const ICONS: IconMeta[] = [
       "forecast",
       "mist",
       "precipitation"
-    ],
-    "fill": true
+    ]
   },
   {
     "name": "cloud-fog",
@@ -1754,8 +1680,7 @@ export const ICONS: IconMeta[] = [
       "forecast",
       "visibility"
     ],
-    "phosphor": "CloudFog",
-    "fill": true
+    "phosphor": "CloudFog"
   },
   {
     "name": "cloud-lightning",
@@ -1770,8 +1695,7 @@ export const ICONS: IconMeta[] = [
       "forecast",
       "bolt"
     ],
-    "phosphor": "CloudLightning",
-    "fill": true
+    "phosphor": "CloudLightning"
   },
   {
     "name": "cloud-moon",
@@ -1786,8 +1710,7 @@ export const ICONS: IconMeta[] = [
       "moon",
       "evening"
     ],
-    "phosphor": "CloudMoon",
-    "fill": true
+    "phosphor": "CloudMoon"
   },
   {
     "name": "cloud-rain",
@@ -1802,8 +1725,7 @@ export const ICONS: IconMeta[] = [
       "wet",
       "precipitation"
     ],
-    "phosphor": "CloudRain",
-    "fill": true
+    "phosphor": "CloudRain"
   },
   {
     "name": "cloud-snow",
@@ -1818,8 +1740,7 @@ export const ICONS: IconMeta[] = [
       "flurries",
       "cold"
     ],
-    "phosphor": "CloudSnow",
-    "fill": true
+    "phosphor": "CloudSnow"
   },
   {
     "name": "cloud-sun",
@@ -1834,8 +1755,7 @@ export const ICONS: IconMeta[] = [
       "clouds",
       "sun"
     ],
-    "phosphor": "CloudSun",
-    "fill": true
+    "phosphor": "CloudSun"
   },
   {
     "name": "code",
@@ -1874,8 +1794,7 @@ export const ICONS: IconMeta[] = [
       "cafe",
       "break"
     ],
-    "phosphor": "Coffee",
-    "fill": true
+    "phosphor": "Coffee"
   },
   {
     "name": "coins",
@@ -1888,8 +1807,7 @@ export const ICONS: IconMeta[] = [
       "change",
       "savings"
     ],
-    "phosphor": "Coins",
-    "fill": true
+    "phosphor": "Coins"
   },
   {
     "name": "columns",
@@ -1902,8 +1820,7 @@ export const ICONS: IconMeta[] = [
       "vertical",
       "grid"
     ],
-    "phosphor": "Columns",
-    "fill": true
+    "phosphor": "Columns"
   },
   {
     "name": "command",
@@ -1929,8 +1846,7 @@ export const ICONS: IconMeta[] = [
       "discover",
       "north"
     ],
-    "phosphor": "Compass",
-    "fill": true
+    "phosphor": "Compass"
   },
   {
     "name": "confetti",
@@ -1943,8 +1859,7 @@ export const ICONS: IconMeta[] = [
       "launch",
       "congrats"
     ],
-    "phosphor": "Confetti",
-    "fill": true
+    "phosphor": "Confetti"
   },
   {
     "name": "cookie",
@@ -1957,8 +1872,7 @@ export const ICONS: IconMeta[] = [
       "cookies",
       "consent"
     ],
-    "phosphor": "Cookie",
-    "fill": true
+    "phosphor": "Cookie"
   },
   {
     "name": "copy",
@@ -2005,8 +1919,7 @@ export const ICONS: IconMeta[] = [
       "billing",
       "checkout"
     ],
-    "phosphor": "CreditCard",
-    "fill": true
+    "phosphor": "CreditCard"
   },
   {
     "name": "crop",
@@ -2045,8 +1958,7 @@ export const ICONS: IconMeta[] = [
       "vip",
       "leader"
     ],
-    "phosphor": "Crown",
-    "fill": true
+    "phosphor": "Crown"
   },
   {
     "name": "cube",
@@ -2059,8 +1971,7 @@ export const ICONS: IconMeta[] = [
       "object",
       "model"
     ],
-    "phosphor": "Cube",
-    "fill": true
+    "phosphor": "Cube"
   },
   {
     "name": "currency-circle-dollar",
@@ -2073,8 +1984,7 @@ export const ICONS: IconMeta[] = [
       "coin",
       "payment"
     ],
-    "phosphor": "CurrencyCircleDollar",
-    "fill": true
+    "phosphor": "CurrencyCircleDollar"
   },
   {
     "name": "currency-dollar",
@@ -2126,8 +2036,7 @@ export const ICONS: IconMeta[] = [
       "select",
       "click"
     ],
-    "phosphor": "Cursor",
-    "fill": true
+    "phosphor": "Cursor"
   },
   {
     "name": "cursor-click",
@@ -2140,8 +2049,7 @@ export const ICONS: IconMeta[] = [
       "tap",
       "select"
     ],
-    "phosphor": "CursorClick",
-    "fill": true
+    "phosphor": "CursorClick"
   },
   {
     "name": "database",
@@ -2154,8 +2062,7 @@ export const ICONS: IconMeta[] = [
       "server",
       "sql"
     ],
-    "phosphor": "Database",
-    "fill": true
+    "phosphor": "Database"
   },
   {
     "name": "desktop",
@@ -2168,8 +2075,7 @@ export const ICONS: IconMeta[] = [
       "screen",
       "imac"
     ],
-    "phosphor": "Desktop",
-    "fill": true
+    "phosphor": "Desktop"
   },
   {
     "name": "detective",
@@ -2182,8 +2088,7 @@ export const ICONS: IconMeta[] = [
       "anonymous",
       "investigate"
     ],
-    "phosphor": "Detective",
-    "fill": true
+    "phosphor": "Detective"
   },
   {
     "name": "device-mobile",
@@ -2196,8 +2101,7 @@ export const ICONS: IconMeta[] = [
       "iphone",
       "cell"
     ],
-    "phosphor": "DeviceMobile",
-    "fill": true
+    "phosphor": "DeviceMobile"
   },
   {
     "name": "device-tablet",
@@ -2209,8 +2113,7 @@ export const ICONS: IconMeta[] = [
       "device",
       "touchscreen"
     ],
-    "phosphor": "DeviceTablet",
-    "fill": true
+    "phosphor": "DeviceTablet"
   },
   {
     "name": "devices",
@@ -2223,8 +2126,7 @@ export const ICONS: IconMeta[] = [
       "cross-platform",
       "screens"
     ],
-    "phosphor": "Devices",
-    "fill": true
+    "phosphor": "Devices"
   },
   {
     "name": "diamond",
@@ -2237,8 +2139,7 @@ export const ICONS: IconMeta[] = [
       "lozenge",
       "geometry"
     ],
-    "phosphor": "Diamond",
-    "fill": true
+    "phosphor": "Diamond"
   },
   {
     "name": "diamonds-four",
@@ -2251,8 +2152,7 @@ export const ICONS: IconMeta[] = [
       "pattern",
       "geometry"
     ],
-    "phosphor": "DiamondsFour",
-    "fill": true
+    "phosphor": "DiamondsFour"
   },
   {
     "name": "dog",
@@ -2265,8 +2165,7 @@ export const ICONS: IconMeta[] = [
       "canine",
       "friend"
     ],
-    "phosphor": "Dog",
-    "fill": true
+    "phosphor": "Dog"
   },
   {
     "name": "dots-nine",
@@ -2355,8 +2254,7 @@ export const ICONS: IconMeta[] = [
       "humidity",
       "color"
     ],
-    "phosphor": "Drop",
-    "fill": true
+    "phosphor": "Drop"
   },
   {
     "name": "egg",
@@ -2368,8 +2266,7 @@ export const ICONS: IconMeta[] = [
       "easter",
       "oval"
     ],
-    "phosphor": "Egg",
-    "fill": true
+    "phosphor": "Egg"
   },
   {
     "name": "egg-crack",
@@ -2381,8 +2278,7 @@ export const ICONS: IconMeta[] = [
       "breakfast",
       "crack"
     ],
-    "phosphor": "EggCrack",
-    "fill": true
+    "phosphor": "EggCrack"
   },
   {
     "name": "envelope-open",
@@ -2395,8 +2291,7 @@ export const ICONS: IconMeta[] = [
       "opened",
       "inbox"
     ],
-    "phosphor": "EnvelopeOpen",
-    "fill": true
+    "phosphor": "EnvelopeOpen"
   },
   {
     "name": "envelope-simple",
@@ -2408,8 +2303,7 @@ export const ICONS: IconMeta[] = [
       "message",
       "inbox"
     ],
-    "phosphor": "EnvelopeSimple",
-    "fill": true
+    "phosphor": "EnvelopeSimple"
   },
   {
     "name": "equals",
@@ -2446,8 +2340,7 @@ export const ICONS: IconMeta[] = [
       "preview",
       "watch"
     ],
-    "phosphor": "Eye",
-    "fill": true
+    "phosphor": "Eye"
   },
   {
     "name": "eye-slash",
@@ -2460,8 +2353,7 @@ export const ICONS: IconMeta[] = [
       "private",
       "password"
     ],
-    "phosphor": "EyeSlash",
-    "fill": true
+    "phosphor": "EyeSlash"
   },
   {
     "name": "eyedropper",
@@ -2474,8 +2366,7 @@ export const ICONS: IconMeta[] = [
       "design",
       "pick"
     ],
-    "phosphor": "Eyedropper",
-    "fill": true
+    "phosphor": "Eyedropper"
   },
   {
     "name": "factory",
@@ -2488,8 +2379,7 @@ export const ICONS: IconMeta[] = [
       "production",
       "building"
     ],
-    "phosphor": "Factory",
-    "fill": true
+    "phosphor": "Factory"
   },
   {
     "name": "file",
@@ -2501,8 +2391,7 @@ export const ICONS: IconMeta[] = [
       "blank",
       "new"
     ],
-    "phosphor": "File",
-    "fill": true
+    "phosphor": "File"
   },
   {
     "name": "file-arrow-up",
@@ -2515,8 +2404,7 @@ export const ICONS: IconMeta[] = [
       "document",
       "import"
     ],
-    "phosphor": "FileArrowUp",
-    "fill": true
+    "phosphor": "FileArrowUp"
   },
   {
     "name": "file-code",
@@ -2529,8 +2417,7 @@ export const ICONS: IconMeta[] = [
       "developer",
       "html"
     ],
-    "phosphor": "FileCode",
-    "fill": true
+    "phosphor": "FileCode"
   },
   {
     "name": "file-css",
@@ -2621,8 +2508,7 @@ export const ICONS: IconMeta[] = [
       "document",
       "browse"
     ],
-    "phosphor": "FileMagnifyingGlass",
-    "fill": true
+    "phosphor": "FileMagnifyingGlass"
   },
   {
     "name": "file-md",
@@ -2660,8 +2546,7 @@ export const ICONS: IconMeta[] = [
       "create",
       "document"
     ],
-    "phosphor": "FilePlus",
-    "fill": true
+    "phosphor": "FilePlus"
   },
   {
     "name": "file-png",
@@ -2738,8 +2623,7 @@ export const ICONS: IconMeta[] = [
       "text",
       "doc"
     ],
-    "phosphor": "FileText",
-    "fill": true
+    "phosphor": "FileText"
   },
   {
     "name": "file-ts",
@@ -2804,8 +2688,7 @@ export const ICONS: IconMeta[] = [
       "duplicate",
       "stack"
     ],
-    "phosphor": "Files",
-    "fill": true
+    "phosphor": "Files"
   },
   {
     "name": "film-strip",
@@ -2818,8 +2701,7 @@ export const ICONS: IconMeta[] = [
       "cinema",
       "reel"
     ],
-    "phosphor": "FilmStrip",
-    "fill": true
+    "phosphor": "FilmStrip"
   },
   {
     "name": "fingerprint",
@@ -2845,8 +2727,7 @@ export const ICONS: IconMeta[] = [
       "streak",
       "flame"
     ],
-    "phosphor": "Fire",
-    "fill": true
+    "phosphor": "Fire"
   },
   {
     "name": "fire-truck",
@@ -2859,8 +2740,7 @@ export const ICONS: IconMeta[] = [
       "firefighter",
       "vehicle"
     ],
-    "phosphor": "FireTruck",
-    "fill": true
+    "phosphor": "FireTruck"
   },
   {
     "name": "first-aid",
@@ -2873,8 +2753,7 @@ export const ICONS: IconMeta[] = [
       "cross",
       "care"
     ],
-    "phosphor": "FirstAid",
-    "fill": true
+    "phosphor": "FirstAid"
   },
   {
     "name": "first-aid-kit",
@@ -2887,8 +2766,7 @@ export const ICONS: IconMeta[] = [
       "emergency",
       "care"
     ],
-    "phosphor": "FirstAidKit",
-    "fill": true
+    "phosphor": "FirstAidKit"
   },
   {
     "name": "fish",
@@ -2900,8 +2778,7 @@ export const ICONS: IconMeta[] = [
       "animal",
       "fishing"
     ],
-    "phosphor": "Fish",
-    "fill": true
+    "phosphor": "Fish"
   },
   {
     "name": "flag",
@@ -2914,8 +2791,7 @@ export const ICONS: IconMeta[] = [
       "goal",
       "country"
     ],
-    "phosphor": "Flag",
-    "fill": true
+    "phosphor": "Flag"
   },
   {
     "name": "flag-banner",
@@ -2928,8 +2804,7 @@ export const ICONS: IconMeta[] = [
       "campaign",
       "mark"
     ],
-    "phosphor": "FlagBanner",
-    "fill": true
+    "phosphor": "FlagBanner"
   },
   {
     "name": "flask",
@@ -2942,8 +2817,7 @@ export const ICONS: IconMeta[] = [
       "science",
       "beta"
     ],
-    "phosphor": "Flask",
-    "fill": true
+    "phosphor": "Flask"
   },
   {
     "name": "floppy-disk",
@@ -2956,8 +2830,7 @@ export const ICONS: IconMeta[] = [
       "floppy",
       "persist"
     ],
-    "phosphor": "FloppyDisk",
-    "fill": true
+    "phosphor": "FloppyDisk"
   },
   {
     "name": "folder-lock",
@@ -2983,8 +2856,7 @@ export const ICONS: IconMeta[] = [
       "browse",
       "files"
     ],
-    "phosphor": "FolderOpen",
-    "fill": true
+    "phosphor": "FolderOpen"
   },
   {
     "name": "folder-plus",
@@ -3008,8 +2880,7 @@ export const ICONS: IconMeta[] = [
       "folder",
       "collection"
     ],
-    "phosphor": "FolderSimple",
-    "fill": true
+    "phosphor": "FolderSimple"
   },
   {
     "name": "fork-knife",
@@ -3022,8 +2893,7 @@ export const ICONS: IconMeta[] = [
       "cutlery",
       "eat"
     ],
-    "phosphor": "ForkKnife",
-    "fill": true
+    "phosphor": "ForkKnife"
   },
   {
     "name": "frame-corners",
@@ -3036,8 +2906,7 @@ export const ICONS: IconMeta[] = [
       "focus",
       "viewfinder"
     ],
-    "phosphor": "FrameCorners",
-    "fill": true
+    "phosphor": "FrameCorners"
   },
   {
     "name": "french-fries",
@@ -3063,8 +2932,7 @@ export const ICONS: IconMeta[] = [
       "narrow",
       "search"
     ],
-    "phosphor": "Funnel",
-    "fill": true
+    "phosphor": "Funnel"
   },
   {
     "name": "game-controller",
@@ -3077,8 +2945,7 @@ export const ICONS: IconMeta[] = [
       "play",
       "console"
     ],
-    "phosphor": "GameController",
-    "fill": true
+    "phosphor": "GameController"
   },
   {
     "name": "garlic",
@@ -3117,8 +2984,7 @@ export const ICONS: IconMeta[] = [
       "dashboard",
       "speedometer"
     ],
-    "phosphor": "Gauge",
-    "fill": true
+    "phosphor": "Gauge"
   },
   {
     "name": "gavel",
@@ -3131,8 +2997,7 @@ export const ICONS: IconMeta[] = [
       "legal",
       "court"
     ],
-    "phosphor": "Gavel",
-    "fill": true
+    "phosphor": "Gavel"
   },
   {
     "name": "gear-six",
@@ -3145,8 +3010,7 @@ export const ICONS: IconMeta[] = [
       "options"
     ],
     "phosphor": "GearSix",
-    "grid": "radial",
-    "fill": true
+    "grid": "radial"
   },
   {
     "name": "gift",
@@ -3159,8 +3023,7 @@ export const ICONS: IconMeta[] = [
       "surprise",
       "birthday"
     ],
-    "phosphor": "Gift",
-    "fill": true
+    "phosphor": "Gift"
   },
   {
     "name": "git-branch",
@@ -3173,8 +3036,7 @@ export const ICONS: IconMeta[] = [
       "fork",
       "code"
     ],
-    "phosphor": "GitBranch",
-    "fill": true
+    "phosphor": "GitBranch"
   },
   {
     "name": "git-commit",
@@ -3187,8 +3049,7 @@ export const ICONS: IconMeta[] = [
       "change",
       "code"
     ],
-    "phosphor": "GitCommit",
-    "fill": true
+    "phosphor": "GitCommit"
   },
   {
     "name": "git-merge",
@@ -3201,8 +3062,7 @@ export const ICONS: IconMeta[] = [
       "combine",
       "code"
     ],
-    "phosphor": "GitMerge",
-    "fill": true
+    "phosphor": "GitMerge"
   },
   {
     "name": "git-pull-request",
@@ -3215,8 +3075,7 @@ export const ICONS: IconMeta[] = [
       "version control",
       "code"
     ],
-    "phosphor": "GitPullRequest",
-    "fill": true
+    "phosphor": "GitPullRequest"
   },
   {
     "name": "globe",
@@ -3229,8 +3088,7 @@ export const ICONS: IconMeta[] = [
       "earth",
       "global"
     ],
-    "phosphor": "Globe",
-    "fill": true
+    "phosphor": "Globe"
   },
   {
     "name": "globe-hemisphere-west",
@@ -3244,8 +3102,7 @@ export const ICONS: IconMeta[] = [
       "global"
     ],
     "phosphor": "GlobeHemisphereWest",
-    "grid": "radial",
-    "fill": true
+    "grid": "radial"
   },
   {
     "name": "graduation-cap",
@@ -3258,8 +3115,7 @@ export const ICONS: IconMeta[] = [
       "learning",
       "university"
     ],
-    "phosphor": "GraduationCap",
-    "fill": true
+    "phosphor": "GraduationCap"
   },
   {
     "name": "grid-four",
@@ -3272,8 +3128,7 @@ export const ICONS: IconMeta[] = [
       "tiles",
       "cells"
     ],
-    "phosphor": "GridFour",
-    "fill": true
+    "phosphor": "GridFour"
   },
   {
     "name": "grid-nine",
@@ -3286,8 +3141,7 @@ export const ICONS: IconMeta[] = [
       "tiles",
       "matrix"
     ],
-    "phosphor": "GridNine",
-    "fill": true
+    "phosphor": "GridNine"
   },
   {
     "name": "hamburger",
@@ -3299,8 +3153,7 @@ export const ICONS: IconMeta[] = [
       "sandwich",
       "meal"
     ],
-    "phosphor": "Hamburger",
-    "fill": true
+    "phosphor": "Hamburger"
   },
   {
     "name": "hammer",
@@ -3313,8 +3166,7 @@ export const ICONS: IconMeta[] = [
       "repair",
       "diy"
     ],
-    "phosphor": "Hammer",
-    "fill": true
+    "phosphor": "Hammer"
   },
   {
     "name": "hand",
@@ -3327,8 +3179,7 @@ export const ICONS: IconMeta[] = [
       "pan",
       "gesture"
     ],
-    "phosphor": "Hand",
-    "fill": true
+    "phosphor": "Hand"
   },
   {
     "name": "hand-grabbing",
@@ -3341,8 +3192,7 @@ export const ICONS: IconMeta[] = [
       "pan",
       "hold"
     ],
-    "phosphor": "HandGrabbing",
-    "fill": true
+    "phosphor": "HandGrabbing"
   },
   {
     "name": "hand-heart",
@@ -3355,8 +3205,7 @@ export const ICONS: IconMeta[] = [
       "support",
       "volunteer"
     ],
-    "phosphor": "HandHeart",
-    "fill": true
+    "phosphor": "HandHeart"
   },
   {
     "name": "hand-pointing",
@@ -3369,8 +3218,7 @@ export const ICONS: IconMeta[] = [
       "tap",
       "finger"
     ],
-    "phosphor": "HandPointing",
-    "fill": true
+    "phosphor": "HandPointing"
   },
   {
     "name": "hand-waving",
@@ -3383,8 +3231,7 @@ export const ICONS: IconMeta[] = [
       "greeting",
       "welcome"
     ],
-    "phosphor": "HandWaving",
-    "fill": true
+    "phosphor": "HandWaving"
   },
   {
     "name": "handbag",
@@ -3397,8 +3244,7 @@ export const ICONS: IconMeta[] = [
       "shopping",
       "accessory"
     ],
-    "phosphor": "Handbag",
-    "fill": true
+    "phosphor": "Handbag"
   },
   {
     "name": "hands-clapping",
@@ -3411,8 +3257,7 @@ export const ICONS: IconMeta[] = [
       "bravo",
       "celebrate"
     ],
-    "phosphor": "HandsClapping",
-    "fill": true
+    "phosphor": "HandsClapping"
   },
   {
     "name": "handshake",
@@ -3425,8 +3270,7 @@ export const ICONS: IconMeta[] = [
       "trust",
       "welcome"
     ],
-    "phosphor": "Handshake",
-    "fill": true
+    "phosphor": "Handshake"
   },
   {
     "name": "hash",
@@ -3452,8 +3296,7 @@ export const ICONS: IconMeta[] = [
       "headset",
       "support"
     ],
-    "phosphor": "Headphones",
-    "fill": true
+    "phosphor": "Headphones"
   },
   {
     "name": "headset",
@@ -3466,8 +3309,7 @@ export const ICONS: IconMeta[] = [
       "microphone",
       "help"
     ],
-    "phosphor": "Headset",
-    "fill": true
+    "phosphor": "Headset"
   },
   {
     "name": "heart",
@@ -3480,8 +3322,7 @@ export const ICONS: IconMeta[] = [
       "health",
       "wishlist"
     ],
-    "phosphor": "Heart",
-    "fill": true
+    "phosphor": "Heart"
   },
   {
     "name": "heartbeat",
@@ -3494,8 +3335,7 @@ export const ICONS: IconMeta[] = [
       "vitals",
       "cardio"
     ],
-    "phosphor": "Heartbeat",
-    "fill": true
+    "phosphor": "Heartbeat"
   },
   {
     "name": "hexagon",
@@ -3509,8 +3349,7 @@ export const ICONS: IconMeta[] = [
       "honeycomb"
     ],
     "phosphor": "Hexagon",
-    "grid": "radial",
-    "fill": true
+    "grid": "radial"
   },
   {
     "name": "hourglass-medium",
@@ -3524,8 +3363,7 @@ export const ICONS: IconMeta[] = [
       "timer",
       "sand"
     ],
-    "phosphor": "HourglassMedium",
-    "fill": true
+    "phosphor": "HourglassMedium"
   },
   {
     "name": "house",
@@ -3536,8 +3374,7 @@ export const ICONS: IconMeta[] = [
       "start",
       "main"
     ],
-    "phosphor": "House",
-    "fill": true
+    "phosphor": "House"
   },
   {
     "name": "ice-cream",
@@ -3550,8 +3387,7 @@ export const ICONS: IconMeta[] = [
       "sweet",
       "summer"
     ],
-    "phosphor": "IceCream",
-    "fill": true
+    "phosphor": "IceCream"
   },
   {
     "name": "identification-card",
@@ -3564,8 +3400,7 @@ export const ICONS: IconMeta[] = [
       "identity",
       "license"
     ],
-    "phosphor": "IdentificationCard",
-    "fill": true
+    "phosphor": "IdentificationCard"
   },
   {
     "name": "image",
@@ -3577,8 +3412,7 @@ export const ICONS: IconMeta[] = [
       "gallery",
       "media"
     ],
-    "phosphor": "Image",
-    "fill": true
+    "phosphor": "Image"
   },
   {
     "name": "infinity",
@@ -3602,8 +3436,7 @@ export const ICONS: IconMeta[] = [
       "details",
       "about"
     ],
-    "phosphor": "Info",
-    "fill": true
+    "phosphor": "Info"
   },
   {
     "name": "kanban",
@@ -3616,8 +3449,7 @@ export const ICONS: IconMeta[] = [
       "project",
       "workflow"
     ],
-    "phosphor": "Kanban",
-    "fill": true
+    "phosphor": "Kanban"
   },
   {
     "name": "key",
@@ -3630,8 +3462,7 @@ export const ICONS: IconMeta[] = [
       "credentials",
       "api key"
     ],
-    "phosphor": "Key",
-    "fill": true
+    "phosphor": "Key"
   },
   {
     "name": "keyboard",
@@ -3644,8 +3475,7 @@ export const ICONS: IconMeta[] = [
       "shortcuts",
       "typing"
     ],
-    "phosphor": "Keyboard",
-    "fill": true
+    "phosphor": "Keyboard"
   },
   {
     "name": "knife",
@@ -3658,8 +3488,7 @@ export const ICONS: IconMeta[] = [
       "cooking",
       "utensil"
     ],
-    "phosphor": "Knife",
-    "fill": true
+    "phosphor": "Knife"
   },
   {
     "name": "laptop",
@@ -3672,8 +3501,7 @@ export const ICONS: IconMeta[] = [
       "portable",
       "work"
     ],
-    "phosphor": "Laptop",
-    "fill": true
+    "phosphor": "Laptop"
   },
   {
     "name": "layout",
@@ -3687,8 +3515,7 @@ export const ICONS: IconMeta[] = [
       "header",
       "dashboard"
     ],
-    "phosphor": "Layout",
-    "fill": true
+    "phosphor": "Layout"
   },
   {
     "name": "leaf",
@@ -3701,8 +3528,7 @@ export const ICONS: IconMeta[] = [
       "organic",
       "sustainability"
     ],
-    "phosphor": "Leaf",
-    "fill": true
+    "phosphor": "Leaf"
   },
   {
     "name": "lifebuoy",
@@ -3715,8 +3541,7 @@ export const ICONS: IconMeta[] = [
       "lifesaver",
       "assistance"
     ],
-    "phosphor": "Lifebuoy",
-    "fill": true
+    "phosphor": "Lifebuoy"
   },
   {
     "name": "lightbulb",
@@ -3729,8 +3554,7 @@ export const ICONS: IconMeta[] = [
       "insight",
       "light"
     ],
-    "phosphor": "Lightbulb",
-    "fill": true
+    "phosphor": "Lightbulb"
   },
   {
     "name": "lightning",
@@ -3756,8 +3580,7 @@ export const ICONS: IconMeta[] = [
       "segment",
       "path"
     ],
-    "phosphor": "LineSegment",
-    "fill": true
+    "phosphor": "LineSegment"
   },
   {
     "name": "link",
@@ -3860,8 +3683,7 @@ export const ICONS: IconMeta[] = [
       "private",
       "password"
     ],
-    "phosphor": "Lock",
-    "fill": true
+    "phosphor": "Lock"
   },
   {
     "name": "magic-wand",
@@ -3874,8 +3696,7 @@ export const ICONS: IconMeta[] = [
       "generate",
       "wizard"
     ],
-    "phosphor": "MagicWand",
-    "fill": true
+    "phosphor": "MagicWand"
   },
   {
     "name": "magnet",
@@ -3888,8 +3709,7 @@ export const ICONS: IconMeta[] = [
       "magnetic",
       "pull"
     ],
-    "phosphor": "Magnet",
-    "fill": true
+    "phosphor": "Magnet"
   },
   {
     "name": "magnifying-glass",
@@ -3927,8 +3747,7 @@ export const ICONS: IconMeta[] = [
       "address",
       "pin"
     ],
-    "phosphor": "MapPin",
-    "fill": true
+    "phosphor": "MapPin"
   },
   {
     "name": "map-pin-area",
@@ -3941,8 +3760,7 @@ export const ICONS: IconMeta[] = [
       "radius",
       "place"
     ],
-    "phosphor": "MapPinArea",
-    "fill": true
+    "phosphor": "MapPinArea"
   },
   {
     "name": "map-trifold",
@@ -3955,8 +3773,7 @@ export const ICONS: IconMeta[] = [
       "navigation",
       "travel"
     ],
-    "phosphor": "MapTrifold",
-    "fill": true
+    "phosphor": "MapTrifold"
   },
   {
     "name": "markdown-logo",
@@ -3969,8 +3786,7 @@ export const ICONS: IconMeta[] = [
       "syntax",
       "docs"
     ],
-    "phosphor": "MarkdownLogo",
-    "fill": true
+    "phosphor": "MarkdownLogo"
   },
   {
     "name": "medal",
@@ -3983,8 +3799,7 @@ export const ICONS: IconMeta[] = [
       "prize",
       "rank"
     ],
-    "phosphor": "Medal",
-    "fill": true
+    "phosphor": "Medal"
   },
   {
     "name": "megaphone",
@@ -3997,8 +3812,7 @@ export const ICONS: IconMeta[] = [
       "promote",
       "news"
     ],
-    "phosphor": "Megaphone",
-    "fill": true
+    "phosphor": "Megaphone"
   },
   {
     "name": "microphone",
@@ -4011,8 +3825,7 @@ export const ICONS: IconMeta[] = [
       "audio",
       "speak"
     ],
-    "phosphor": "Microphone",
-    "fill": true
+    "phosphor": "Microphone"
   },
   {
     "name": "microphone-slash",
@@ -4025,8 +3838,7 @@ export const ICONS: IconMeta[] = [
       "silent",
       "voice"
     ],
-    "phosphor": "MicrophoneSlash",
-    "fill": true
+    "phosphor": "MicrophoneSlash"
   },
   {
     "name": "minus",
@@ -4050,8 +3862,7 @@ export const ICONS: IconMeta[] = [
       "payment",
       "currency"
     ],
-    "phosphor": "Money",
-    "fill": true
+    "phosphor": "Money"
   },
   {
     "name": "monitor",
@@ -4063,8 +3874,7 @@ export const ICONS: IconMeta[] = [
       "computer",
       "external display"
     ],
-    "phosphor": "Monitor",
-    "fill": true
+    "phosphor": "Monitor"
   },
   {
     "name": "moon",
@@ -4078,8 +3888,7 @@ export const ICONS: IconMeta[] = [
       "lunar",
       "halloween"
     ],
-    "phosphor": "Moon",
-    "fill": true
+    "phosphor": "Moon"
   },
   {
     "name": "moon-stars",
@@ -4093,8 +3902,7 @@ export const ICONS: IconMeta[] = [
       "sky",
       "halloween"
     ],
-    "phosphor": "MoonStars",
-    "fill": true
+    "phosphor": "MoonStars"
   },
   {
     "name": "motorcycle",
@@ -4120,8 +3928,7 @@ export const ICONS: IconMeta[] = [
       "button",
       "input"
     ],
-    "phosphor": "MouseRightClick",
-    "fill": true
+    "phosphor": "MouseRightClick"
   },
   {
     "name": "mushroom",
@@ -4147,8 +3954,7 @@ export const ICONS: IconMeta[] = [
       "sound",
       "track"
     ],
-    "phosphor": "MusicNote",
-    "fill": true
+    "phosphor": "MusicNote"
   },
   {
     "name": "navigation-arrow",
@@ -4161,8 +3967,7 @@ export const ICONS: IconMeta[] = [
       "direction",
       "pointer"
     ],
-    "phosphor": "NavigationArrow",
-    "fill": true
+    "phosphor": "NavigationArrow"
   },
   {
     "name": "newspaper",
@@ -4175,8 +3980,7 @@ export const ICONS: IconMeta[] = [
       "media",
       "headlines"
     ],
-    "phosphor": "Newspaper",
-    "fill": true
+    "phosphor": "Newspaper"
   },
   {
     "name": "notches",
@@ -4204,8 +4008,7 @@ export const ICONS: IconMeta[] = [
       "post-it",
       "text"
     ],
-    "phosphor": "Note",
-    "fill": true
+    "phosphor": "Note"
   },
   {
     "name": "note-pencil",
@@ -4218,8 +4021,7 @@ export const ICONS: IconMeta[] = [
       "note",
       "new"
     ],
-    "phosphor": "NotePencil",
-    "fill": true
+    "phosphor": "NotePencil"
   },
   {
     "name": "notebook",
@@ -4232,8 +4034,7 @@ export const ICONS: IconMeta[] = [
       "diary",
       "docs"
     ],
-    "phosphor": "Notebook",
-    "fill": true
+    "phosphor": "Notebook"
   },
   {
     "name": "notification",
@@ -4284,8 +4085,7 @@ export const ICONS: IconMeta[] = [
       "npm",
       "delivery"
     ],
-    "phosphor": "Package",
-    "fill": true
+    "phosphor": "Package"
   },
   {
     "name": "paint-brush",
@@ -4298,8 +4098,7 @@ export const ICONS: IconMeta[] = [
       "design",
       "draw"
     ],
-    "phosphor": "PaintBrush",
-    "fill": true
+    "phosphor": "PaintBrush"
   },
   {
     "name": "palette",
@@ -4312,8 +4111,7 @@ export const ICONS: IconMeta[] = [
       "theme",
       "art"
     ],
-    "phosphor": "Palette",
-    "fill": true
+    "phosphor": "Palette"
   },
   {
     "name": "paper-plane-tilt",
@@ -4326,8 +4124,7 @@ export const ICONS: IconMeta[] = [
       "share",
       "deliver"
     ],
-    "phosphor": "PaperPlaneTilt",
-    "fill": true
+    "phosphor": "PaperPlaneTilt"
   },
   {
     "name": "paperclip",
@@ -4353,8 +4150,7 @@ export const ICONS: IconMeta[] = [
       "format",
       "block"
     ],
-    "phosphor": "Paragraph",
-    "fill": true
+    "phosphor": "Paragraph"
   },
   {
     "name": "password",
@@ -4393,8 +4189,7 @@ export const ICONS: IconMeta[] = [
       "audio",
       "video"
     ],
-    "phosphor": "Pause",
-    "fill": true
+    "phosphor": "Pause"
   },
   {
     "name": "paw-print",
@@ -4407,8 +4202,7 @@ export const ICONS: IconMeta[] = [
       "dog",
       "cat"
     ],
-    "phosphor": "PawPrint",
-    "fill": true
+    "phosphor": "PawPrint"
   },
   {
     "name": "pen-nib",
@@ -4421,8 +4215,7 @@ export const ICONS: IconMeta[] = [
       "design",
       "draw"
     ],
-    "phosphor": "PenNib",
-    "fill": true
+    "phosphor": "PenNib"
   },
   {
     "name": "pencil-simple",
@@ -4501,8 +4294,7 @@ export const ICONS: IconMeta[] = [
       "dial",
       "support"
     ],
-    "phosphor": "Phone",
-    "fill": true
+    "phosphor": "Phone"
   },
   {
     "name": "phone-call",
@@ -4515,8 +4307,7 @@ export const ICONS: IconMeta[] = [
       "incoming",
       "contact"
     ],
-    "phosphor": "PhoneCall",
-    "fill": true
+    "phosphor": "PhoneCall"
   },
   {
     "name": "picture-in-picture",
@@ -4529,8 +4320,7 @@ export const ICONS: IconMeta[] = [
       "window",
       "float"
     ],
-    "phosphor": "PictureInPicture",
-    "fill": true
+    "phosphor": "PictureInPicture"
   },
   {
     "name": "pill",
@@ -4543,8 +4333,7 @@ export const ICONS: IconMeta[] = [
       "capsule",
       "health"
     ],
-    "phosphor": "Pill",
-    "fill": true
+    "phosphor": "Pill"
   },
   {
     "name": "pizza",
@@ -4556,8 +4345,7 @@ export const ICONS: IconMeta[] = [
       "fast food",
       "italian"
     ],
-    "phosphor": "Pizza",
-    "fill": true
+    "phosphor": "Pizza"
   },
   {
     "name": "planet",
@@ -4570,8 +4358,7 @@ export const ICONS: IconMeta[] = [
       "universe",
       "orbit"
     ],
-    "phosphor": "Planet",
-    "fill": true
+    "phosphor": "Planet"
   },
   {
     "name": "plant",
@@ -4584,8 +4371,7 @@ export const ICONS: IconMeta[] = [
       "eco",
       "garden"
     ],
-    "phosphor": "Plant",
-    "fill": true
+    "phosphor": "Plant"
   },
   {
     "name": "play",
@@ -4598,8 +4384,7 @@ export const ICONS: IconMeta[] = [
       "audio",
       "player"
     ],
-    "phosphor": "Play",
-    "fill": true
+    "phosphor": "Play"
   },
   {
     "name": "play-circle",
@@ -4611,8 +4396,7 @@ export const ICONS: IconMeta[] = [
       "video",
       "player"
     ],
-    "phosphor": "PlayCircle",
-    "fill": true
+    "phosphor": "PlayCircle"
   },
   {
     "name": "plugs",
@@ -4625,8 +4409,7 @@ export const ICONS: IconMeta[] = [
       "disconnect",
       "power"
     ],
-    "phosphor": "Plugs",
-    "fill": true
+    "phosphor": "Plugs"
   },
   {
     "name": "plugs-connected",
@@ -4639,8 +4422,7 @@ export const ICONS: IconMeta[] = [
       "linked",
       "power"
     ],
-    "phosphor": "PlugsConnected",
-    "fill": true
+    "phosphor": "PlugsConnected"
   },
   {
     "name": "plus",
@@ -4677,8 +4459,7 @@ export const ICONS: IconMeta[] = [
       "emergency",
       "vehicle"
     ],
-    "phosphor": "PoliceCar",
-    "fill": true
+    "phosphor": "PoliceCar"
   },
   {
     "name": "polygon",
@@ -4691,8 +4472,7 @@ export const ICONS: IconMeta[] = [
       "draw",
       "geometry"
     ],
-    "phosphor": "Polygon",
-    "fill": true
+    "phosphor": "Polygon"
   },
   {
     "name": "power",
@@ -4718,8 +4498,7 @@ export const ICONS: IconMeta[] = [
       "report",
       "pitch"
     ],
-    "phosphor": "PresentationChart",
-    "fill": true
+    "phosphor": "PresentationChart"
   },
   {
     "name": "printer",
@@ -4732,8 +4511,7 @@ export const ICONS: IconMeta[] = [
       "office",
       "output"
     ],
-    "phosphor": "Printer",
-    "fill": true
+    "phosphor": "Printer"
   },
   {
     "name": "prohibit",
@@ -4746,8 +4524,7 @@ export const ICONS: IconMeta[] = [
       "ban",
       "disabled"
     ],
-    "phosphor": "Prohibit",
-    "fill": true
+    "phosphor": "Prohibit"
   },
   {
     "name": "pulse",
@@ -4773,8 +4550,7 @@ export const ICONS: IconMeta[] = [
       "keep",
       "fixed"
     ],
-    "phosphor": "PushPin",
-    "fill": true
+    "phosphor": "PushPin"
   },
   {
     "name": "push-pin-slash",
@@ -4786,8 +4562,7 @@ export const ICONS: IconMeta[] = [
       "remove pin",
       "unfix"
     ],
-    "phosphor": "PushPinSlash",
-    "fill": true
+    "phosphor": "PushPinSlash"
   },
   {
     "name": "puzzle-piece",
@@ -4800,8 +4575,7 @@ export const ICONS: IconMeta[] = [
       "addon",
       "integration"
     ],
-    "phosphor": "PuzzlePiece",
-    "fill": true
+    "phosphor": "PuzzlePiece"
   },
   {
     "name": "qr-code",
@@ -4814,8 +4588,7 @@ export const ICONS: IconMeta[] = [
       "link",
       "share"
     ],
-    "phosphor": "QrCode",
-    "fill": true
+    "phosphor": "QrCode"
   },
   {
     "name": "question",
@@ -4827,8 +4600,7 @@ export const ICONS: IconMeta[] = [
       "support",
       "unknown"
     ],
-    "phosphor": "Question",
-    "fill": true
+    "phosphor": "Question"
   },
   {
     "name": "quotes",
@@ -4841,8 +4613,7 @@ export const ICONS: IconMeta[] = [
       "testimonial",
       "says"
     ],
-    "phosphor": "Quotes",
-    "fill": true
+    "phosphor": "Quotes"
   },
   {
     "name": "radio",
@@ -4855,8 +4626,7 @@ export const ICONS: IconMeta[] = [
       "broadcast",
       "listen"
     ],
-    "phosphor": "Radio",
-    "fill": true
+    "phosphor": "Radio"
   },
   {
     "name": "radio-button",
@@ -4869,8 +4639,7 @@ export const ICONS: IconMeta[] = [
       "choice",
       "form"
     ],
-    "phosphor": "RadioButton",
-    "fill": true
+    "phosphor": "RadioButton"
   },
   {
     "name": "ranking",
@@ -4883,8 +4652,7 @@ export const ICONS: IconMeta[] = [
       "winner",
       "top"
     ],
-    "phosphor": "Ranking",
-    "fill": true
+    "phosphor": "Ranking"
   },
   {
     "name": "receipt",
@@ -4897,8 +4665,7 @@ export const ICONS: IconMeta[] = [
       "purchase",
       "payment"
     ],
-    "phosphor": "Receipt",
-    "fill": true
+    "phosphor": "Receipt"
   },
   {
     "name": "record",
@@ -4910,8 +4677,7 @@ export const ICONS: IconMeta[] = [
       "recording",
       "live"
     ],
-    "phosphor": "Record",
-    "fill": true
+    "phosphor": "Record"
   },
   {
     "name": "repeat",
@@ -4935,8 +4701,7 @@ export const ICONS: IconMeta[] = [
       "crop",
       "transform"
     ],
-    "phosphor": "Resize",
-    "fill": true
+    "phosphor": "Resize"
   },
   {
     "name": "road-horizon",
@@ -4962,8 +4727,7 @@ export const ICONS: IconMeta[] = [
       "assistant",
       "automation"
     ],
-    "phosphor": "Robot",
-    "fill": true
+    "phosphor": "Robot"
   },
   {
     "name": "rocket",
@@ -4976,8 +4740,7 @@ export const ICONS: IconMeta[] = [
       "space",
       "boost"
     ],
-    "phosphor": "Rocket",
-    "fill": true
+    "phosphor": "Rocket"
   },
   {
     "name": "rocket-launch",
@@ -4990,8 +4753,7 @@ export const ICONS: IconMeta[] = [
       "deploy",
       "boost"
     ],
-    "phosphor": "RocketLaunch",
-    "fill": true
+    "phosphor": "RocketLaunch"
   },
   {
     "name": "rows",
@@ -5004,8 +4766,7 @@ export const ICONS: IconMeta[] = [
       "horizontal",
       "stack"
     ],
-    "phosphor": "Rows",
-    "fill": true
+    "phosphor": "Rows"
   },
   {
     "name": "ruler",
@@ -5018,8 +4779,7 @@ export const ICONS: IconMeta[] = [
       "dimensions",
       "scale"
     ],
-    "phosphor": "Ruler",
-    "fill": true
+    "phosphor": "Ruler"
   },
   {
     "name": "scales",
@@ -5032,8 +4792,7 @@ export const ICONS: IconMeta[] = [
       "legal",
       "compare"
     ],
-    "phosphor": "Scales",
-    "fill": true
+    "phosphor": "Scales"
   },
   {
     "name": "scissors",
@@ -5046,8 +4805,7 @@ export const ICONS: IconMeta[] = [
       "snip",
       "craft"
     ],
-    "phosphor": "Scissors",
-    "fill": true
+    "phosphor": "Scissors"
   },
   {
     "name": "scroll",
@@ -5060,8 +4818,7 @@ export const ICONS: IconMeta[] = [
       "parchment",
       "history"
     ],
-    "phosphor": "Scroll",
-    "fill": true
+    "phosphor": "Scroll"
   },
   {
     "name": "seal-check",
@@ -5075,8 +4832,7 @@ export const ICONS: IconMeta[] = [
       "check"
     ],
     "phosphor": "SealCheck",
-    "grid": "radial",
-    "fill": true
+    "grid": "radial"
   },
   {
     "name": "seal-percent",
@@ -5090,8 +4846,7 @@ export const ICONS: IconMeta[] = [
       "badge"
     ],
     "phosphor": "SealPercent",
-    "grid": "radial",
-    "fill": true
+    "grid": "radial"
   },
   {
     "name": "selection",
@@ -5117,8 +4872,7 @@ export const ICONS: IconMeta[] = [
       "objects",
       "draw"
     ],
-    "phosphor": "Shapes",
-    "fill": true
+    "phosphor": "Shapes"
   },
   {
     "name": "share-network",
@@ -5131,8 +4885,7 @@ export const ICONS: IconMeta[] = [
       "connect",
       "distribute"
     ],
-    "phosphor": "ShareNetwork",
-    "fill": true
+    "phosphor": "ShareNetwork"
   },
   {
     "name": "shield-check",
@@ -5145,8 +4898,7 @@ export const ICONS: IconMeta[] = [
       "verified",
       "trust"
     ],
-    "phosphor": "ShieldCheck",
-    "fill": true
+    "phosphor": "ShieldCheck"
   },
   {
     "name": "shield-star",
@@ -5159,8 +4911,7 @@ export const ICONS: IconMeta[] = [
       "featured",
       "badge"
     ],
-    "phosphor": "ShieldStar",
-    "fill": true
+    "phosphor": "ShieldStar"
   },
   {
     "name": "shopping-bag",
@@ -5173,8 +4924,7 @@ export const ICONS: IconMeta[] = [
       "buy",
       "store"
     ],
-    "phosphor": "ShoppingBag",
-    "fill": true
+    "phosphor": "ShoppingBag"
   },
   {
     "name": "shopping-bag-open",
@@ -5187,8 +4937,7 @@ export const ICONS: IconMeta[] = [
       "buy",
       "store"
     ],
-    "phosphor": "ShoppingBagOpen",
-    "fill": true
+    "phosphor": "ShoppingBagOpen"
   },
   {
     "name": "shopping-cart",
@@ -5201,8 +4950,7 @@ export const ICONS: IconMeta[] = [
       "buy",
       "store"
     ],
-    "phosphor": "ShoppingCart",
-    "fill": true
+    "phosphor": "ShoppingCart"
   },
   {
     "name": "shuffle",
@@ -5227,8 +4975,7 @@ export const ICONS: IconMeta[] = [
       "drawer",
       "menu"
     ],
-    "phosphor": "Sidebar",
-    "fill": true
+    "phosphor": "Sidebar"
   },
   {
     "name": "sidebar-collapse",
@@ -5245,8 +4992,7 @@ export const ICONS: IconMeta[] = [
       "toggle",
       "navigation",
       "layout"
-    ],
-    "fill": true
+    ]
   },
   {
     "name": "sidebar-expand",
@@ -5263,8 +5009,7 @@ export const ICONS: IconMeta[] = [
       "toggle",
       "navigation",
       "layout"
-    ],
-    "fill": true
+    ]
   },
   {
     "name": "sign-in",
@@ -5314,8 +5059,7 @@ export const ICONS: IconMeta[] = [
       "way",
       "route"
     ],
-    "phosphor": "Signpost",
-    "fill": true
+    "phosphor": "Signpost"
   },
   {
     "name": "siren",
@@ -5328,8 +5072,7 @@ export const ICONS: IconMeta[] = [
       "warning",
       "beacon"
     ],
-    "phosphor": "Siren",
-    "fill": true
+    "phosphor": "Siren"
   },
   {
     "name": "skip-back",
@@ -5341,8 +5084,7 @@ export const ICONS: IconMeta[] = [
       "track",
       "player"
     ],
-    "phosphor": "SkipBack",
-    "fill": true
+    "phosphor": "SkipBack"
   },
   {
     "name": "skip-forward",
@@ -5354,8 +5096,7 @@ export const ICONS: IconMeta[] = [
       "forward",
       "player"
     ],
-    "phosphor": "SkipForward",
-    "fill": true
+    "phosphor": "SkipForward"
   },
   {
     "name": "sliders",
@@ -5394,8 +5135,7 @@ export const ICONS: IconMeta[] = [
       "gallery",
       "deck"
     ],
-    "phosphor": "Slideshow",
-    "fill": true
+    "phosphor": "Slideshow"
   },
   {
     "name": "smiley",
@@ -5408,8 +5148,7 @@ export const ICONS: IconMeta[] = [
       "feedback",
       "smile"
     ],
-    "phosphor": "Smiley",
-    "fill": true
+    "phosphor": "Smiley"
   },
   {
     "name": "smiley-angry",
@@ -5422,8 +5161,7 @@ export const ICONS: IconMeta[] = [
       "face",
       "feedback"
     ],
-    "phosphor": "SmileyAngry",
-    "fill": true
+    "phosphor": "SmileyAngry"
   },
   {
     "name": "smiley-meh",
@@ -5436,8 +5174,7 @@ export const ICONS: IconMeta[] = [
       "face",
       "feedback"
     ],
-    "phosphor": "SmileyMeh",
-    "fill": true
+    "phosphor": "SmileyMeh"
   },
   {
     "name": "smiley-sad",
@@ -5450,8 +5187,7 @@ export const ICONS: IconMeta[] = [
       "face",
       "feedback"
     ],
-    "phosphor": "SmileySad",
-    "fill": true
+    "phosphor": "SmileySad"
   },
   {
     "name": "smiley-wink",
@@ -5464,8 +5200,7 @@ export const ICONS: IconMeta[] = [
       "face",
       "feedback"
     ],
-    "phosphor": "SmileyWink",
-    "fill": true
+    "phosphor": "SmileyWink"
   },
   {
     "name": "sneaker",
@@ -5478,8 +5213,7 @@ export const ICONS: IconMeta[] = [
       "footwear",
       "fashion"
     ],
-    "phosphor": "Sneaker",
-    "fill": true
+    "phosphor": "Sneaker"
   },
   {
     "name": "snowflake",
@@ -5530,8 +5264,7 @@ export const ICONS: IconMeta[] = [
       "shine",
       "spark"
     ],
-    "phosphor": "Sparkle",
-    "fill": true
+    "phosphor": "Sparkle"
   },
   {
     "name": "speaker-high",
@@ -5544,8 +5277,7 @@ export const ICONS: IconMeta[] = [
       "loud",
       "unmute"
     ],
-    "phosphor": "SpeakerHigh",
-    "fill": true
+    "phosphor": "SpeakerHigh"
   },
   {
     "name": "speaker-low",
@@ -5558,8 +5290,7 @@ export const ICONS: IconMeta[] = [
       "quiet",
       "low"
     ],
-    "phosphor": "SpeakerLow",
-    "fill": true
+    "phosphor": "SpeakerLow"
   },
   {
     "name": "speaker-slash",
@@ -5571,8 +5302,7 @@ export const ICONS: IconMeta[] = [
       "volume off",
       "sound off"
     ],
-    "phosphor": "SpeakerSlash",
-    "fill": true
+    "phosphor": "SpeakerSlash"
   },
   {
     "name": "speaker-x",
@@ -5585,8 +5315,7 @@ export const ICONS: IconMeta[] = [
       "silent",
       "volume"
     ],
-    "phosphor": "SpeakerX",
-    "fill": true
+    "phosphor": "SpeakerX"
   },
   {
     "name": "square",
@@ -5599,8 +5328,7 @@ export const ICONS: IconMeta[] = [
       "checkbox",
       "stop"
     ],
-    "phosphor": "Square",
-    "fill": true
+    "phosphor": "Square"
   },
   {
     "name": "square-half",
@@ -5626,8 +5354,7 @@ export const ICONS: IconMeta[] = [
       "compare",
       "layout"
     ],
-    "phosphor": "SquareSplitHorizontal",
-    "fill": true
+    "phosphor": "SquareSplitHorizontal"
   },
   {
     "name": "squares-four",
@@ -5639,8 +5366,7 @@ export const ICONS: IconMeta[] = [
       "apps",
       "overview"
     ],
-    "phosphor": "SquaresFour",
-    "fill": true
+    "phosphor": "SquaresFour"
   },
   {
     "name": "stack",
@@ -5653,8 +5379,7 @@ export const ICONS: IconMeta[] = [
       "pile",
       "levels"
     ],
-    "phosphor": "Stack",
-    "fill": true
+    "phosphor": "Stack"
   },
   {
     "name": "stamp",
@@ -5667,8 +5392,7 @@ export const ICONS: IconMeta[] = [
       "mark",
       "confirm"
     ],
-    "phosphor": "Stamp",
-    "fill": true
+    "phosphor": "Stamp"
   },
   {
     "name": "star",
@@ -5681,8 +5405,7 @@ export const ICONS: IconMeta[] = [
       "featured"
     ],
     "phosphor": "Star",
-    "grid": "radial",
-    "fill": true
+    "grid": "radial"
   },
   {
     "name": "steering-wheel",
@@ -5721,8 +5444,7 @@ export const ICONS: IconMeta[] = [
       "clinic",
       "health"
     ],
-    "phosphor": "Stethoscope",
-    "fill": true
+    "phosphor": "Stethoscope"
   },
   {
     "name": "sticker",
@@ -5735,8 +5457,7 @@ export const ICONS: IconMeta[] = [
       "decal",
       "peel"
     ],
-    "phosphor": "Sticker",
-    "fill": true
+    "phosphor": "Sticker"
   },
   {
     "name": "stop",
@@ -5748,8 +5469,7 @@ export const ICONS: IconMeta[] = [
       "player",
       "square"
     ],
-    "phosphor": "Stop",
-    "fill": true
+    "phosphor": "Stop"
   },
   {
     "name": "storefront",
@@ -5762,8 +5482,7 @@ export const ICONS: IconMeta[] = [
       "retail",
       "business"
     ],
-    "phosphor": "Storefront",
-    "fill": true
+    "phosphor": "Storefront"
   },
   {
     "name": "strategy",
@@ -5789,8 +5508,7 @@ export const ICONS: IconMeta[] = [
       "baggage",
       "work"
     ],
-    "phosphor": "SuitcaseSimple",
-    "fill": true
+    "phosphor": "SuitcaseSimple"
   },
   {
     "name": "sun",
@@ -5803,8 +5521,7 @@ export const ICONS: IconMeta[] = [
       "bright",
       "weather"
     ],
-    "phosphor": "Sun",
-    "fill": true
+    "phosphor": "Sun"
   },
   {
     "name": "sun-horizon",
@@ -5817,8 +5534,7 @@ export const ICONS: IconMeta[] = [
       "dusk",
       "morning"
     ],
-    "phosphor": "SunHorizon",
-    "fill": true
+    "phosphor": "SunHorizon"
   },
   {
     "name": "sunglasses",
@@ -5831,8 +5547,7 @@ export const ICONS: IconMeta[] = [
       "fashion",
       "eyewear"
     ],
-    "phosphor": "Sunglasses",
-    "fill": true
+    "phosphor": "Sunglasses"
   },
   {
     "name": "swap",
@@ -5857,8 +5572,7 @@ export const ICONS: IconMeta[] = [
       "design",
       "theme"
     ],
-    "phosphor": "Swatches",
-    "fill": true
+    "phosphor": "Swatches"
   },
   {
     "name": "syringe",
@@ -5871,8 +5585,7 @@ export const ICONS: IconMeta[] = [
       "medicine",
       "shot"
     ],
-    "phosphor": "Syringe",
-    "fill": true
+    "phosphor": "Syringe"
   },
   {
     "name": "t-shirt",
@@ -5885,8 +5598,7 @@ export const ICONS: IconMeta[] = [
       "merch",
       "fashion"
     ],
-    "phosphor": "TShirt",
-    "fill": true
+    "phosphor": "TShirt"
   },
   {
     "name": "table",
@@ -5899,8 +5611,7 @@ export const ICONS: IconMeta[] = [
       "cells",
       "rows"
     ],
-    "phosphor": "Table",
-    "fill": true
+    "phosphor": "Table"
   },
   {
     "name": "tabs",
@@ -5913,8 +5624,7 @@ export const ICONS: IconMeta[] = [
       "switch",
       "pages"
     ],
-    "phosphor": "Tabs",
-    "fill": true
+    "phosphor": "Tabs"
   },
   {
     "name": "tag",
@@ -5927,8 +5637,7 @@ export const ICONS: IconMeta[] = [
       "discount",
       "category"
     ],
-    "phosphor": "Tag",
-    "fill": true
+    "phosphor": "Tag"
   },
   {
     "name": "target",
@@ -5941,8 +5650,7 @@ export const ICONS: IconMeta[] = [
       "objective",
       "bullseye"
     ],
-    "phosphor": "Target",
-    "fill": true
+    "phosphor": "Target"
   },
   {
     "name": "television",
@@ -5955,8 +5663,7 @@ export const ICONS: IconMeta[] = [
       "watch",
       "show"
     ],
-    "phosphor": "Television",
-    "fill": true
+    "phosphor": "Television"
   },
   {
     "name": "terminal-window",
@@ -5969,8 +5676,7 @@ export const ICONS: IconMeta[] = [
       "shell",
       "cli"
     ],
-    "phosphor": "TerminalWindow",
-    "fill": true
+    "phosphor": "TerminalWindow"
   },
   {
     "name": "text-aa",
@@ -6177,8 +5883,7 @@ export const ICONS: IconMeta[] = [
       "cursor",
       "form"
     ],
-    "phosphor": "Textbox",
-    "fill": true
+    "phosphor": "Textbox"
   },
   {
     "name": "thermometer-simple",
@@ -6191,8 +5896,7 @@ export const ICONS: IconMeta[] = [
       "heat",
       "climate"
     ],
-    "phosphor": "ThermometerSimple",
-    "fill": true
+    "phosphor": "ThermometerSimple"
   },
   {
     "name": "thumbs-down",
@@ -6205,8 +5909,7 @@ export const ICONS: IconMeta[] = [
       "disagree",
       "downvote"
     ],
-    "phosphor": "ThumbsDown",
-    "fill": true
+    "phosphor": "ThumbsDown"
   },
   {
     "name": "thumbs-up",
@@ -6219,8 +5922,7 @@ export const ICONS: IconMeta[] = [
       "agree",
       "upvote"
     ],
-    "phosphor": "ThumbsUp",
-    "fill": true
+    "phosphor": "ThumbsUp"
   },
   {
     "name": "ticket",
@@ -6233,8 +5935,7 @@ export const ICONS: IconMeta[] = [
       "coupon",
       "support"
     ],
-    "phosphor": "Ticket",
-    "fill": true
+    "phosphor": "Ticket"
   },
   {
     "name": "timer",
@@ -6247,8 +5948,7 @@ export const ICONS: IconMeta[] = [
       "time",
       "speed"
     ],
-    "phosphor": "Timer",
-    "fill": true
+    "phosphor": "Timer"
   },
   {
     "name": "toggle-left",
@@ -6261,8 +5961,7 @@ export const ICONS: IconMeta[] = [
       "setting",
       "disabled"
     ],
-    "phosphor": "ToggleLeft",
-    "fill": true
+    "phosphor": "ToggleLeft"
   },
   {
     "name": "toggle-right",
@@ -6275,8 +5974,7 @@ export const ICONS: IconMeta[] = [
       "setting",
       "enabled"
     ],
-    "phosphor": "ToggleRight",
-    "fill": true
+    "phosphor": "ToggleRight"
   },
   {
     "name": "toolbox",
@@ -6289,8 +5987,7 @@ export const ICONS: IconMeta[] = [
       "repair",
       "utilities"
     ],
-    "phosphor": "Toolbox",
-    "fill": true
+    "phosphor": "Toolbox"
   },
   {
     "name": "translate",
@@ -6315,8 +6012,7 @@ export const ICONS: IconMeta[] = [
       "bin",
       "garbage"
     ],
-    "phosphor": "Trash",
-    "fill": true
+    "phosphor": "Trash"
   },
   {
     "name": "tray",
@@ -6329,8 +6025,7 @@ export const ICONS: IconMeta[] = [
       "received",
       "box"
     ],
-    "phosphor": "Tray",
-    "fill": true
+    "phosphor": "Tray"
   },
   {
     "name": "tree-structure",
@@ -6343,8 +6038,7 @@ export const ICONS: IconMeta[] = [
       "sitemap",
       "org chart"
     ],
-    "phosphor": "TreeStructure",
-    "fill": true
+    "phosphor": "TreeStructure"
   },
   {
     "name": "trend-down",
@@ -6383,8 +6077,7 @@ export const ICONS: IconMeta[] = [
       "achievement",
       "champion"
     ],
-    "phosphor": "Trophy",
-    "fill": true
+    "phosphor": "Trophy"
   },
   {
     "name": "truck",
@@ -6397,8 +6090,7 @@ export const ICONS: IconMeta[] = [
       "vehicle",
       "logistics"
     ],
-    "phosphor": "Truck",
-    "fill": true
+    "phosphor": "Truck"
   },
   {
     "name": "umbrella",
@@ -6413,8 +6105,7 @@ export const ICONS: IconMeta[] = [
       "weather",
       "cover"
     ],
-    "phosphor": "Umbrella",
-    "fill": true
+    "phosphor": "Umbrella"
   },
   {
     "name": "upload-simple",
@@ -6437,8 +6128,7 @@ export const ICONS: IconMeta[] = [
       "account",
       "profile"
     ],
-    "phosphor": "User",
-    "fill": true
+    "phosphor": "User"
   },
   {
     "name": "user-check",
@@ -6465,8 +6155,7 @@ export const ICONS: IconMeta[] = [
       "profile"
     ],
     "phosphor": "UserCircle",
-    "grid": "radial",
-    "fill": true
+    "grid": "radial"
   },
   {
     "name": "user-circle-plus",
@@ -6495,8 +6184,7 @@ export const ICONS: IconMeta[] = [
       "camera",
       "identity"
     ],
-    "phosphor": "UserFocus",
-    "fill": true
+    "phosphor": "UserFocus"
   },
   {
     "name": "user-gear",
@@ -6510,8 +6198,7 @@ export const ICONS: IconMeta[] = [
       "user"
     ],
     "phosphor": "UserGear",
-    "grid": "radial",
-    "fill": true
+    "grid": "radial"
   },
   {
     "name": "user-list",
@@ -6524,8 +6211,7 @@ export const ICONS: IconMeta[] = [
       "contacts",
       "people"
     ],
-    "phosphor": "UserList",
-    "fill": true
+    "phosphor": "UserList"
   },
   {
     "name": "user-minus",
@@ -6567,8 +6253,7 @@ export const ICONS: IconMeta[] = [
       "profile",
       "account"
     ],
-    "phosphor": "UserSwitch",
-    "fill": true
+    "phosphor": "UserSwitch"
   },
   {
     "name": "users",
@@ -6581,8 +6266,7 @@ export const ICONS: IconMeta[] = [
       "members",
       "contacts"
     ],
-    "phosphor": "Users",
-    "fill": true
+    "phosphor": "Users"
   },
   {
     "name": "users-four",
@@ -6595,8 +6279,7 @@ export const ICONS: IconMeta[] = [
       "people",
       "organization"
     ],
-    "phosphor": "UsersFour",
-    "fill": true
+    "phosphor": "UsersFour"
   },
   {
     "name": "users-three",
@@ -6609,8 +6292,7 @@ export const ICONS: IconMeta[] = [
       "people",
       "organization"
     ],
-    "phosphor": "UsersThree",
-    "fill": true
+    "phosphor": "UsersThree"
   },
   {
     "name": "van",
@@ -6623,8 +6305,7 @@ export const ICONS: IconMeta[] = [
       "delivery",
       "shuttle"
     ],
-    "phosphor": "Van",
-    "fill": true
+    "phosphor": "Van"
   },
   {
     "name": "video-camera",
@@ -6637,8 +6318,7 @@ export const ICONS: IconMeta[] = [
       "call",
       "meeting"
     ],
-    "phosphor": "VideoCamera",
-    "fill": true
+    "phosphor": "VideoCamera"
   },
   {
     "name": "video-camera-slash",
@@ -6651,8 +6331,7 @@ export const ICONS: IconMeta[] = [
       "disabled",
       "meeting"
     ],
-    "phosphor": "VideoCameraSlash",
-    "fill": true
+    "phosphor": "VideoCameraSlash"
   },
   {
     "name": "wallet",
@@ -6665,8 +6344,7 @@ export const ICONS: IconMeta[] = [
       "funds",
       "purse"
     ],
-    "phosphor": "Wallet",
-    "fill": true
+    "phosphor": "Wallet"
   },
   {
     "name": "warehouse",
@@ -6692,8 +6370,7 @@ export const ICONS: IconMeta[] = [
       "attention",
       "triangle"
     ],
-    "phosphor": "Warning",
-    "fill": true
+    "phosphor": "Warning"
   },
   {
     "name": "warning-circle",
@@ -6706,8 +6383,7 @@ export const ICONS: IconMeta[] = [
       "caution",
       "attention"
     ],
-    "phosphor": "WarningCircle",
-    "fill": true
+    "phosphor": "WarningCircle"
   },
   {
     "name": "warning-octagon",
@@ -6720,8 +6396,7 @@ export const ICONS: IconMeta[] = [
       "alert",
       "critical"
     ],
-    "phosphor": "WarningOctagon",
-    "fill": true
+    "phosphor": "WarningOctagon"
   },
   {
     "name": "watch",
@@ -6734,8 +6409,7 @@ export const ICONS: IconMeta[] = [
       "time",
       "fitness"
     ],
-    "phosphor": "Watch",
-    "fill": true
+    "phosphor": "Watch"
   },
   {
     "name": "waveform",
@@ -6826,8 +6500,7 @@ export const ICONS: IconMeta[] = [
       "alcohol",
       "bar"
     ],
-    "phosphor": "Wine",
-    "fill": true
+    "phosphor": "Wine"
   },
   {
     "name": "wrench",
@@ -6840,8 +6513,7 @@ export const ICONS: IconMeta[] = [
       "repair",
       "fix"
     ],
-    "phosphor": "Wrench",
-    "fill": true
+    "phosphor": "Wrench"
   },
   {
     "name": "x",
@@ -6866,7 +6538,6 @@ export const ICONS: IconMeta[] = [
       "failed",
       "remove"
     ],
-    "phosphor": "XCircle",
-    "fill": true
+    "phosphor": "XCircle"
   }
 ]

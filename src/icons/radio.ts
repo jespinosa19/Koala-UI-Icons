@@ -7,4 +7,4 @@ export const Radio = /* @__PURE__ */ createIcon("radio", [
   ["circle", { cx: 15, cy: 14, r: 3 }],
   ["path", { d: "M6 12H9" }],
   ["path", { d: "M6 16H9" }],
-], undefined, {"solid":[0],"line":[1],"hole":[2],"cut":[3,4]})
+])

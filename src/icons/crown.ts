@@ -6,4 +6,4 @@ export const Crown = /* @__PURE__ */ createIcon("crown", [
   ["circle", { cx: 4, cy: 8.5, r: 2 }],
   ["circle", { cx: 12, cy: 5.5, r: 2 }],
   ["circle", { cx: 20, cy: 8.5, r: 2 }],
-], undefined, {"solid":[0,1,2,3]})
+])

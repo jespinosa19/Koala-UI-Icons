@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const CloudLightning = /* @__PURE__ */ createIcon("cloud-lightning", [
   ["path", { d: "M8.5 6A4 4 0 1 0 8 14H14A6 6 0 1 0 8 8" }],
   ["path", { d: "M12 14l-2 4h3l-2 4" }],
-], undefined, {"solid":[0]})
+])

@@ -9,4 +9,4 @@ export const SunHorizon = /* @__PURE__ */ createIcon("sun-horizon", [
   ["path", { d: "m16 7 1-2" }],
   ["path", { d: "m4 11-2-1" }],
   ["path", { d: "m20 11 2-1" }],
-], undefined, {"solid":[0]})
+])

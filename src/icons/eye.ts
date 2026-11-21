@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Eye = /* @__PURE__ */ createIcon("eye", [
   ["path", { d: "M2.5 12C5 7.5 8.4 5 12 5s7 2.5 9.5 7c-2.5 4.5-5.9 7-9.5 7s-7-2.5-9.5-7Z" }],
   ["circle", { cx: 12, cy: 12, r: 3.5 }],
-], undefined, {"solid":[0],"cut":[1]})
+])

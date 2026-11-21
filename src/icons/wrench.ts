@@ -3,4 +3,4 @@ import { createIcon } from "../create-icon"
 
 export const Wrench = /* @__PURE__ */ createIcon("wrench", [
   ["path", { d: "M6.5 20.5L12.5 14.5A6.04 6.04 0 0 0 20.5 6.5L17.5 9.5L14.5 6.5L17.5 3.5A6.04 6.04 0 0 0 9.5 11.5L3.5 17.5A2.13 2.13 0 0 0 6.5 20.5Z" }],
-], undefined, {"solid":[0]})
+])

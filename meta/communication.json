@@ -2,26 +2,22 @@
   "chat-circle": {
     "category": "communication",
     "tags": ["message", "comment", "bubble", "conversation", "talk"],
-    "phosphor": "ChatCircle",
-    "fill": { "solid": [0] }
+    "phosphor": "ChatCircle"
   },
   "chat-circle-dots": {
     "category": "communication",
     "tags": ["message", "typing", "comment", "bubble", "reply"],
-    "phosphor": "ChatCircleDots",
-    "fill": { "solid": [0], "cut": [1, 2, 3] }
+    "phosphor": "ChatCircleDots"
   },
   "chats-circle": {
     "category": "communication",
     "tags": ["messages", "conversation", "discussion", "thread", "chat"],
-    "phosphor": "ChatsCircle",
-    "fill": { "solid": [0], "line": [1] }
+    "phosphor": "ChatsCircle"
   },
   "phone": {
     "category": "communication",
     "tags": ["call", "telephone", "contact", "dial", "support"],
-    "phosphor": "Phone",
-    "fill": { "solid": [0] }
+    "phosphor": "Phone"
   },
   "at": {
     "category": "communication",
@@ -31,32 +27,27 @@
   "paper-plane-tilt": {
     "category": "communication",
     "tags": ["send", "submit", "message", "share", "deliver"],
-    "phosphor": "PaperPlaneTilt",
-    "fill": { "solid": [0], "cut": [1] }
+    "phosphor": "PaperPlaneTilt"
   },
   "megaphone": {
     "category": "communication",
     "tags": ["announcement", "broadcast", "marketing", "promote", "news"],
-    "phosphor": "Megaphone",
-    "fill": { "solid": [0, 1] }
+    "phosphor": "Megaphone"
   },
   "envelope-open": {
     "category": "communication",
     "tags": ["email", "read", "mail", "opened", "inbox"],
-    "phosphor": "EnvelopeOpen",
-    "fill": { "solid": [0], "cut": [1] }
+    "phosphor": "EnvelopeOpen"
   },
   "bell-slash": {
     "category": "communication",
     "tags": ["mute", "silent", "notifications off", "disable", "quiet"],
-    "phosphor": "BellSlash",
-    "fill": { "solid": [0, 1, 2] }
+    "phosphor": "BellSlash"
   },
   "share-network": {
     "category": "communication",
     "tags": ["share", "social", "network", "connect", "distribute"],
-    "phosphor": "ShareNetwork",
-    "fill": { "solid": [0, 1, 2] }
+    "phosphor": "ShareNetwork"
   },
   "link": {
     "category": "communication",

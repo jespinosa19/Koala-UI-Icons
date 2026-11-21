@@ -5,4 +5,4 @@ export const Slideshow = /* @__PURE__ */ createIcon("slideshow", [
   ["path", { d: "M9 6H15C16.92 6 18 7.08 18 9V15C18 16.92 16.92 18 15 18H9C7.08 18 6 16.92 6 15V9C6 7.08 7.08 6 9 6Z" }],
   ["path", { d: "M2 6v12" }],
   ["path", { d: "M22 6v12" }],
-], undefined, {"solid":[0]})
+])

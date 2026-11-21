@@ -15,4 +15,4 @@ export const Syringe = /* @__PURE__ */ createIcon("syringe", [
   ["path", { d: "m11 6 7 7" }],
   ["path", { d: "m14.5 9.5 4.5-4.5" }],
   ["path", { d: "m17 3 4 4" }],
-], {"solid":[0],"cut":[5,6]})
+])

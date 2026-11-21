@@ -6,4 +6,4 @@ export const Ruler = /* @__PURE__ */ createIcon("ruler", [
   ["path", { d: "M5 12.5L7.5 15" }],
   ["path", { d: "M8.5 9L11 11.5" }],
   ["path", { d: "M12 5.5L14.5 8" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

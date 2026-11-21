@@ -7,4 +7,4 @@ export const Toolbox = /* @__PURE__ */ createIcon("toolbox", [
   ["path", { d: "M2 12h20" }],
   ["path", { d: "M7 11v3.5" }],
   ["path", { d: "M17 11v3.5" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2,3,4]})
+])

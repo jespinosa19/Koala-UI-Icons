@@ -10,4 +10,4 @@ export const BoundingBox = /* @__PURE__ */ createIcon("bounding-box", [
   ["path", { d: "M7 19h10" }],
   ["path", { d: "M5 7v10" }],
   ["path", { d: "M19 7v10" }],
-], undefined, {"solid":[0,1,2,3]})
+])

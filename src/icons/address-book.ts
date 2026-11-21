@@ -8,4 +8,4 @@ export const AddressBook = /* @__PURE__ */ createIcon("address-book", [
   ["path", { d: "M3.5 7H6" }],
   ["path", { d: "M3.5 12H6" }],
   ["path", { d: "M3.5 17H6" }],
-], undefined, {"solid":[0],"cut":[1,2],"line":[3,4,5]})
+])

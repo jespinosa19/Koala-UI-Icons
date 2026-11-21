@@ -3,4 +3,4 @@ import { createIcon } from "../create-icon"
 
 export const Circle = /* @__PURE__ */ createIcon("circle", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
-], undefined, {"solid":[0]})
+])

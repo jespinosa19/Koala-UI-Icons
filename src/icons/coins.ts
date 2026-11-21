@@ -5,4 +5,4 @@ export const Coins = /* @__PURE__ */ createIcon("coins", [
   ["circle", { cx: 9, cy: 15, r: 6 }],
   ["path", { d: "M9 9A6 6 0 1 1 15 15" }],
   ["path", { d: "M9 13v4" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2]})
+])

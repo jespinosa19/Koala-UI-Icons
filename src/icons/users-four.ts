@@ -8,4 +8,4 @@ export const UsersFour = /* @__PURE__ */ createIcon("users-four", [
   ["circle", { cx: 7, cy: 15.5, r: 2.5 }],
   ["circle", { cx: 17, cy: 15.5, r: 2.5 }],
   ["path", { d: "M2 21.5C2.9 19.4 4.7 18 7 18s4.1 1.4 5 3.5c.9-2.1 2.7-3.5 5-3.5s4.1 1.4 5 3.5" }],
-], undefined, {"solid":[0,1,2,3,4,5]})
+])

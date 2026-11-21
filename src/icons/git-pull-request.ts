@@ -8,4 +8,4 @@ export const GitPullRequest = /* @__PURE__ */ createIcon("git-pull-request", [
   ["path", { d: "M6 8.5v7" }],
   ["path", { d: "M18 15.5L18 12C18 10.72 17.46 9.46 16.5 8.5L13 5" }],
   ["path", { d: "M17.5 5H13v4.5" }],
-], undefined, {"solid":[0,1,2]})
+])

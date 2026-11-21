@@ -7,4 +7,4 @@ export const RocketLaunch = /* @__PURE__ */ createIcon("rocket-launch", [
   ["path", { d: "M17.5 14L17 17.5C16.96 18.55 16.46 19.31 15.5 20L14 20.5C13.23 20.92 12.47 20.67 12 20L11.5 17.5" }],
   ["circle", { cx: 15, cy: 9, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["path", { d: "M7 15.5c-1.5.5-3 2.5-3 4.5 2 0 4-1.5 4.5-3" }],
-], undefined, {"solid":[0,1,2],"cut":[3]})
+])

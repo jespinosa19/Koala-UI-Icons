@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const User = /* @__PURE__ */ createIcon("user", [
   ["circle", { cx: 12, cy: 7, r: 4 }],
   ["path", { d: "M3.5 21c1-3.8 4.4-6.5 8.5-6.5s7.5 2.7 8.5 6.5" }],
-], undefined, {"solid":[0,1]})
+])

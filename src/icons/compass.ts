@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Compass = /* @__PURE__ */ createIcon("compass", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["path", { d: "M16 8.5L14.5 13.5C14.18 13.82 13.82 14.18 13.5 14.5L8.5 16C7.86 16.32 7.68 16.14 8 15.5L9.5 10.5C9.82 10.18 10.18 9.82 10.5 9.5L15.5 8C16.14 7.68 16.32 7.86 16 8.5Z" }],
-], undefined, {"solid":[0],"hole":[1]})
+])

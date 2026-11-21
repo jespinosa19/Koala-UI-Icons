@@ -9,4 +9,4 @@ export const Robot = /* @__PURE__ */ createIcon("robot", [
   ["rect", { x: 6, y: 13, width: 12, height: 4, rx: 2 }],
   ["path", { d: "M10 13v4" }],
   ["path", { d: "M14 13v4" }],
-], undefined, {"solid":[0],"cut":[2,3,4,5,6]})
+])

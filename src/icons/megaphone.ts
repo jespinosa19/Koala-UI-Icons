@@ -5,4 +5,4 @@ export const Megaphone = /* @__PURE__ */ createIcon("megaphone", [
   ["path", { d: "M14 8L17 8C19.56 8 21 9.44 21 12L21 12C21 14.56 19.56 16 17 16L14 16L14 8Z" }],
   ["path", { d: "M14 8L5.5 5C3.9 4.36 3 4.9 3 6.5L3 17.5C3 19.1 3.9 19.64 5.5 19L14 16" }],
   ["path", { d: "M15 16l1 4" }],
-], undefined, {"solid":[0,1]})
+])

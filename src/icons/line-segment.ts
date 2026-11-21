@@ -5,4 +5,4 @@ export const LineSegment = /* @__PURE__ */ createIcon("line-segment", [
   ["circle", { cx: 6, cy: 18, r: 2.83 }],
   ["circle", { cx: 18, cy: 6, r: 2.83 }],
   ["path", { d: "M8 16l8-8" }],
-], undefined, {"solid":[0,1]})
+])

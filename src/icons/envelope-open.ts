@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const EnvelopeOpen = /* @__PURE__ */ createIcon("envelope-open", [
   ["path", { d: "M2 17L2 12C2 10.72 2.54 9.64 3.5 9L10 4.5C11.28 3.54 12.72 3.54 14 4.5L20.5 9C21.46 9.64 22 10.72 22 12L22 17C22 19.56 20.56 21 18 21L6 21C3.44 21 2 19.56 2 17Z" }],
   ["path", { d: "M7 12.5c2.3 1.8 3.6 3 5 3s2.7-1.2 5-3" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

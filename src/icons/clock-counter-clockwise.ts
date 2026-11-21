@@ -5,4 +5,4 @@ export const ClockCounterClockwise = /* @__PURE__ */ createIcon("clock-counter-c
   ["path", { d: "M6 18A8.5 8.5 0 1 0 6 6C5 7.1 4 8.4 3 10" }],
   ["path", { d: "M3 6v4h4" }],
   ["path", { d: "M12 7.5V12l3.5 2" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2]})
+])

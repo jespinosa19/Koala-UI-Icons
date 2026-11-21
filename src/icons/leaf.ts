@@ -5,4 +5,4 @@ export const Leaf = /* @__PURE__ */ createIcon("leaf", [
   ["path", { d: "M6 18C3 12 7 4 18 4C19.28 4 20 4.72 20 6C20 17 12 21 6 18Z" }],
   ["path", { d: "M15 9 8.5 15.5" }],
   ["path", { d: "M8.5 15.5 3.5 20.5" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

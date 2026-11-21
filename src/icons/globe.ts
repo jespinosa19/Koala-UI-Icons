@@ -10,4 +10,4 @@ export const Globe = /* @__PURE__ */ createIcon("globe", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["path", { d: "M12 2.5C9.3 5 8 8.5 8 12s1.3 7 4 9.5c2.7-2.5 4-6 4-9.5s-1.3-7-4-9.5Z" }],
   ["path", { d: "M2.5 12h19" }],
-], {"solid":[0],"cut":[1,2,3]})
+])

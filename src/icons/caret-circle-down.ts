@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const CaretCircleDown = /* @__PURE__ */ createIcon("caret-circle-down", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["path", { d: "m8 10 4 4 4-4" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

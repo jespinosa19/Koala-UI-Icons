@@ -7,4 +7,4 @@ export const UserList = /* @__PURE__ */ createIcon("user-list", [
   ["path", { d: "M16 8h6" }],
   ["path", { d: "M16 12h6" }],
   ["path", { d: "M18 16h4" }],
-], undefined, {"solid":[0,1]})
+])

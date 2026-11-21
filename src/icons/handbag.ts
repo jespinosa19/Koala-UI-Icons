@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Handbag = /* @__PURE__ */ createIcon("handbag", [
   ["path", { d: "M5.5 7L18.5 7C19.46 7 20 7.54 20 8.5L21.5 19C21.5 20.28 20.78 21 19.5 21L4.5 21C3.22 21 2.5 20.28 2.5 19L4 8.5C4 7.54 4.54 7 5.5 7Z" }],
   ["path", { d: "M8 10V7A4 4 0 0 1 16 7V10" }],
-], undefined, {"solid":[0],"line":[1]})
+])

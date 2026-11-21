@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const IceCream = /* @__PURE__ */ createIcon("ice-cream", [
   ["path", { d: "M5.5 12A7 7 0 1 1 18.5 12Z" }],
   ["path", { d: "M6.5 12L10.5 20C11.2 21.41 12.8 21.41 13.5 20L17.5 12" }],
-], undefined, {"solid":[0],"line":[1]})
+])

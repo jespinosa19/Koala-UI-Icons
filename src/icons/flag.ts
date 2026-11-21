@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Flag = /* @__PURE__ */ createIcon("flag", [
   ["path", { d: "M4 5C6.8 2.8 9.3 3.7 12.5 5.5C15.7 7.3 18.2 7.3 21 5V16C18.2 18.3 15.7 18.3 12.5 16.5C9.3 14.7 6.8 13.8 4 16" }],
   ["path", { d: "M4 21V5" }],
-], undefined, {"solid":[0]})
+])

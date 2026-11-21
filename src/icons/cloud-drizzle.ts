@@ -12,4 +12,4 @@ export const CloudDrizzle = /* @__PURE__ */ createIcon("cloud-drizzle", [
   ["path", { d: "M9 17.5l-1 2" }],
   ["path", { d: "M13 18.5l-1 2" }],
   ["path", { d: "M17 17.5l-1 2" }],
-], {"solid":[0]})
+])

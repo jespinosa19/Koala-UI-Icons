@@ -7,4 +7,4 @@ export const ShareNetwork = /* @__PURE__ */ createIcon("share-network", [
   ["circle", { cx: 18, cy: 18, r: 3 }],
   ["path", { d: "M8.5 10.5l7-3" }],
   ["path", { d: "M8.5 13.5l7 3" }],
-], undefined, {"solid":[0,1,2]})
+])

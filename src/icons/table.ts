@@ -6,4 +6,4 @@ export const Table = /* @__PURE__ */ createIcon("table", [
   ["path", { d: "M2 9h20" }],
   ["path", { d: "M2 14h20" }],
   ["path", { d: "M9 9v11" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

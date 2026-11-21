@@ -8,4 +8,4 @@ export const QrCode = /* @__PURE__ */ createIcon("qr-code", [
   ["path", { d: "M14 14v3" }],
   ["path", { d: "M18 14v6h-4" }],
   ["path", { d: "M18 17h2" }],
-], undefined, {"solid":[0,1,2]})
+])

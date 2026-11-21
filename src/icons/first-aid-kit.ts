@@ -5,4 +5,4 @@ export const FirstAidKit = /* @__PURE__ */ createIcon("first-aid-kit", [
   ["path", { d: "M7 6L8 6L8 4.5C8 3.54 8.54 3 9.5 3L14.5 3C15.46 3 16 3.54 16 4.5L16 6L17 6C19.56 6 21 7.44 21 10L21 16C21 18.56 19.56 20 17 20L7 20C4.44 20 3 18.56 3 16L3 10C3 7.44 4.44 6 7 6Z" }],
   ["path", { d: "M12 10.5v5" }],
   ["path", { d: "M9.5 13h5" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

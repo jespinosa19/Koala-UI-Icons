@@ -3,4 +3,4 @@ import { createIcon } from "../create-icon"
 
 export const ChatCircle = /* @__PURE__ */ createIcon("chat-circle", [
   ["path", { d: "M8.5 19.5A9 9 0 1 0 4.5 15.5L4 18.5C3.68 19.78 4.22 20.32 5.5 20L8.5 19.5Z" }],
-], undefined, {"solid":[0]})
+])

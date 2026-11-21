@@ -11,4 +11,4 @@ export const CalendarDots = /* @__PURE__ */ createIcon("calendar-dots", [
   ["circle", { cx: 7.5, cy: 17, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 12, cy: 17, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 16.5, cy: 17, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"line":[1,2],"cut":[3,4,5,6,7,8]})
+])

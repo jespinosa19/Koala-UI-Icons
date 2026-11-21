@@ -3,4 +3,4 @@ import { createIcon } from "../create-icon"
 
 export const Play = /* @__PURE__ */ createIcon("play", [
   ["path", { d: "M8 4.5L19 10.5C20.28 11.46 20.28 12.54 19 13.5L8 19.5C6.72 20.46 6 20.1 6 18.5L6 5.5C6 3.9 6.72 3.54 8 4.5Z" }],
-], undefined, {"solid":[0]})
+])

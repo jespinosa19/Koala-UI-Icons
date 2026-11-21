@@ -47,16 +47,15 @@ import { ArrowRight } from "koala-icons/icons/arrow-right"
 
 No hooks and no context: every icon renders in React Server Components as-is.
 
-## Size, colour and weight
+## Size and colour
 
 Icons default to `1em`, so they follow the font size of the text beside them. Set a size with a
 class or the `size` prop (a number is pixels). They draw in `currentColor`, so text colour
-utilities colour them.
+utilities colour them. There is one weight, the outline.
 
 ```tsx
 <Info className="size-5 text-zinc-500" />
 <Info size={20} color="tomato" />
-<Heart weight="fill" />
 ```
 
 Small sizes get their own masters. Import the optional stylesheet once and icons at 16 px or less
@@ -79,7 +78,7 @@ it means. When it stands alone, name it with `title` or `aria-label` and it beco
 ## Coming from Phosphor
 
 Where [Phosphor](https://phosphoricons.com) has the same object, the name matches, and the
-`weight` prop accepts Phosphor's values, so moving over is mostly an import-path change.
+`weight` prop accepts Phosphor's values (all draw the one outline, there is no `fill`), so moving over is mostly an import-path change.
 `koala-icons/meta` exports `ICONS` (name, component, category, tags) for pickers and search.
 
 ## Categories

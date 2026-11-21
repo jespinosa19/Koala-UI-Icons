@@ -10,4 +10,4 @@ export const Plugs = /* @__PURE__ */ createIcon("plugs", [
   ["path", { d: "M16.5 12L18.5 10C19.46 9.04 19.46 7.96 18.5 7L16.5 5C15.54 4.04 14.46 4.04 13.5 5L11.5 7" }],
   ["path", { d: "m10.5 6 7 7" }],
   ["path", { d: "M17.5 6 21 2.5" }],
-], undefined, {"solid":[0,5]})
+])

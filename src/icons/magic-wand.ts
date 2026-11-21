@@ -10,4 +10,4 @@ export const MagicWand = /* @__PURE__ */ createIcon("magic-wand", [
   ["path", { d: "M17 14h4" }],
   ["path", { d: "M15 17.5v3" }],
   ["path", { d: "M13.5 19h3" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

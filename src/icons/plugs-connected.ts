@@ -17,4 +17,4 @@ export const PlugsConnected = /* @__PURE__ */ createIcon("plugs-connected", [
   ["path", { d: "m8.5 8.5 7 7" }],
   ["path", { d: "M8.5 15.5 3 21" }],
   ["path", { d: "M15.5 8.5 21 3" }],
-], {"solid":[0,1],"cut":[2]})
+])

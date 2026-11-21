@@ -6,4 +6,4 @@ export const Paragraph = /* @__PURE__ */ createIcon("paragraph", [
   ["path", { d: "M14 5h6" }],
   ["path", { d: "M14 5v14.5" }],
   ["path", { d: "M18 5v14.5" }],
-], undefined, {"solid":[0]})
+])

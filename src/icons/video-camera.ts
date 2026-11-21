@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const VideoCamera = /* @__PURE__ */ createIcon("video-camera", [
   ["path", { d: "M6 6H12C14.56 6 16 7.44 16 10V14C16 16.56 14.56 18 12 18H6C3.44 18 2 16.56 2 14V10C2 7.44 3.44 6 6 6Z" }],
   ["path", { d: "M16 10.5L20 8.5C21.28 7.86 22 8.22 22 9.5L22 14.5C22 15.78 21.28 16.14 20 15.5L16 13.5" }],
-], undefined, {"solid":[0,1]})
+])

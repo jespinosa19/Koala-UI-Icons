@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const SkipForward = /* @__PURE__ */ createIcon("skip-forward", [
   ["path", { d: "M6.5 5L19 12L6.5 19C5.54 19.64 5 19.28 5 18L5 6C5 4.72 5.54 4.36 6.5 5Z" }],
   ["path", { d: "M19 4v16" }],
-], undefined, {"solid":[0]})
+])

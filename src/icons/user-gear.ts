@@ -11,4 +11,4 @@ export const UserGear = /* @__PURE__ */ createIcon("user-gear", [
   ["path", { d: "M15.5 13L14 13" }],
   ["path", { d: "M16.75 15.17L16 16.46" }],
   ["path", { d: "M19.25 15.17L20 16.46" }],
-], undefined, {"solid":[0,1]})
+])

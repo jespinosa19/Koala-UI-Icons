@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const MusicNote = /* @__PURE__ */ createIcon("music-note", [
   ["circle", { cx: 8, cy: 17.5, r: 3 }],
   ["path", { d: "M11 17.5L11 4.5C11 3.86 11.36 3.68 12 4L17.5 5.5C18.46 5.82 19 6.54 19 7.5L19 9C19 9.96 18.46 10.32 17.5 10L11 8" }],
-], undefined, {"solid":[0,1]})
+])

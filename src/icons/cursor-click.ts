@@ -7,4 +7,4 @@ export const CursorClick = /* @__PURE__ */ createIcon("cursor-click", [
   ["path", { d: "M2 10h2" }],
   ["path", { d: "m14 4 1-2" }],
   ["path", { d: "m4 14-2 1" }],
-], undefined, {"solid":[0]})
+])

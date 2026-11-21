@@ -9,4 +9,4 @@ export const PresentationChart = /* @__PURE__ */ createIcon("presentation-chart"
   ["path", { d: "M12 2V4" }],
   ["path", { d: "M8.5 17L6 21" }],
   ["path", { d: "M15.5 17L18 21" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

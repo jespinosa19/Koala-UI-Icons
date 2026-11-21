@@ -6,4 +6,4 @@ export const Desktop = /* @__PURE__ */ createIcon("desktop", [
   ["path", { d: "M3 13h18" }],
   ["path", { d: "M12 17v4" }],
   ["path", { d: "M9 21h6" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

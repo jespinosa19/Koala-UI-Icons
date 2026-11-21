@@ -6,4 +6,4 @@ export const Calendar = /* @__PURE__ */ createIcon("calendar", [
   ["path", { d: "M8 2v4" }],
   ["path", { d: "M16 2v4" }],
   ["path", { d: "M3 9h18" }],
-], undefined, {"solid":[0],"line":[1,2],"cut":[3]})
+])

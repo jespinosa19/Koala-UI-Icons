@@ -8,4 +8,4 @@ export const PoliceCar = /* @__PURE__ */ createIcon("police-car", [
   ["path", { d: "M6 15h2" }],
   ["path", { d: "M16 15h2" }],
   ["path", { d: "M10 3h4" }],
-], undefined, {"solid":[0,2],"line":[1,5],"cut":[3,4]})
+])

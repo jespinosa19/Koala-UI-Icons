@@ -7,4 +7,4 @@ export const Basket = /* @__PURE__ */ createIcon("basket", [
   ["path", { d: "M8 13L8.5 17.5" }],
   ["path", { d: "M12 13L12 17.5" }],
   ["path", { d: "M16 13L15.5 17.5" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2,3,4]})
+])

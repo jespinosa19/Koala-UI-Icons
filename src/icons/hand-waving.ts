@@ -10,4 +10,4 @@ export const HandWaving = /* @__PURE__ */ createIcon("hand-waving", [
   ["path", { d: "M8.5 12 6.5 8.5" }],
   ["path", { d: "M11 9.5 9 6" }],
   ["path", { d: "M15 8.5l.5 1C14.3 11.2 13.9 13.4 15 15" }],
-], undefined, {"solid":[0,1,2],"cut":[5,6,7]})
+])

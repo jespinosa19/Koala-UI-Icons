@@ -5,4 +5,4 @@ export const SpeakerLow = /* @__PURE__ */ createIcon("speaker-low", [
   ["path", { d: "M9 8L14 4C14.64 3.36 15 3.54 15 4.5L15 19.5C15 20.46 14.64 20.64 14 20L9 16L5.5 16C4.54 16 4 15.46 4 14.5L4 9.5C4 8.54 4.54 8 5.5 8L9 8Z" }],
   ["path", { d: "M9 8v8" }],
   ["path", { d: "M19 10a3 3 0 0 1 0 4" }],
-], undefined, {"solid":[0]})
+])

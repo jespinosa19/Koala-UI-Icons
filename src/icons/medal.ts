@@ -5,4 +5,4 @@ export const Medal = /* @__PURE__ */ createIcon("medal", [
   ["path", { d: "M8 14.5V21l4-2.5 4 2.5v-6.5" }],
   ["circle", { cx: 12, cy: 9, r: 7 }],
   ["circle", { cx: 12, cy: 9, r: 3 }],
-], undefined, {"solid":[0,1],"cut":[2]})
+])

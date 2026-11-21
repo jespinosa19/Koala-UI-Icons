@@ -7,4 +7,4 @@ export const Broadcast = /* @__PURE__ */ createIcon("broadcast", [
   ["path", { d: "M8 7A6.4 6.4 0 0 0 8 17" }],
   ["path", { d: "M18 4A10 10 0 0 1 18 20" }],
   ["path", { d: "M6 4A10 10 0 0 0 6 20" }],
-], undefined, {"solid":[0]})
+])

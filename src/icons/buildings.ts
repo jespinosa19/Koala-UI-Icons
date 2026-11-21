@@ -15,4 +15,4 @@ export const Buildings = /* @__PURE__ */ createIcon("buildings", [
   ["path", { d: "M14 9V21" }],
   ["circle", { cx: 6.5, cy: 12.5, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 10.5, cy: 12.5, r: 1.25, fill: "currentColor", stroke: "none" }],
-], {"solid":[1],"cut":[2,3,4,5,6]})
+])

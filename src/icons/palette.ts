@@ -7,4 +7,4 @@ export const Palette = /* @__PURE__ */ createIcon("palette", [
   ["circle", { cx: 8, cy: 9.5, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 8, cy: 14.5, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 16, cy: 9.5, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4]})
+])

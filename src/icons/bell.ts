@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Bell = /* @__PURE__ */ createIcon("bell", [
   ["path", { d: "M5 9a7 7 0 0 1 14 0c0 3.6.8 6.1 1.5 7.5.4.8 0 1.5-1 1.5h-15c-1 0-1.4-.7-1-1.5.7-1.4 1.5-3.9 1.5-7.5Z" }],
   ["path", { d: "M8.5 18a3.5 3.5 0 0 0 7 0" }],
-], undefined, {"solid":[0,1]})
+])

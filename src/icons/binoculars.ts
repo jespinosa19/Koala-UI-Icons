@@ -7,4 +7,4 @@ export const Binoculars = /* @__PURE__ */ createIcon("binoculars", [
   ["path", { d: "M2.5 14.5 6 6.5a2 2 0 0 1 4 0V16" }],
   ["path", { d: "M21.5 14.5 18 6.5a2 2 0 0 0-4 0V16" }],
   ["path", { d: "M10 9h4" }],
-], undefined, {"solid":[0,1,2,3],"line":[4]})
+])

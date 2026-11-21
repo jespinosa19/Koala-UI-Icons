@@ -5,4 +5,4 @@ export const ChartDonut = /* @__PURE__ */ createIcon("chart-donut", [
   ["path", { d: "M12 2.5A9.5 9.5 0 1 1 4 7L8.5 10A4 4 0 1 0 12 8Z" }],
   ["path", { d: "M12 16V21.5" }],
   ["path", { d: "M8 13L3 14.5" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

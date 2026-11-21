@@ -6,4 +6,4 @@ export const PenNib = /* @__PURE__ */ createIcon("pen-nib", [
   ["path", { d: "M12 5.5L14 3.5C14.68 2.82 15.32 2.82 16 3.5L20.5 8C21.18 8.68 21.18 9.32 20.5 10L18.5 12" }],
   ["circle", { cx: 11, cy: 13, r: 2 }],
   ["path", { d: "M3 21L9.5 14.5" }],
-], undefined, {"solid":[0,1],"hole":[2],"cut":[3]})
+])

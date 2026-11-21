@@ -6,4 +6,4 @@ export const Files = /* @__PURE__ */ createIcon("files", [
   ["path", { d: "M8 6C8 3.44 9.44 2 12 2L14 2C14.96 2 15.86 2.36 16.5 3L19 5.5C19.64 6.14 20 7.04 20 8L20 14C20 16.56 18.56 18 16 18" }],
   ["path", { d: "M8 14h4" }],
   ["path", { d: "M8 18h4" }],
-], undefined, {"solid":[0],"cut":[2,3]})
+])

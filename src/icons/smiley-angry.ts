@@ -8,4 +8,4 @@ export const SmileyAngry = /* @__PURE__ */ createIcon("smiley-angry", [
   ["path", { d: "M7 7.5l3 1.5" }],
   ["path", { d: "M17 7.5l-3 1.5" }],
   ["path", { d: "M8 17.5c1-1.7 2.4-2.5 4-2.5s3 .8 4 2.5" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4,5]})
+])

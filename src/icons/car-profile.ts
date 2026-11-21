@@ -7,4 +7,4 @@ export const CarProfile = /* @__PURE__ */ createIcon("car-profile", [
   ["path", { d: "M9.5 16h5" }],
   ["circle", { cx: 7, cy: 16, r: 2.5 }],
   ["circle", { cx: 17, cy: 16, r: 2.5 }],
-], undefined, {"solid":[0,3,4],"line":[1]})
+])

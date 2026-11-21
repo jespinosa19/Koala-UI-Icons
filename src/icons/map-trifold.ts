@@ -5,4 +5,4 @@ export const MapTrifold = /* @__PURE__ */ createIcon("map-trifold", [
   ["path", { d: "M4.5 5.5L9 4L15 6L19.5 4.5C20.46 4.18 21 4.54 21 5.5L21 16C21 17.28 20.28 18.18 19 18.5L15 20L9 18L5 19.5C3.72 19.82 3 19.28 3 18L3 7.5C3 6.54 3.54 5.82 4.5 5.5Z" }],
   ["path", { d: "M9 4v14" }],
   ["path", { d: "M15 6v14" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

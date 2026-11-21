@@ -6,4 +6,4 @@ export const FileText = /* @__PURE__ */ createIcon("file-text", [
   ["path", { d: "M14 2v4a2 2 0 0 0 2 2h4" }],
   ["path", { d: "M8 13h8" }],
   ["path", { d: "M8 17h8" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

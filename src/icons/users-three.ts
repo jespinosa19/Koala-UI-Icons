@@ -8,4 +8,4 @@ export const UsersThree = /* @__PURE__ */ createIcon("users-three", [
   ["path", { d: "M6 10c-1.7 0-3.1.9-4 2.5" }],
   ["path", { d: "M18 10a3 3 0 1 0-3-3" }],
   ["path", { d: "M18 10c1.7 0 3.1.9 4 2.5" }],
-], undefined, {"solid":[0,1,2,4]})
+])

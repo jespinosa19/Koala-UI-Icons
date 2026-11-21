@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const ShieldCheck = /* @__PURE__ */ createIcon("shield-check", [
   ["path", { d: "M4 9.5L4 6C4 4.08 5.08 3 7 3L17 3C18.92 3 20 4.08 20 6L20 9.5C20 14.5 16.5 18.5 12 20.5C7.5 18.5 4 14.5 4 9.5Z" }],
   ["path", { d: "m8 11.5 2.5 2.5 5.5-5.5" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

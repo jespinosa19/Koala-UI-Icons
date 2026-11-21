@@ -14,4 +14,4 @@ export const CloudSun = /* @__PURE__ */ createIcon("cloud-sun", [
   ["path", { d: "M4.5 10h-2" }],
   ["path", { d: "m6 6-1.5-1.5" }],
   ["path", { d: "M10 4.5v-2" }],
-], {"solid":[0,1]})
+])

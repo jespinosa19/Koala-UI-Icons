@@ -10,4 +10,4 @@ export const BowlSteam = /* @__PURE__ */ createIcon("bowl-steam", [
   ["path", { d: "M3 12h18c0 4.42-4.03 8-9 8s-9-3.58-9-8Z" }],
   ["path", { d: "M9.5 9c-1-1-1-2 0-3s1-2 0-3" }],
   ["path", { d: "M14.5 9c-1-1-1-2 0-3s1-2 0-3" }],
-], {"solid":[0],"line":[1,2,3]})
+])

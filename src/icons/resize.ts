@@ -8,4 +8,4 @@ export const Resize = /* @__PURE__ */ createIcon("resize", [
   ["path", { d: "M17 4L18 4C19.28 4 20 4.72 20 6L20 7" }],
   ["path", { d: "M20 10.5v3" }],
   ["path", { d: "M20 17L20 18C20 19.28 19.28 20 18 20L17 20" }],
-], undefined, {"solid":[0]})
+])

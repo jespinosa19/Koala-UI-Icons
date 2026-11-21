@@ -7,4 +7,4 @@ export const IdentificationCard = /* @__PURE__ */ createIcon("identification-car
   ["path", { d: "M4.5 16c.5-1.8 1.8-3 3.5-3s3 1.2 3.5 3" }],
   ["path", { d: "M14 10h4" }],
   ["path", { d: "M14 14h4" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4]})
+])

@@ -5,4 +5,4 @@ export const CaretCircleUpDown = /* @__PURE__ */ createIcon("caret-circle-up-dow
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["path", { d: "m9 10 3-3 3 3" }],
   ["path", { d: "m9 14 3 3 3-3" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

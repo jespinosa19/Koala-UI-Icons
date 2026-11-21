@@ -13,4 +13,4 @@ export const Bug = /* @__PURE__ */ createIcon("bug", [
   ["path", { d: "M21.5 6.5 18.5 7.5" }],
   ["path", { d: "M2.5 17.5 5.5 16.5" }],
   ["path", { d: "M21.5 17.5 18.5 16.5" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4]})
+])

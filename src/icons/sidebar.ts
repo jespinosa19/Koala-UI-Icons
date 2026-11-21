@@ -6,4 +6,4 @@ export const Sidebar = /* @__PURE__ */ createIcon("sidebar", [
   ["path", { d: "M8 4v16" }],
   ["path", { d: "M2 8h3" }],
   ["path", { d: "M2 12h3" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

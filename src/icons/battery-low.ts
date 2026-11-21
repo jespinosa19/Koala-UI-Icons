@@ -5,4 +5,4 @@ export const BatteryLow = /* @__PURE__ */ createIcon("battery-low", [
   ["path", { d: "M6 6H14C16.56 6 18 7.44 18 10V14C18 16.56 16.56 18 14 18H6C3.44 18 2 16.56 2 14V10C2 7.44 3.44 6 6 6Z" }],
   ["path", { d: "M22 9v6" }],
   ["path", { d: "M6 9v6" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2]})
+])

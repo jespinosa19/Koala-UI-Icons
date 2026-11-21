@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const Prohibit = /* @__PURE__ */ createIcon("prohibit", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["path", { d: "m6 6 12 12" }],
-], undefined, {"solid":[0],"cut":[1]})
+])

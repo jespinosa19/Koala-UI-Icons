@@ -6,4 +6,4 @@ export const FileMagnifyingGlass = /* @__PURE__ */ createIcon("file-magnifying-g
   ["path", { d: "M14 2v4a2 2 0 0 0 2 2h4" }],
   ["circle", { cx: 11.5, cy: 14.5, r: 3 }],
   ["path", { d: "m14 17 2 2" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

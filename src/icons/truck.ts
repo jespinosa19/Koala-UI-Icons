@@ -7,4 +7,4 @@ export const Truck = /* @__PURE__ */ createIcon("truck", [
   ["path", { d: "M14 9v4" }],
   ["circle", { cx: 7, cy: 17, r: 2 }],
   ["circle", { cx: 17, cy: 17, r: 2 }],
-], undefined, {"solid":[0,3,4],"cut":[2]})
+])

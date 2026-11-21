@@ -6,4 +6,4 @@ export const FileArrowUp = /* @__PURE__ */ createIcon("file-arrow-up", [
   ["path", { d: "M14 2v4a2 2 0 0 0 2 2h4" }],
   ["path", { d: "M12 18V11" }],
   ["path", { d: "m9 14 3-3 3 3" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

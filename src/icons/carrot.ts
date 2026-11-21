@@ -14,4 +14,4 @@ export const Carrot = /* @__PURE__ */ createIcon("carrot", [
   ["path", { d: "M15 7V3.5" }],
   ["path", { d: "M17 9h3.5" }],
   ["path", { d: "m7.5 11.5 2 2" }],
-], {"solid":[0],"line":[1,2,3],"cut":[4,5]})
+])

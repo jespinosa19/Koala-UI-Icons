@@ -7,4 +7,4 @@ export const GameController = /* @__PURE__ */ createIcon("game-controller", [
   ["path", { d: "M6.5 10h3" }],
   ["circle", { cx: 15, cy: 11, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 17, cy: 9, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4]})
+])

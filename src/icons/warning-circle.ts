@@ -5,4 +5,4 @@ export const WarningCircle = /* @__PURE__ */ createIcon("warning-circle", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["path", { d: "M12 7.5v5" }],
   ["circle", { cx: 12, cy: 16.5, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

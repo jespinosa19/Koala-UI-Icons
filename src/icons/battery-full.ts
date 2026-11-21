@@ -7,4 +7,4 @@ export const BatteryFull = /* @__PURE__ */ createIcon("battery-full", [
   ["path", { d: "M6 9v6" }],
   ["path", { d: "M10 9v6" }],
   ["path", { d: "M14 9v6" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2,3,4]})
+])

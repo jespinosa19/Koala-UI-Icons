@@ -6,4 +6,4 @@ export const Cookie = /* @__PURE__ */ createIcon("cookie", [
   ["circle", { cx: 8.5, cy: 10, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 14, cy: 14.5, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 9, cy: 15.5, r: 1.25, fill: "currentColor", stroke: "none" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

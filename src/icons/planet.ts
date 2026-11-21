@@ -6,4 +6,4 @@ export const Planet = /* @__PURE__ */ createIcon("planet", [
   ["path", { d: "M4.5 13C0.5 17.01 1.6 19.64 7 18" }],
   ["path", { d: "M7 18C11.04 16.81 16.45 13.91 19.5 11" }],
   ["path", { d: "M19.5 11C23.5 6.99 22.4 4.36 17 6" }],
-], undefined, {"solid":[0],"cut":[2]})
+])

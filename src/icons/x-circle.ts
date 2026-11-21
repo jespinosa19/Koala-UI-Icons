@@ -5,4 +5,4 @@ export const XCircle = /* @__PURE__ */ createIcon("x-circle", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["path", { d: "m9 9 6 6" }],
   ["path", { d: "m15 9-6 6" }],
-], undefined, {"solid":[0],"cut":[1,2]})
+])

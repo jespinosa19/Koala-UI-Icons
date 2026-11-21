@@ -7,4 +7,4 @@ export const Kanban = /* @__PURE__ */ createIcon("kanban", [
   ["path", { d: "M15 5v9" }],
   ["path", { d: "M4 11h5" }],
   ["path", { d: "M15 11h5" }],
-], undefined, {"solid":[0],"cut":[1,2,3,4]})
+])

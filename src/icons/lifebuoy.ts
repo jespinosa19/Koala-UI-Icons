@@ -8,4 +8,4 @@ export const Lifebuoy = /* @__PURE__ */ createIcon("lifebuoy", [
   ["path", { d: "m9 9-3.5-3.5" }],
   ["path", { d: "m9 15-3.5 3.5" }],
   ["path", { d: "m15 15 3.5 3.5" }],
-], undefined, {"solid":[0],"hole":[1],"cut":[2,3,4,5]})
+])

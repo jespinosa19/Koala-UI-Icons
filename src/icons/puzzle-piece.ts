@@ -3,4 +3,4 @@ import { createIcon } from "../create-icon"
 
 export const PuzzlePiece = /* @__PURE__ */ createIcon("puzzle-piece", [
   ["path", { d: "M6 11.5L6 10C6 7.44 7.44 6 10 6L11.5 6A2.5 2.5 0 1 1 15.5 6L17 6C19.56 6 21 7.44 21 10L21 11.5A2.5 2.5 0 1 0 21 15.5L21 17C21 19.56 19.56 21 17 21L10 21C7.44 21 6 19.56 6 17L6 15.5A2.5 2.5 0 1 1 6 11.5Z" }],
-], undefined, {"solid":[0]})
+])

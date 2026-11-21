@@ -6,4 +6,4 @@ export const HandsClapping = /* @__PURE__ */ createIcon("hands-clapping", [
   ["path", { d: "M13.5 6A1.9 1.9 0 0 1 17 4L21 12C22.13 14.26 20.26 16.7 18 15" }],
   ["path", { d: "M6.5 8L8.5 12.5" }],
   ["path", { d: "M9 5L11.5 9.5" }],
-], undefined, {"solid":[0],"line":[1],"cut":[2,3]})
+])

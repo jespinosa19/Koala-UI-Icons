@@ -7,4 +7,4 @@ export const BookOpenText = /* @__PURE__ */ createIcon("book-open-text", [
   ["path", { d: "M12 7v13" }],
   ["path", { d: "M15 10h4" }],
   ["path", { d: "M15 14h4" }],
-], undefined, {"solid":[0,1],"cut":[3,4]})
+])

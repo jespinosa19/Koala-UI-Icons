@@ -7,4 +7,4 @@ export const Bank = /* @__PURE__ */ createIcon("bank", [
   ["path", { d: "M12 12v5" }],
   ["path", { d: "M18 12v5" }],
   ["path", { d: "M3 21h18" }],
-], undefined, {"solid":[0]})
+])

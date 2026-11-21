@@ -8,4 +8,4 @@ export const Barricade = /* @__PURE__ */ createIcon("barricade", [
   ["path", { d: "M15 13 19 5" }],
   ["path", { d: "M7 13v6" }],
   ["path", { d: "M17 13v6" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

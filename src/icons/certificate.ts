@@ -7,4 +7,4 @@ export const Certificate = /* @__PURE__ */ createIcon("certificate", [
   ["path", { d: "M15 14.5V21l3-2 3 2v-6.5" }],
   ["path", { d: "M6 9h5" }],
   ["path", { d: "M6 13h5" }],
-], undefined, {"solid":[0,1,2],"cut":[3,4]})
+])

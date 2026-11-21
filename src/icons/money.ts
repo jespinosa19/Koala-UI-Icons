@@ -15,4 +15,4 @@ export const Money = /* @__PURE__ */ createIcon("money", [
   ["path", { d: "M17 6A5 5 0 0 0 22 11" }],
   ["path", { d: "M22 13A5 5 0 0 0 17 18" }],
   ["path", { d: "M7 18A5 5 0 0 0 2 13" }],
-], {"solid":[0],"hole":[1],"cut":[2,3,4,5]})
+])

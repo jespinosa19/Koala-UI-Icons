@@ -7,4 +7,4 @@ export const PawPrint = /* @__PURE__ */ createIcon("paw-print", [
   ["circle", { cx: 15.5, cy: 5.5, r: 2 }],
   ["circle", { cx: 4, cy: 10.5, r: 2 }],
   ["circle", { cx: 20, cy: 10.5, r: 2 }],
-], undefined, {"solid":[0,1,2,3,4]})
+])

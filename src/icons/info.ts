@@ -9,4 +9,4 @@ export const Info = /* @__PURE__ */ createIcon("info", [
   ["circle", { cx: 12, cy: 12, r: 9.5 }],
   ["circle", { cx: 12, cy: 7.5, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["path", { d: "M12 11v6" }],
-], {"solid":[0],"cut":[1,2]})
+])

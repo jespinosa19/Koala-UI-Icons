@@ -9,4 +9,4 @@ export const Dog = /* @__PURE__ */ createIcon("dog", [
   ["circle", { cx: 15, cy: 12, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["path", { d: "m10 15.5 2 2 2-2" }],
   ["path", { d: "M12 17.5V20" }],
-], undefined, {"solid":[0,1,2],"cut":[3,4,5]})
+])

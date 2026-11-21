@@ -4,4 +4,4 @@ import { createIcon } from "../create-icon"
 export const ToggleLeft = /* @__PURE__ */ createIcon("toggle-left", [
   ["path", { d: "M8 6H16C19.84 6 22 8.16 22 12V12C22 15.84 19.84 18 16 18H8C4.16 18 2 15.84 2 12V12C2 8.16 4.16 6 8 6Z" }],
   ["circle", { cx: 8, cy: 12, r: 3 }],
-], undefined, {"solid":[0],"hole":[1]})
+])

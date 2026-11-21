@@ -6,4 +6,4 @@ export const SmileyMeh = /* @__PURE__ */ createIcon("smiley-meh", [
   ["circle", { cx: 9, cy: 10, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["circle", { cx: 15, cy: 10, r: 1.25, fill: "currentColor", stroke: "none" }],
   ["path", { d: "M8 15h8" }],
-], undefined, {"solid":[0],"cut":[1,2,3]})
+])

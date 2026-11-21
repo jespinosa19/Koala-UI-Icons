@@ -7,4 +7,4 @@ export const Sunglasses = /* @__PURE__ */ createIcon("sunglasses", [
   ["path", { d: "M3 12v2.5a3.5 3.5 0 0 0 7 0V12" }],
   ["path", { d: "M21 12v2.5a3.5 3.5 0 0 1-7 0V12" }],
   ["path", { d: "M3 12h18" }],
-], undefined, {"solid":[2,3]})
+])

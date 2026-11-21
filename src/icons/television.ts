@@ -11,4 +11,4 @@ export const Television = /* @__PURE__ */ createIcon("television", [
   ["path", { d: "M6 7H18C20.56 7 22 8.44 22 11V17C22 19.56 20.56 21 18 21H6C3.44 21 2 19.56 2 17V11C2 8.44 3.44 7 6 7Z" }],
   ["path", { d: "m8 3 4 4 4-4" }],
   ["path", { d: "M16 11v6" }],
-], {"solid":[0],"cut":[2],"hole":[3,4]})
+])

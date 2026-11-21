@@ -9,4 +9,4 @@ export const Ambulance = /* @__PURE__ */ createIcon("ambulance", [
   ["path", { d: "M16 11h6" }],
   ["path", { d: "M9 8.5v5" }],
   ["path", { d: "M6.5 11h5" }],
-], undefined, {"solid":[0,2,3],"line":[1,4],"cut":[5,6]})
+])

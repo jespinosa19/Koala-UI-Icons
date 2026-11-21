@@ -9,4 +9,4 @@ export const Van = /* @__PURE__ */ createIcon("van", [
   ["path", { d: "M13 5v5" }],
   ["circle", { cx: 7, cy: 17, r: 2 }],
   ["circle", { cx: 17, cy: 17, r: 2 }],
-], undefined, {"solid":[0,5,6],"line":[2,3,4]})
+])
