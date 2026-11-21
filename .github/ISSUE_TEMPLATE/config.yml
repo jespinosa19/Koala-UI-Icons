@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Browse the icons
+    url: https://www.koalaui.com/docs/foundations/icons
+    about: Search every icon, copy its SVG or JSX.
+  - name: Koala UI
+    url: https://www.koalaui.com
+    about: The React design system these icons were drawn for.

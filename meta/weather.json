@@ -1,0 +1,147 @@
+{
+  "cloud-sun": {
+    "category": "weather",
+    "tags": [
+      "partly cloudy",
+      "weather",
+      "forecast",
+      "sunny spells",
+      "day",
+      "clouds",
+      "sun"
+    ],
+    "phosphor": "CloudSun",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ]
+    }
+  },
+  "cloud-moon": {
+    "category": "weather",
+    "tags": [
+      "partly cloudy",
+      "night",
+      "weather",
+      "forecast",
+      "clouds",
+      "moon",
+      "evening"
+    ],
+    "phosphor": "CloudMoon",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ]
+    }
+  },
+  "cloud-rain": {
+    "category": "weather",
+    "tags": [
+      "rain",
+      "rainy",
+      "shower",
+      "weather",
+      "forecast",
+      "wet",
+      "precipitation"
+    ],
+    "phosphor": "CloudRain",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "cloud-drizzle": {
+    "category": "weather",
+    "tags": [
+      "drizzle",
+      "light rain",
+      "showers",
+      "weather",
+      "forecast",
+      "mist",
+      "precipitation"
+    ],
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "cloud-snow": {
+    "category": "weather",
+    "tags": [
+      "snow",
+      "snowfall",
+      "winter",
+      "weather",
+      "forecast",
+      "flurries",
+      "cold"
+    ],
+    "phosphor": "CloudSnow",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "cloud-lightning": {
+    "category": "weather",
+    "tags": [
+      "storm",
+      "thunderstorm",
+      "lightning",
+      "thunder",
+      "weather",
+      "forecast",
+      "bolt"
+    ],
+    "phosphor": "CloudLightning",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "cloud-fog": {
+    "category": "weather",
+    "tags": [
+      "fog",
+      "mist",
+      "haze",
+      "foggy",
+      "weather",
+      "forecast",
+      "visibility"
+    ],
+    "phosphor": "CloudFog",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "umbrella": {
+    "category": "weather",
+    "tags": [
+      "rain",
+      "precipitation",
+      "chance of rain",
+      "protection",
+      "insurance",
+      "weather",
+      "cover"
+    ],
+    "phosphor": "Umbrella",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "arrow-right": {
+    "category": "arrows",
+    "tags": [
+      "next",
+      "forward",
+      "continue",
+      "go"
+    ],
+    "phosphor": "ArrowRight"
+  },
+  "arrow-left": {
+    "category": "arrows",
+    "tags": [
+      "back",
+      "previous",
+      "return"
+    ],
+    "phosphor": "ArrowLeft"
+  },
+  "caret-down": {
+    "category": "arrows",
+    "tags": [
+      "chevron",
+      "expand",
+      "dropdown",
+      "open"
+    ],
+    "phosphor": "CaretDown"
+  },
+  "caret-right": {
+    "category": "arrows",
+    "tags": [
+      "chevron",
+      "next",
+      "disclosure"
+    ],
+    "phosphor": "CaretRight"
+  },
+  "plus": {
+    "category": "actions",
+    "tags": [
+      "add",
+      "new",
+      "create"
+    ],
+    "phosphor": "Plus"
+  },
+  "minus": {
+    "category": "actions",
+    "tags": [
+      "remove",
+      "subtract",
+      "collapse"
+    ],
+    "phosphor": "Minus"
+  },
+  "x": {
+    "category": "actions",
+    "tags": [
+      "close",
+      "dismiss",
+      "cancel",
+      "clear"
+    ],
+    "phosphor": "X"
+  },
+  "check": {
+    "category": "actions",
+    "tags": [
+      "done",
+      "confirm",
+      "selected",
+      "tick"
+    ],
+    "phosphor": "Check"
+  },
+  "magnifying-glass": {
+    "category": "actions",
+    "tags": [
+      "search",
+      "find",
+      "lookup",
+      "zoom"
+    ],
+    "phosphor": "MagnifyingGlass"
+  },
+  "bell": {
+    "category": "communication",
+    "tags": [
+      "notification",
+      "alert",
+      "reminder"
+    ],
+    "phosphor": "Bell",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ]
+    }
+  },
+  "gear-six": {
+    "category": "system",
+    "tags": [
+      "settings",
+      "preferences",
+      "cog",
+      "options"
+    ],
+    "phosphor": "GearSix",
+    "grid": "radial",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "hole": [
+        1
+      ]
+    }
+  },
+  "user": {
+    "category": "people",
+    "tags": [
+      "person",
+      "account",
+      "profile"
+    ],
+    "phosphor": "User",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ]
+    }
+  },
+  "user-circle": {
+    "category": "people",
+    "tags": [
+      "avatar",
+      "account",
+      "profile"
+    ],
+    "phosphor": "UserCircle",
+    "grid": "radial",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "hole": [
+        1
+      ],
+      "cut": [
+        2
+      ]
+    }
+  },
+  "trash": {
+    "category": "actions",
+    "tags": [
+      "delete",
+      "remove",
+      "bin",
+      "garbage"
+    ],
+    "phosphor": "Trash",
+    "fill": {
+      "line": [
+        0,
+        1
+      ],
+      "solid": [
+        2
+      ],
+      "cut": [
+        3,
+        4
+      ]
+    }
+  },
+  "file-text": {
+    "category": "files",
+    "tags": [
+      "document",
+      "page",
+      "text",
+      "doc"
+    ],
+    "phosphor": "FileText",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "folder-simple": {
+    "category": "files",
+    "tags": [
+      "directory",
+      "folder",
+      "collection"
+    ],
+    "phosphor": "FolderSimple",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "envelope-simple": {
+    "category": "communication",
+    "tags": [
+      "email",
+      "mail",
+      "message",
+      "inbox"
+    ],
+    "phosphor": "EnvelopeSimple",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "credit-card": {
+    "category": "commerce",
+    "tags": [
+      "payment",
+      "card",
+      "billing",
+      "checkout"
+    ],
+    "phosphor": "CreditCard",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "squares-four": {
+    "category": "layout",
+    "tags": [
+      "grid",
+      "dashboard",
+      "apps",
+      "overview"
+    ],
+    "phosphor": "SquaresFour",
+    "fill": {
+      "solid": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "sign-out": {
+    "category": "system",
+    "tags": [
+      "logout",
+      "log out",
+      "exit",
+      "leave"
+    ],
+    "phosphor": "SignOut"
+  },
+  "copy": {
+    "category": "actions",
+    "tags": [
+      "duplicate",
+      "clipboard",
+      "clone"
+    ],
+    "phosphor": "Copy"
+  },
+  "download-simple": {
+    "category": "actions",
+    "tags": [
+      "download",
+      "save",
+      "export"
+    ],
+    "phosphor": "DownloadSimple"
+  },
+  "pencil-simple": {
+    "category": "actions",
+    "tags": [
+      "edit",
+      "write",
+      "rename",
+      "compose"
+    ],
+    "phosphor": "PencilSimple"
+  },
+  "clock": {
+    "category": "time",
+    "tags": [
+      "time",
+      "history",
+      "recent",
+      "pending"
+    ],
+    "phosphor": "Clock",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "check-circle": {
+    "category": "status",
+    "tags": [
+      "success",
+      "done",
+      "complete",
+      "verified"
+    ],
+    "phosphor": "CheckCircle",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "info": {
+    "category": "status",
+    "tags": [
+      "information",
+      "help",
+      "details",
+      "about"
+    ],
+    "phosphor": "Info",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "question": {
+    "category": "status",
+    "tags": [
+      "help",
+      "faq",
+      "support",
+      "unknown"
+    ],
+    "phosphor": "Question",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "dots-three": {
+    "category": "actions",
+    "tags": [
+      "more",
+      "menu",
+      "overflow",
+      "ellipsis",
+      "options"
+    ],
+    "phosphor": "DotsThree"
+  },
+  "star": {
+    "category": "objects",
+    "tags": [
+      "favorite",
+      "rating",
+      "bookmark",
+      "featured"
+    ],
+    "phosphor": "Star",
+    "grid": "radial",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "lightning": {
+    "category": "objects",
+    "tags": [
+      "flash",
+      "fast",
+      "power",
+      "energy",
+      "zap"
+    ],
+    "phosphor": "Lightning"
+  },
+  "calendar": {
+    "category": "time",
+    "tags": [
+      "date",
+      "schedule",
+      "event",
+      "day"
+    ],
+    "phosphor": "Calendar",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "line": [
+        1,
+        2
+      ],
+      "cut": [
+        3
+      ]
+    }
+  },
+  "house": {
+    "category": "navigation",
+    "tags": [
+      "home",
+      "start",
+      "main"
+    ],
+    "phosphor": "House",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "lock": {
+    "category": "security",
+    "tags": [
+      "locked",
+      "secure",
+      "private",
+      "password"
+    ],
+    "phosphor": "Lock",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "line": [
+        1
+      ],
+      "cut": [
+        2
+      ]
+    }
+  },
+  "folder-plus": {
+    "category": "files",
+    "tags": [
+      "new folder",
+      "add",
+      "create",
+      "directory"
+    ],
+    "phosphor": "FolderPlus",
+    "modifier": "plus"
+  },
+  "file-x": {
+    "category": "files",
+    "tags": [
+      "remove file",
+      "delete",
+      "error",
+      "document"
+    ],
+    "phosphor": "FileX",
+    "modifier": "x"
+  },
+  "calendar-check": {
+    "category": "time",
+    "tags": [
+      "scheduled",
+      "confirmed",
+      "event",
+      "booked"
+    ],
+    "phosphor": "CalendarCheck",
+    "modifier": "check"
+  },
+  "user-plus": {
+    "category": "people",
+    "tags": [
+      "add user",
+      "invite",
+      "new member",
+      "signup"
+    ],
+    "phosphor": "UserPlus",
+    "modifier": "plus",
+    "slot": "side"
+  }
+}

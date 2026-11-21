@@ -1,0 +1,672 @@
+{
+  "file": {
+    "category": "files",
+    "tags": [
+      "document",
+      "page",
+      "blank",
+      "new"
+    ],
+    "phosphor": "File",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "file-arrow-up": {
+    "category": "files",
+    "tags": [
+      "upload",
+      "file",
+      "send",
+      "document",
+      "import"
+    ],
+    "phosphor": "FileArrowUp",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "file-code": {
+    "category": "files",
+    "tags": [
+      "code",
+      "source",
+      "script",
+      "developer",
+      "html"
+    ],
+    "phosphor": "FileCode",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "file-css": {
+    "category": "files",
+    "tags": [
+      "css",
+      "stylesheet",
+      "styles",
+      "code",
+      "web"
+    ],
+    "phosphor": "FileCss"
+  },
+  "file-image": {
+    "category": "files",
+    "tags": [
+      "image",
+      "picture",
+      "photo",
+      "media",
+      "document"
+    ],
+    "phosphor": "FileImage"
+  },
+  "file-magnifying-glass": {
+    "category": "files",
+    "tags": [
+      "search",
+      "find",
+      "lookup",
+      "document",
+      "browse"
+    ],
+    "phosphor": "FileMagnifyingGlass",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "file-plus": {
+    "category": "files",
+    "tags": [
+      "new file",
+      "add",
+      "create",
+      "document"
+    ],
+    "phosphor": "FilePlus",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "file-pdf": {
+    "category": "files",
+    "tags": [
+      "pdf",
+      "document",
+      "export",
+      "print",
+      "acrobat"
+    ],
+    "phosphor": "FilePdf"
+  },
+  "file-png": {
+    "category": "files",
+    "tags": [
+      "png",
+      "image",
+      "raster",
+      "picture",
+      "export"
+    ],
+    "phosphor": "FilePng"
+  },
+  "file-svg": {
+    "category": "files",
+    "tags": [
+      "svg",
+      "vector",
+      "image",
+      "graphic",
+      "export"
+    ],
+    "phosphor": "FileSvg"
+  },
+  "file-tsx": {
+    "category": "files",
+    "tags": [
+      "tsx",
+      "typescript",
+      "react",
+      "component",
+      "code"
+    ],
+    "phosphor": "FileTsx"
+  },
+  "file-ts": {
+    "category": "files",
+    "tags": [
+      "ts",
+      "typescript",
+      "code",
+      "script",
+      "source"
+    ],
+    "phosphor": "FileTs"
+  },
+  "files": {
+    "category": "files",
+    "tags": [
+      "documents",
+      "copies",
+      "pages",
+      "duplicate",
+      "stack"
+    ],
+    "phosphor": "Files",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        2,
+        3
+      ]
+    }
+  },
+  "folder-open": {
+    "category": "files",
+    "tags": [
+      "folder",
+      "directory",
+      "open",
+      "browse",
+      "files"
+    ],
+    "phosphor": "FolderOpen",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ]
+    }
+  },
+  "folder-lock": {
+    "category": "files",
+    "tags": [
+      "folder",
+      "locked",
+      "private",
+      "secure",
+      "protected"
+    ],
+    "phosphor": "FolderLock"
+  },
+  "archive": {
+    "category": "files",
+    "tags": [
+      "archive",
+      "box",
+      "storage",
+      "store",
+      "backup"
+    ],
+    "phosphor": "Archive",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ],
+      "cut": [
+        2
+      ]
+    }
+  },
+  "tray": {
+    "category": "files",
+    "tags": [
+      "inbox",
+      "tray",
+      "messages",
+      "received",
+      "box"
+    ],
+    "phosphor": "Tray",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "floppy-disk": {
+    "category": "files",
+    "tags": [
+      "save",
+      "disk",
+      "store",
+      "floppy",
+      "persist"
+    ],
+    "phosphor": "FloppyDisk",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ],
+      "hole": [
+        2
+      ]
+    }
+  },
+  "clipboard-text": {
+    "category": "files",
+    "tags": [
+      "clipboard",
+      "notes",
+      "list",
+      "paste",
+      "tasks"
+    ],
+    "phosphor": "ClipboardText",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ],
+      "cut": [
+        2,
+        3
+      ]
+    }
+  },
+  "database": {
+    "category": "files",
+    "tags": [
+      "database",
+      "storage",
+      "data",
+      "server",
+      "sql"
+    ],
+    "phosphor": "Database",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ],
+      "cut": [
+        2
+      ]
+    }
+  },
+  "cloud": {
+    "category": "files",
+    "tags": [
+      "cloud",
+      "storage",
+      "sync",
+      "online",
+      "weather"
+    ],
+    "phosphor": "Cloud",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "git-branch": {
+    "category": "files",
+    "tags": [
+      "git",
+      "branch",
+      "version control",
+      "fork",
+      "code"
+    ],
+    "phosphor": "GitBranch",
+    "fill": {
+      "solid": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  "git-commit": {
+    "category": "files",
+    "tags": [
+      "git",
+      "commit",
+      "version control",
+      "change",
+      "code"
+    ],
+    "phosphor": "GitCommit",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "git-merge": {
+    "category": "files",
+    "tags": [
+      "git",
+      "merge",
+      "version control",
+      "combine",
+      "code"
+    ],
+    "phosphor": "GitMerge",
+    "fill": {
+      "solid": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  "git-pull-request": {
+    "category": "files",
+    "tags": [
+      "git",
+      "pull request",
+      "review",
+      "version control",
+      "code"
+    ],
+    "phosphor": "GitPullRequest",
+    "fill": {
+      "solid": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  "terminal-window": {
+    "category": "files",
+    "tags": [
+      "terminal",
+      "console",
+      "command line",
+      "shell",
+      "cli"
+    ],
+    "phosphor": "TerminalWindow",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "tree-structure": {
+    "category": "files",
+    "tags": [
+      "tree",
+      "hierarchy",
+      "structure",
+      "sitemap",
+      "org chart"
+    ],
+    "phosphor": "TreeStructure",
+    "fill": {
+      "solid": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  "plugs": {
+    "category": "files",
+    "tags": [
+      "plug",
+      "connect",
+      "integration",
+      "disconnect",
+      "power"
+    ],
+    "phosphor": "Plugs",
+    "fill": {
+      "solid": [
+        0,
+        5
+      ]
+    }
+  },
+  "puzzle-piece": {
+    "category": "files",
+    "tags": [
+      "puzzle",
+      "plugin",
+      "extension",
+      "addon",
+      "integration"
+    ],
+    "phosphor": "PuzzlePiece",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "robot": {
+    "category": "files",
+    "tags": [
+      "robot",
+      "bot",
+      "ai",
+      "assistant",
+      "automation"
+    ],
+    "phosphor": "Robot",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  "brain": {
+    "category": "files",
+    "tags": [
+      "brain",
+      "ai",
+      "intelligence",
+      "think",
+      "mind"
+    ],
+    "phosphor": "Brain",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  "cube": {
+    "category": "files",
+    "tags": [
+      "cube",
+      "3d",
+      "box",
+      "object",
+      "model"
+    ],
+    "phosphor": "Cube",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "package": {
+    "category": "files",
+    "tags": [
+      "package",
+      "box",
+      "shipping",
+      "npm",
+      "delivery"
+    ],
+    "phosphor": "Package",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "stack": {
+    "category": "files",
+    "tags": [
+      "stack",
+      "layers",
+      "sheets",
+      "pile",
+      "levels"
+    ],
+    "phosphor": "Stack",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "toolbox": {
+    "category": "files",
+    "tags": [
+      "toolbox",
+      "tools",
+      "kit",
+      "repair",
+      "utilities"
+    ],
+    "phosphor": "Toolbox",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "line": [
+        1
+      ],
+      "cut": [
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  "wrench": {
+    "category": "files",
+    "tags": [
+      "wrench",
+      "tool",
+      "settings",
+      "repair",
+      "fix"
+    ],
+    "phosphor": "Wrench",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "flask": {
+    "category": "files",
+    "tags": [
+      "flask",
+      "lab",
+      "experiment",
+      "science",
+      "beta"
+    ],
+    "phosphor": "Flask",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "line": [
+        1
+      ],
+      "cut": [
+        2
+      ]
+    }
+  },
+  "magnet": {
+    "category": "files",
+    "tags": [
+      "magnet",
+      "attract",
+      "snap",
+      "magnetic",
+      "pull"
+    ],
+    "phosphor": "Magnet",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "bell-ringing": { "category": "communication", "tags": ["notification", "alert", "ringing", "alarm", "reminder"], "phosphor": "BellRinging", "fill": { "solid": [0, 1] } },
+  "books": { "category": "business", "tags": ["library", "reading", "study", "docs", "shelf"], "phosphor": "Books", "fill": { "solid": [0, 3], "cut": [1, 2, 4, 5] } },
+  "book-bookmark": { "category": "business", "tags": ["book", "saved", "reading", "bookmark", "guide"], "phosphor": "BookBookmark", "fill": { "solid": [0], "cut": [2] } },
+  "book-open-text": { "category": "business", "tags": ["read", "docs", "article", "guide", "manual"], "phosphor": "BookOpenText", "fill": { "solid": [0, 1], "cut": [3, 4] } },
+  "browsers": { "category": "interface", "tags": ["windows", "tabs", "web", "pages", "multiple"], "phosphor": "Browsers", "fill": { "solid": [0], "cut": [2] } },
+  "chat-circle-text": { "category": "communication", "tags": ["message", "comment", "text", "bubble", "reply"], "phosphor": "ChatCircleText", "fill": { "solid": [0], "cut": [1, 2] } },
+  "chats": { "category": "communication", "tags": ["messages", "conversation", "discussion", "thread", "chat"], "phosphor": "Chats", "fill": { "solid": [0] } },
+  "calendar-dots": { "category": "time", "tags": ["date", "schedule", "month", "events", "agenda"], "phosphor": "CalendarDots", "fill": { "solid": [0], "line": [1, 2], "cut": [3, 4, 5, 6, 7, 8] } },
+  "phone-call": { "category": "communication", "tags": ["call", "ringing", "telephone", "incoming", "contact"], "phosphor": "PhoneCall", "fill": { "solid": [0] } },
+  "rocket-launch": { "category": "places", "tags": ["launch", "startup", "ship", "deploy", "boost"], "phosphor": "RocketLaunch", "fill": { "solid": [0, 1, 2], "cut": [3] } },
+  "shopping-bag-open": { "category": "commerce", "tags": ["bag", "shop", "purchase", "buy", "store"], "phosphor": "ShoppingBagOpen", "fill": { "solid": [0], "cut": [1, 2] } },
+  "user-circle-plus": { "category": "people", "tags": ["add user", "invite", "new account", "avatar", "signup"], "phosphor": "UserCirclePlus", "grid": "radial", "modifier": "plus", "slot": "side" },
+  "users-four": { "category": "people", "tags": ["team", "group", "community", "people", "organization"], "phosphor": "UsersFour", "fill": { "solid": [0, 1, 2, 3, 4, 5] } },
+  "airplane": { "category": "places", "tags": ["flight", "travel", "plane", "trip", "airport"], "phosphor": "Airplane", "fill": { "solid": [0] } },
+  "car-profile": { "category": "places", "tags": ["vehicle", "drive", "auto", "transport", "side"], "phosphor": "CarProfile", "fill": { "solid": [0, 3, 4], "line": [1] } },
+  "first-aid": { "category": "places", "tags": ["medical", "health", "hospital", "cross", "care"], "phosphor": "FirstAid", "fill": { "solid": [0] } },
+  "map-pin-area": { "category": "places", "tags": ["location", "area", "region", "radius", "place"], "phosphor": "MapPinArea", "fill": { "solid": [0], "hole": [1] } },
+  "globe-hemisphere-west": { "category": "places", "tags": ["world", "earth", "americas", "map", "global"], "phosphor": "GlobeHemisphereWest", "grid": "radial", "fill": { "solid": [0], "cut": [1, 2] } },
+  "currency-circle-dollar": { "category": "business", "tags": ["money", "usd", "price", "coin", "payment"], "phosphor": "CurrencyCircleDollar", "fill": { "solid": [0], "cut": [1, 2] } }
+}

@@ -1,0 +1,32 @@
+name: Bug report
+description: An icon draws wrong, the package does not install or a prop does not work.
+labels: ["bug"]
+body:
+  - type: input
+    id: icon
+    attributes:
+      label: Icon or prop
+      placeholder: "calendar at 16 px, weight=\"fill\", optical.css ..."
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what you expected
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: The smallest code that shows it
+      render: tsx
+  - type: input
+    id: env
+    attributes:
+      label: Version, framework and browser
+      placeholder: "koala-icons 0.1.2, Next.js 16, Safari 18"
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drop an image for anything visual, ideally at the size where it looks wrong.

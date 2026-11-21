@@ -1,0 +1,19 @@
+{
+  "arrow-down": { "category": "arrows", "tags": ["down", "bottom", "decrease", "descend"], "phosphor": "ArrowDown" },
+  "arrow-bend-up-right": { "category": "arrows", "tags": ["forward", "share", "redirect", "reply all"], "phosphor": "ArrowBendUpRight" },
+  "arrow-u-down-left": { "category": "arrows", "tags": ["return", "enter", "back", "u-turn"], "phosphor": "ArrowUDownLeft" },
+  "arrow-line-up-right": { "category": "arrows", "tags": ["external", "open", "launch", "export"], "phosphor": "ArrowLineUpRight" },
+  "arrows-horizontal": { "category": "arrows", "tags": ["width", "resize", "horizontal", "stretch"], "phosphor": "ArrowsHorizontal" },
+  "arrows-vertical": { "category": "arrows", "tags": ["height", "resize", "vertical", "stretch"], "phosphor": "ArrowsVertical" },
+  "arrows-in-line-vertical": { "category": "arrows", "tags": ["collapse", "merge", "shrink", "fold"], "phosphor": "ArrowsInLineVertical" },
+  "arrows-out-line-horizontal": { "category": "arrows", "tags": ["expand", "split", "widen", "spread"], "phosphor": "ArrowsOutLineHorizontal" },
+  "caret-left": { "category": "arrows", "tags": ["chevron", "back", "previous", "left"], "phosphor": "CaretLeft" },
+  "caret-double-up": { "category": "arrows", "tags": ["chevron", "collapse all", "scroll up", "top"], "phosphor": "CaretDoubleUp" },
+  "sort-descending": { "category": "arrows", "tags": ["sort", "order", "list", "filter"], "phosphor": "SortDescending" },
+  "navigation-arrow": { "category": "places", "tags": ["location", "gps", "navigation", "direction", "pointer"], "phosphor": "NavigationArrow", "fill": { "solid": [0] } },
+  "crosshair": { "category": "status", "tags": ["aim", "target", "locate", "precision", "focus"], "phosphor": "Crosshair" },
+  "dots-six": { "category": "interface", "tags": ["grip", "drag", "handle", "reorder", "move"], "phosphor": "DotsSix" },
+  "equals": { "category": "actions", "tags": ["equal", "math", "calculate", "result"], "phosphor": "Equals" },
+  "infinity": { "category": "actions", "tags": ["unlimited", "forever", "loop", "endless"], "phosphor": "Infinity" },
+  "arrow-elbow-down-right": { "category": "arrows", "tags": ["follow up", "continue", "reply", "indent"], "phosphor": "ArrowElbowDownRight" }
+}

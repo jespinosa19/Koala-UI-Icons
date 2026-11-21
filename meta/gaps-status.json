@@ -1,0 +1,18 @@
+{
+  "battery-full": { "category": "devices", "tags": ["battery", "charged", "power", "full", "energy"], "phosphor": "BatteryFull", "fill": { "solid": [0], "line": [1], "cut": [2, 3, 4] } },
+  "battery-low": { "category": "devices", "tags": ["battery", "low", "power", "drain", "energy"], "phosphor": "BatteryLow", "fill": { "solid": [0], "line": [1], "cut": [2] } },
+  "battery-warning": { "category": "devices", "tags": ["battery", "warning", "alert", "power", "critical"], "phosphor": "BatteryWarning", "fill": { "solid": [0], "line": [1], "cut": [2, 3] } },
+  "cell-signal-full": { "category": "devices", "tags": ["signal", "reception", "cellular", "network", "bars", "full"], "phosphor": "CellSignalFull" },
+  "cell-signal-medium": { "category": "devices", "tags": ["signal", "reception", "cellular", "network", "bars", "medium"], "phosphor": "CellSignalMedium" },
+  "cell-signal-low": { "category": "devices", "tags": ["signal", "reception", "cellular", "network", "bars", "weak"], "phosphor": "CellSignalLow" },
+  "wifi-high": { "category": "devices", "tags": ["wifi", "wireless", "internet", "network", "connected", "online"], "phosphor": "WifiHigh" },
+  "eye-slash": { "category": "status", "tags": ["hide", "hidden", "invisible", "private", "password"], "phosphor": "EyeSlash", "fill": { "solid": [0, 1], "cut": [2] } },
+  "video-camera-slash": { "category": "media", "tags": ["camera off", "video off", "no video", "disabled", "meeting"], "phosphor": "VideoCameraSlash", "fill": { "solid": [0, 1, 2] } },
+  "push-pin-slash": { "category": "status", "tags": ["unpin", "detach", "remove pin", "unfix"], "phosphor": "PushPinSlash", "fill": { "solid": [0, 1] } },
+  "warning-octagon": { "category": "status", "tags": ["error", "stop", "danger", "alert", "critical"], "phosphor": "WarningOctagon", "fill": { "solid": [0], "cut": [1, 2] } },
+  "notification": { "category": "communication", "tags": ["badge", "unread", "alert", "new", "inbox"], "phosphor": "Notification" },
+  "hourglass-medium": { "category": "status", "tags": ["time", "waiting", "loading", "pending", "timer", "sand"], "phosphor": "HourglassMedium", "fill": { "solid": [0] } },
+  "headset": { "category": "media", "tags": ["support", "call center", "headphones", "microphone", "help"], "phosphor": "Headset", "fill": { "solid": [1, 2] } },
+  "plugs-connected": { "category": "files", "tags": ["connected", "integration", "plug", "linked", "power"], "phosphor": "PlugsConnected", "fill": { "solid": [0, 1], "cut": [2] } },
+  "layout": { "category": "interface", "tags": ["layout", "template", "page", "sidebar", "header", "dashboard"], "phosphor": "Layout", "fill": { "solid": [0], "cut": [1, 2] } }
+}

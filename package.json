@@ -1,0 +1,64 @@
+{
+  "name": "koala-icons",
+  "version": "0.1.2",
+  "description": "Koala Icons: a stroke icon set for React, drawn on one 24px grid by one spec.",
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": [
+    "*.css"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    },
+    "./icons/*": {
+      "types": "./dist/icons/*.d.ts",
+      "import": "./dist/icons/*.js",
+      "default": "./dist/icons/*.js"
+    },
+    "./meta": {
+      "types": "./dist/meta.d.ts",
+      "import": "./dist/meta.js",
+      "default": "./dist/meta.js"
+    },
+    "./optical.css": "./dist/optical.css",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "SPEC.md"
+  ],
+  "scripts": {
+    "lint": "node scripts/icons.mjs lint",
+    "build": "node scripts/icons.mjs build && node scripts/icons.mjs dist",
+    "prepublishOnly": "npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=19"
+  },
+  "author": "Koala UI (https://www.koalaui.com)",
+  "homepage": "https://www.koalaui.com/docs/foundations/icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jespinosa19/koala-ui-icons.git"
+  },
+  "bugs": "https://github.com/jespinosa19/koala-ui-icons/issues",
+  "keywords": [
+    "icons",
+    "react",
+    "svg",
+    "koala-ui",
+    "design-system"
+  ],
+  "devDependencies": {
+    "@types/react": "^19",
+    "react": "^19",
+    "typescript": "^5"
+  }
+}

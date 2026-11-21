@@ -1,0 +1,17 @@
+{
+  "user-check": { "category": "people", "tags": ["verified", "approved", "member", "confirmed", "user"], "phosphor": "UserCheck", "modifier": "check", "slot": "side" },
+  "user-minus": { "category": "people", "tags": ["remove user", "unfollow", "kick", "member", "user"], "phosphor": "UserMinus", "modifier": "minus", "slot": "side" },
+  "user-focus": { "category": "people", "tags": ["face id", "scan", "recognition", "camera", "identity"], "phosphor": "UserFocus", "fill": { "solid": [4, 5] } },
+  "user-list": { "category": "people", "tags": ["members", "directory", "roster", "contacts", "people"], "phosphor": "UserList", "fill": { "solid": [0, 1] } },
+  "user-switch": { "category": "people", "tags": ["switch account", "change user", "swap", "profile", "account"], "phosphor": "UserSwitch", "fill": { "solid": [4, 5] } },
+  "smiley-angry": { "category": "status", "tags": ["angry", "mad", "emoji", "face", "feedback"], "phosphor": "SmileyAngry", "fill": { "solid": [0], "cut": [1, 2, 3, 4, 5] } },
+  "smiley-meh": { "category": "status", "tags": ["neutral", "indifferent", "emoji", "face", "feedback"], "phosphor": "SmileyMeh", "fill": { "solid": [0], "cut": [1, 2, 3] } },
+  "smiley-wink": { "category": "status", "tags": ["wink", "playful", "emoji", "face", "feedback"], "phosphor": "SmileyWink", "fill": { "solid": [0], "cut": [1, 2, 3] } },
+  "hand-heart": { "category": "status", "tags": ["charity", "donate", "care", "support", "volunteer"], "phosphor": "HandHeart", "fill": { "solid": [0, 1] } },
+  "hands-clapping": { "category": "status", "tags": ["applause", "clap", "congrats", "bravo", "celebrate"], "phosphor": "HandsClapping", "fill": { "solid": [0], "line": [1], "cut": [2, 3] } },
+  "person-simple-run": { "category": "people", "tags": ["run", "sport", "exercise", "fitness", "jogging"], "phosphor": "PersonSimpleRun" },
+  "person-simple-tai-chi": { "category": "people", "tags": ["tai chi", "yoga", "balance", "wellness", "exercise"], "phosphor": "PersonSimpleTaiChi" },
+  "detective": { "category": "people", "tags": ["incognito", "private", "spy", "anonymous", "investigate"], "phosphor": "Detective", "fill": { "solid": [1, 2, 3] } },
+  "sunglasses": { "category": "business", "tags": ["glasses", "summer", "cool", "fashion", "eyewear"], "phosphor": "Sunglasses", "fill": { "solid": [2, 3] } },
+  "game-controller": { "category": "media", "tags": ["gaming", "gamepad", "joystick", "play", "console"], "phosphor": "GameController", "fill": { "solid": [0], "cut": [1, 2, 3, 4] } }
+}

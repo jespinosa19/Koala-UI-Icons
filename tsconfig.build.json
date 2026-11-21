@@ -1,0 +1,27 @@
+// Compiles src/ to dist/ (ES modules + .d.ts) for publishing: `node scripts/icons.mjs dist`, which
+// also adds the ".js" extensions Node's ESM loader needs. The options are the strict set a buyer's
+// Vite project turns on (same as the repo's tsconfig.consumer.json), so the root `typecheck`
+// script also runs this config with --noEmit to keep the source honest.
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "react-jsx",
+    "strict": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
+    "erasableSyntaxOnly": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noFallthroughCasesInSwitch": true,
+    "types": [],
+    "declaration": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "noEmit": false
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx"]
+}

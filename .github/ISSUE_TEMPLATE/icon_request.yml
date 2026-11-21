@@ -1,0 +1,28 @@
+name: Icon request
+description: Ask for an icon the set does not have yet.
+labels: ["icon request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search the set first: https://www.koalaui.com/docs/foundations/icons. Many objects live under another name.
+  - type: input
+    id: name
+    attributes:
+      label: Icon name
+      placeholder: "paper-clip, scooter, battery-charging ..."
+    validations:
+      required: true
+  - type: textarea
+    id: use
+    attributes:
+      label: Where you would use it
+      description: The screen, button or menu it belongs in. It helps us pick the right metaphor.
+    validations:
+      required: true
+  - type: input
+    id: reference
+    attributes:
+      label: Phosphor counterpart, if there is one
+      description: Koala Icons follow Phosphor's construction where Phosphor has the object.
+      placeholder: "https://phosphoricons.com/?q=paperclip"

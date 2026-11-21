@@ -1,0 +1,22 @@
+/*
+ * Koala Icons optical sizes (SPEC.md §12). Import once, anywhere in the app.
+ *
+ * Every icon is a size container, so its own rendered size picks the drawing: at 16 px and below
+ * the stroke goes to 2.25 (1.5 px at 16, Phosphor bold's weight) and an icon that ships a small
+ * master swaps to it. Without this file every icon simply shows its large drawing.
+ */
+[data-icon] {
+  container-type: size;
+}
+
+@container (max-width: 16.5px) {
+  [data-icon] > :not([data-optical]) {
+    stroke-width: 2.25;
+  }
+  [data-icon] > [data-optical="large"] {
+    display: none;
+  }
+  [data-icon] > [data-optical="small"] {
+    display: inline;
+  }
+}

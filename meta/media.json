@@ -1,0 +1,17 @@
+{
+  "play": { "category": "media", "tags": ["start", "resume", "video", "audio", "player"], "phosphor": "Play", "fill": { "solid": [0] } },
+  "pause": { "category": "media", "tags": ["hold", "break", "player", "audio", "video"], "phosphor": "Pause", "fill": { "solid": [0, 1] } },
+  "stop": { "category": "media", "tags": ["end", "halt", "player", "square"], "phosphor": "Stop", "fill": { "solid": [0] } },
+  "record": { "category": "media", "tags": ["rec", "capture", "recording", "live"], "phosphor": "Record", "fill": { "solid": [1] } },
+  "image": { "category": "media", "tags": ["picture", "photo", "gallery", "media"], "phosphor": "Image", "fill": { "solid": [0], "cut": [1], "hole": [2] } },
+  "camera": { "category": "media", "tags": ["photo", "picture", "capture", "snapshot"], "phosphor": "Camera", "fill": { "solid": [0], "cut": [1] } },
+  "video-camera": { "category": "media", "tags": ["video", "film", "recording", "call", "meeting"], "phosphor": "VideoCamera", "fill": { "solid": [0, 1] } },
+  "music-note": { "category": "media", "tags": ["music", "song", "audio", "sound", "track"], "phosphor": "MusicNote", "fill": { "solid": [0, 1] } },
+  "film-strip": { "category": "media", "tags": ["movie", "film", "video", "cinema", "reel"], "phosphor": "FilmStrip", "fill": { "solid": [0], "cut": [1, 2, 3, 4] } },
+  "speaker-high": { "category": "media", "tags": ["volume", "sound", "audio", "loud", "unmute"], "phosphor": "SpeakerHigh", "fill": { "solid": [0] } },
+  "speaker-slash": { "category": "media", "tags": ["mute", "silent", "volume off", "sound off"], "phosphor": "SpeakerSlash", "fill": { "solid": [0, 1] } },
+  "speaker-x": { "category": "media", "tags": ["mute", "muted", "sound off", "silent", "volume"], "phosphor": "SpeakerX", "fill": { "solid": [0] } },
+  "headphones": { "category": "media", "tags": ["audio", "music", "listen", "headset", "support"], "phosphor": "Headphones", "fill": { "solid": [1, 2] } },
+  "microphone": { "category": "media", "tags": ["mic", "record", "voice", "audio", "speak"], "phosphor": "Microphone", "fill": { "solid": [0] } },
+  "television": { "category": "media", "tags": ["tv", "screen", "broadcast", "watch", "show"], "phosphor": "Television", "fill": { "solid": [0], "cut": [2], "hole": [3, 4] } }
+}

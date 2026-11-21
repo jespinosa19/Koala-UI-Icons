@@ -1,0 +1,124 @@
+{
+  "bowl-steam": {
+    "category": "food",
+    "tags": ["ramen", "soup", "noodles", "hot", "meal"],
+    "phosphor": "BowlSteam",
+    "fill": { "solid": [0], "line": [1, 2, 3] }
+  },
+  "bowl-food": {
+    "category": "food",
+    "tags": ["meal", "dish", "rice", "salad", "lunch"],
+    "phosphor": "BowlFood",
+    "fill": { "solid": [0], "line": [1, 2] }
+  },
+  "egg": {
+    "category": "food",
+    "tags": ["breakfast", "protein", "easter", "oval"],
+    "phosphor": "Egg",
+    "fill": { "solid": [0], "cut": [1] }
+  },
+  "egg-crack": {
+    "category": "food",
+    "tags": ["broken", "hatch", "breakfast", "crack"],
+    "phosphor": "EggCrack",
+    "fill": { "solid": [0], "cut": [1] }
+  },
+  "fork-knife": {
+    "category": "food",
+    "tags": ["restaurant", "dining", "meal", "cutlery", "eat"],
+    "phosphor": "ForkKnife",
+    "fill": { "solid": [2] }
+  },
+  "bread": {
+    "category": "food",
+    "tags": ["toast", "bakery", "loaf", "breakfast"],
+    "phosphor": "Bread",
+    "fill": { "solid": [0] }
+  },
+  "coffee": {
+    "category": "food",
+    "tags": ["cup", "mug", "drink", "cafe", "break"],
+    "phosphor": "Coffee",
+    "fill": { "solid": [0], "line": [1, 2, 3] }
+  },
+  "pizza": {
+    "category": "food",
+    "tags": ["slice", "pepperoni", "fast food", "italian"],
+    "phosphor": "Pizza",
+    "fill": { "solid": [0], "cut": [1, 2, 3] }
+  },
+  "hamburger": {
+    "category": "food",
+    "tags": ["burger", "fast food", "sandwich", "meal"],
+    "phosphor": "Hamburger",
+    "fill": { "solid": [0, 2], "line": [1] }
+  },
+  "carrot": {
+    "category": "food",
+    "tags": ["vegetable", "vegan", "healthy", "produce"],
+    "phosphor": "Carrot",
+    "fill": { "solid": [0], "line": [1, 2, 3], "cut": [4, 5] }
+  },
+  "cake": {
+    "category": "food",
+    "tags": ["birthday", "dessert", "party", "celebration", "candle"],
+    "phosphor": "Cake",
+    "fill": { "solid": [0], "line": [1], "cut": [2] }
+  },
+  "wine": {
+    "category": "food",
+    "tags": ["glass", "drink", "alcohol", "bar"],
+    "phosphor": "Wine",
+    "fill": { "solid": [0], "cut": [1], "line": [2, 3] }
+  },
+  "ice-cream": {
+    "category": "food",
+    "tags": ["dessert", "cone", "gelato", "sweet", "summer"],
+    "phosphor": "IceCream",
+    "fill": { "solid": [0], "line": [1] }
+  },
+  "cookie": {
+    "category": "food",
+    "tags": ["biscuit", "snack", "sweet", "cookies", "consent"],
+    "phosphor": "Cookie",
+    "fill": { "solid": [0], "cut": [1, 2, 3] }
+  },
+  "cherries": {
+    "category": "food",
+    "tags": ["fruit", "cherry", "sweet", "berry"],
+    "phosphor": "Cherries",
+    "fill": { "solid": [0, 1, 4], "line": [2, 3], "cut": [5] }
+  },
+  "fish": {
+    "category": "food",
+    "tags": ["seafood", "sea", "animal", "fishing"],
+    "phosphor": "Fish",
+    "fill": { "solid": [0, 1], "cut": [2, 3] }
+  },
+  "cheese": {
+    "category": "food",
+    "tags": ["dairy", "wedge", "cheddar", "topping", "extra", "lactose", "queso"],
+    "phosphor": "Cheese"
+  },
+  "pepper": {
+    "category": "food",
+    "tags": ["chili", "chilli", "spicy", "hot", "jalapeno", "vegetable", "picante"],
+    "phosphor": "Pepper"
+  },
+  "mushroom": {
+    "category": "food",
+    "tags": ["fungi", "champignon", "vegetable", "topping", "vegan", "seta"]
+  },
+  "onion": {
+    "category": "food",
+    "tags": ["vegetable", "bulb", "topping", "ingredient", "cebolla"]
+  },
+  "garlic": {
+    "category": "food",
+    "tags": ["clove", "bulb", "vegetable", "ingredient", "allium", "ajo"]
+  },
+  "french-fries": {
+    "category": "food",
+    "tags": ["chips", "fries", "fast food", "side", "potato", "patatas"]
+  }
+}

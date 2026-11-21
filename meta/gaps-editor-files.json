@@ -1,0 +1,17 @@
+{
+  "text-h-two": {"category": "editor", "tags": ["heading", "h2", "subtitle", "format", "text"], "phosphor": "TextHTwo"},
+  "text-h-three": {"category": "editor", "tags": ["heading", "h3", "subheading", "format", "text"], "phosphor": "TextHThree"},
+  "text-h-four": {"category": "editor", "tags": ["heading", "h4", "subheading", "format", "text"], "phosphor": "TextHFour"},
+  "note": {"category": "editor", "tags": ["sticky note", "memo", "notes", "post-it", "text"], "phosphor": "Note", "fill": {"solid": [0], "cut": [1, 2, 3, 4]}},
+  "file-html": {"category": "files", "tags": ["html", "markup", "web", "code", "document"], "phosphor": "FileHtml"},
+  "file-js": {"category": "files", "tags": ["javascript", "js", "code", "script", "document"], "phosphor": "FileJs"},
+  "file-jsx": {"category": "files", "tags": ["jsx", "react", "javascript", "code", "document"], "phosphor": "FileJsx"},
+  "file-md": {"category": "files", "tags": ["markdown", "md", "readme", "text", "document"], "phosphor": "FileMd"},
+  "file-py": {"category": "files", "tags": ["python", "py", "code", "script", "document"], "phosphor": "FilePy"},
+  "file-rs": {"category": "files", "tags": ["rust", "rs", "code", "source", "document"], "phosphor": "FileRs"},
+  "file-sql": {"category": "files", "tags": ["sql", "database", "query", "code", "document"], "phosphor": "FileSql"},
+  "file-vue": {"category": "files", "tags": ["vue", "component", "javascript", "code", "document"], "phosphor": "FileVue"},
+  "file-dashed": {"category": "files", "tags": ["draft", "placeholder", "empty", "new", "document"], "phosphor": "FileDashed"},
+  "seal-percent": {"category": "status", "tags": ["discount", "sale", "offer", "promo", "badge"], "phosphor": "SealPercent", "grid": "radial", "fill": {"solid": [0], "cut": [1, 2, 3]}},
+  "ticket": {"category": "commerce", "tags": ["event", "admission", "pass", "coupon", "support"], "phosphor": "Ticket", "fill": {"solid": [0], "cut": [1]}}
+}

@@ -1,0 +1,817 @@
+{
+  "app-window": {
+    "category": "interface",
+    "tags": [
+      "window",
+      "app",
+      "application",
+      "program",
+      "desktop"
+    ],
+    "phosphor": "AppWindow",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "browser": {
+    "category": "interface",
+    "tags": [
+      "web",
+      "window",
+      "internet",
+      "website",
+      "page"
+    ],
+    "phosphor": "Browser",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "sidebar": {
+    "category": "interface",
+    "tags": [
+      "panel",
+      "navigation",
+      "layout",
+      "drawer",
+      "menu"
+    ],
+    "phosphor": "Sidebar",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "sidebar-collapse": {
+    "category": "interface",
+    "tags": [
+      "sidebar",
+      "collapse",
+      "hide",
+      "close",
+      "panel",
+      "drawer",
+      "chevron",
+      "toggle",
+      "navigation",
+      "layout"
+    ],
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "sidebar-expand": {
+    "category": "interface",
+    "tags": [
+      "sidebar",
+      "expand",
+      "show",
+      "open",
+      "panel",
+      "drawer",
+      "chevron",
+      "toggle",
+      "navigation",
+      "layout"
+    ],
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "columns": {
+    "category": "interface",
+    "tags": [
+      "layout",
+      "split",
+      "panes",
+      "vertical",
+      "grid"
+    ],
+    "phosphor": "Columns",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ]
+    }
+  },
+  "rows": {
+    "category": "interface",
+    "tags": [
+      "layout",
+      "split",
+      "panes",
+      "horizontal",
+      "stack"
+    ],
+    "phosphor": "Rows",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ]
+    }
+  },
+  "table": {
+    "category": "interface",
+    "tags": [
+      "spreadsheet",
+      "data",
+      "grid",
+      "cells",
+      "rows"
+    ],
+    "phosphor": "Table",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "tabs": {
+    "category": "interface",
+    "tags": [
+      "tab",
+      "navigation",
+      "browser",
+      "switch",
+      "pages"
+    ],
+    "phosphor": "Tabs",
+    "fill": {
+      "solid": [
+        1
+      ]
+    }
+  },
+  "kanban": {
+    "category": "interface",
+    "tags": [
+      "board",
+      "columns",
+      "tasks",
+      "project",
+      "workflow"
+    ],
+    "phosphor": "Kanban",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  "picture-in-picture": {
+    "category": "interface",
+    "tags": [
+      "pip",
+      "video",
+      "overlay",
+      "window",
+      "float"
+    ],
+    "phosphor": "PictureInPicture",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "slideshow": {
+    "category": "interface",
+    "tags": [
+      "presentation",
+      "slides",
+      "carousel",
+      "gallery",
+      "deck"
+    ],
+    "phosphor": "Slideshow",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "cards": {
+    "category": "interface",
+    "tags": [
+      "stack",
+      "deck",
+      "collection",
+      "items",
+      "layers"
+    ],
+    "phosphor": "Cards",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "grid-four": {
+    "category": "interface",
+    "tags": [
+      "grid",
+      "layout",
+      "quadrants",
+      "tiles",
+      "cells"
+    ],
+    "phosphor": "GridFour",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "grid-nine": {
+    "category": "interface",
+    "tags": [
+      "grid",
+      "layout",
+      "cells",
+      "tiles",
+      "matrix"
+    ],
+    "phosphor": "GridNine",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  "dots-nine": {
+    "category": "interface",
+    "tags": [
+      "apps",
+      "launcher",
+      "grid",
+      "menu",
+      "waffle"
+    ],
+    "phosphor": "DotsNine"
+  },
+  "dots-six-vertical": {
+    "category": "interface",
+    "tags": [
+      "drag",
+      "handle",
+      "grip",
+      "reorder",
+      "move"
+    ],
+    "phosphor": "DotsSixVertical"
+  },
+  "dots-three-vertical": {
+    "category": "interface",
+    "tags": [
+      "more",
+      "menu",
+      "overflow",
+      "options",
+      "kebab"
+    ],
+    "phosphor": "DotsThreeVertical"
+  },
+  "square": {
+    "category": "interface",
+    "tags": [
+      "shape",
+      "box",
+      "rectangle",
+      "checkbox",
+      "stop"
+    ],
+    "phosphor": "Square",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "square-half": {
+    "category": "interface",
+    "tags": [
+      "contrast",
+      "half",
+      "split",
+      "theme",
+      "shape"
+    ],
+    "phosphor": "SquareHalf"
+  },
+  "square-split-horizontal": {
+    "category": "interface",
+    "tags": [
+      "split",
+      "columns",
+      "divide",
+      "compare",
+      "layout"
+    ],
+    "phosphor": "SquareSplitHorizontal",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "circle": {
+    "category": "interface",
+    "tags": [
+      "shape",
+      "round",
+      "dot",
+      "ring",
+      "radio"
+    ],
+    "phosphor": "Circle",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "circle-dashed": {
+    "category": "interface",
+    "tags": [
+      "dashed",
+      "draft",
+      "empty",
+      "pending",
+      "shape"
+    ],
+    "phosphor": "CircleDashed",
+    "grid": "radial"
+  },
+  "circle-half": {
+    "category": "interface",
+    "tags": [
+      "contrast",
+      "theme",
+      "dark mode",
+      "half",
+      "brightness"
+    ],
+    "phosphor": "CircleHalf"
+  },
+  "circle-notch": {
+    "category": "interface",
+    "tags": [
+      "loading",
+      "spinner",
+      "progress",
+      "busy",
+      "wait"
+    ],
+    "phosphor": "CircleNotch"
+  },
+  "circles-four": {
+    "category": "interface",
+    "tags": [
+      "apps",
+      "grid",
+      "group",
+      "community",
+      "shapes"
+    ],
+    "phosphor": "CirclesFour",
+    "fill": {
+      "solid": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "radio-button": {
+    "category": "interface",
+    "tags": [
+      "radio",
+      "option",
+      "select",
+      "choice",
+      "form"
+    ],
+    "phosphor": "RadioButton",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "frame-corners": {
+    "category": "interface",
+    "tags": [
+      "fullscreen",
+      "expand",
+      "frame",
+      "focus",
+      "viewfinder"
+    ],
+    "phosphor": "FrameCorners",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "bounding-box": {
+    "category": "interface",
+    "tags": [
+      "bounds",
+      "transform",
+      "resize",
+      "select",
+      "vector"
+    ],
+    "phosphor": "BoundingBox",
+    "fill": {
+      "solid": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "selection": {
+    "category": "interface",
+    "tags": [
+      "marquee",
+      "select",
+      "area",
+      "dashed",
+      "region"
+    ],
+    "phosphor": "Selection"
+  },
+  "crop": {
+    "category": "interface",
+    "tags": [
+      "trim",
+      "cut",
+      "resize",
+      "image",
+      "frame"
+    ],
+    "phosphor": "Crop"
+  },
+  "polygon": {
+    "category": "interface",
+    "tags": [
+      "shape",
+      "pentagon",
+      "vector",
+      "draw",
+      "geometry"
+    ],
+    "phosphor": "Polygon",
+    "fill": {
+      "solid": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  },
+  "line-segment": {
+    "category": "interface",
+    "tags": [
+      "line",
+      "vector",
+      "draw",
+      "segment",
+      "path"
+    ],
+    "phosphor": "LineSegment",
+    "fill": {
+      "solid": [
+        0,
+        1
+      ]
+    }
+  },
+  "shapes": {
+    "category": "interface",
+    "tags": [
+      "shapes",
+      "geometry",
+      "design",
+      "objects",
+      "draw"
+    ],
+    "phosphor": "Shapes",
+    "fill": {
+      "solid": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  "cursor": {
+    "category": "interface",
+    "tags": [
+      "pointer",
+      "mouse",
+      "arrow",
+      "select",
+      "click"
+    ],
+    "phosphor": "Cursor",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "cursor-click": {
+    "category": "interface",
+    "tags": [
+      "click",
+      "pointer",
+      "mouse",
+      "tap",
+      "select"
+    ],
+    "phosphor": "CursorClick",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "hand": {
+    "category": "interface",
+    "tags": [
+      "palm",
+      "stop",
+      "wave",
+      "pan",
+      "gesture"
+    ],
+    "phosphor": "Hand",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "hand-grabbing": {
+    "category": "interface",
+    "tags": [
+      "grab",
+      "drag",
+      "move",
+      "pan",
+      "hold"
+    ],
+    "phosphor": "HandGrabbing",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "hand-pointing": {
+    "category": "interface",
+    "tags": [
+      "pointer",
+      "click",
+      "link",
+      "tap",
+      "finger"
+    ],
+    "phosphor": "HandPointing",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "mouse-right-click": {
+    "category": "interface",
+    "tags": [
+      "mouse",
+      "right click",
+      "context menu",
+      "button",
+      "input"
+    ],
+    "phosphor": "MouseRightClick",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1,
+        2
+      ]
+    }
+  },
+  "toggle-left": {
+    "category": "interface",
+    "tags": [
+      "switch",
+      "off",
+      "toggle",
+      "setting",
+      "disabled"
+    ],
+    "phosphor": "ToggleLeft",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "hole": [
+        1
+      ]
+    }
+  },
+  "toggle-right": {
+    "category": "interface",
+    "tags": [
+      "switch",
+      "on",
+      "toggle",
+      "setting",
+      "enabled"
+    ],
+    "phosphor": "ToggleRight",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "hole": [
+        1
+      ]
+    }
+  },
+  "check-square": {
+    "category": "interface",
+    "tags": [
+      "checkbox",
+      "done",
+      "complete",
+      "selected",
+      "task"
+    ],
+    "phosphor": "CheckSquare",
+    "fill": {
+      "solid": [
+        0
+      ],
+      "cut": [
+        1
+      ]
+    }
+  },
+  "checks": {
+    "category": "interface",
+    "tags": [
+      "read",
+      "seen",
+      "done",
+      "double check",
+      "delivered"
+    ],
+    "phosphor": "Checks"
+  },
+  "sliders": {
+    "category": "interface",
+    "tags": [
+      "settings",
+      "controls",
+      "adjust",
+      "equalizer",
+      "mixer"
+    ],
+    "phosphor": "Sliders"
+  },
+  "sliders-horizontal": {
+    "category": "interface",
+    "tags": [
+      "settings",
+      "filter",
+      "controls",
+      "adjust",
+      "preferences"
+    ],
+    "phosphor": "SlidersHorizontal"
+  },
+  "plus-minus": {
+    "category": "interface",
+    "tags": [
+      "plus",
+      "minus",
+      "math",
+      "calculator",
+      "adjust"
+    ],
+    "phosphor": "PlusMinus"
+  },
+  "funnel": {
+    "category": "interface",
+    "tags": [
+      "filter",
+      "sort",
+      "refine",
+      "narrow",
+      "search"
+    ],
+    "phosphor": "Funnel",
+    "fill": {
+      "solid": [
+        0
+      ]
+    }
+  },
+  "magnifying-glass-plus": {
+    "category": "interface",
+    "tags": [
+      "zoom in",
+      "magnify",
+      "enlarge",
+      "search",
+      "scale"
+    ],
+    "phosphor": "MagnifyingGlassPlus"
+  },
+  "notches": {
+    "category": "interface",
+    "tags": [
+      "resize",
+      "grip",
+      "handle",
+      "drag",
+      "corner",
+      "textarea",
+      "resizer"
+    ],
+    "phosphor": "Notches"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "chat-circle": {
+    "category": "communication",
+    "tags": ["message", "comment", "bubble", "conversation", "talk"],
+    "phosphor": "ChatCircle",
+    "fill": { "solid": [0] }
+  },
+  "chat-circle-dots": {
+    "category": "communication",
+    "tags": ["message", "typing", "comment", "bubble", "reply"],
+    "phosphor": "ChatCircleDots",
+    "fill": { "solid": [0], "cut": [1, 2, 3] }
+  },
+  "chats-circle": {
+    "category": "communication",
+    "tags": ["messages", "conversation", "discussion", "thread", "chat"],
+    "phosphor": "ChatsCircle",
+    "fill": { "solid": [0], "line": [1] }
+  },
+  "phone": {
+    "category": "communication",
+    "tags": ["call", "telephone", "contact", "dial", "support"],
+    "phosphor": "Phone",
+    "fill": { "solid": [0] }
+  },
+  "at": {
+    "category": "communication",
+    "tags": ["email", "mention", "address", "username", "handle"],
+    "phosphor": "At"
+  },
+  "paper-plane-tilt": {
+    "category": "communication",
+    "tags": ["send", "submit", "message", "share", "deliver"],
+    "phosphor": "PaperPlaneTilt",
+    "fill": { "solid": [0], "cut": [1] }
+  },
+  "megaphone": {
+    "category": "communication",
+    "tags": ["announcement", "broadcast", "marketing", "promote", "news"],
+    "phosphor": "Megaphone",
+    "fill": { "solid": [0, 1] }
+  },
+  "envelope-open": {
+    "category": "communication",
+    "tags": ["email", "read", "mail", "opened", "inbox"],
+    "phosphor": "EnvelopeOpen",
+    "fill": { "solid": [0], "cut": [1] }
+  },
+  "bell-slash": {
+    "category": "communication",
+    "tags": ["mute", "silent", "notifications off", "disable", "quiet"],
+    "phosphor": "BellSlash",
+    "fill": { "solid": [0, 1, 2] }
+  },
+  "share-network": {
+    "category": "communication",
+    "tags": ["share", "social", "network", "connect", "distribute"],
+    "phosphor": "ShareNetwork",
+    "fill": { "solid": [0, 1, 2] }
+  },
+  "link": {
+    "category": "communication",
+    "tags": ["url", "hyperlink", "chain", "attach", "connect"],
+    "phosphor": "Link"
+  }
+}
